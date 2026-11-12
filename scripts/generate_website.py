@@ -1099,6 +1099,7 @@ def generate_home_page(ds):
         <span class="badge" style="background:rgba(255,255,255,0.18);color:#fff;border-color:rgba(255,255,255,0.3);margin-bottom:0.65rem;">Est. July 2000 · Modernized Edition</span>
         <h1>Welcome to the Muir Family Tree</h1>
         <p>Originally created as a 70th birthday present for <strong>Richard Francis Muir</strong> (25th July 1930 – 2019) from his years of genealogical research, and suggested by Lindsey Muir. Explore 19 generations of family history from 15th-century Scotland to the present day.</p>
+        <p><strong>Please note:</strong> this site has not been updated since 2000 and much of the content is out of date. Please bear that in mind when exploring.</p>
         <div class="hero-actions">
           <a href="tree/00000282.html" class="btn btn-primary" style="background:#d99b26;border-color:#d99b26;">Start at R. F. Muir's Family Tree →</a>
           <a href="tree/explorer.html" class="btn" style="background:rgba(255,255,255,0.14);color:#fff;border-color:rgba(255,255,255,0.35);">Interactive Tree Explorer</a>
