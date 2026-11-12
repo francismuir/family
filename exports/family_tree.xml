@@ -2505,7 +2505,7 @@
         <Spouse ref="00000282">Richard Francis MUIR</Spouse>
       </Spouses>
       <Children>
-        <Child ref="P1239">Andrews Alexander MUIR</Child>
+        <Child ref="P1239">Andrew Alexander MUIR</Child>
         <Child ref="00000242">Francis William Stuart MUIR</Child>
       </Children>
     </Person>
@@ -4302,8 +4302,8 @@
     </Person>
     <Person id="P1239" directAncestor="false" ahnentafel="" generation="-1" gender="M">
       <Surname>MUIR</Surname>
-      <GivenNames>Andrews Alexander</GivenNames>
-      <FullName>Andrews Alexander MUIR</FullName>
+      <GivenNames>Andrew Alexander</GivenNames>
+      <FullName>Andrew Alexander MUIR</FullName>
       <LifeDates>1961-????</LifeDates>
       <Birth>1961</Birth>
       <PrimaryTreePage>tree/00000282.html</PrimaryTreePage>
@@ -5421,7 +5421,7 @@
         <Spouse ref="00000140">Christine Mary GOSLING</Spouse>
       </Spouses>
       <Children>
-        <Child ref="P1239">Andrews Alexander MUIR</Child>
+        <Child ref="P1239">Andrew Alexander MUIR</Child>
         <Child ref="00000242">Francis William Stuart MUIR</Child>
       </Children>
     </Person>
@@ -11230,7 +11230,7 @@
       <Partner1 ref="00000282">Richard Francis MUIR</Partner1>
       <Partner2 ref="00000140">Christine Mary GOSLING</Partner2>
       <Children>
-        <Child ref="P1239">Andrews Alexander MUIR</Child>
+        <Child ref="P1239">Andrew Alexander MUIR</Child>
         <Child ref="00000242">Francis William Stuart MUIR</Child>
       </Children>
     </Family>

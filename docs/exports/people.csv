@@ -169,7 +169,7 @@ P1145,FRASER,Sir John,Sir John FRASER,No,,6,M,????-????,,,,,,,,P1438,Charlotte V
 P1557,FREER,Capt. Noah,Capt. Noah FREER,No,,5,M,????-????,,,,,,,,P1009,Margaret Douglas ANDERSON,,,tree/00000435.html,people/P1557.html
 P1146,GAROL,,GAROL,No,,7,M,????-????,,,,,,,,P1495,Joan WHITEWAY,,,tree/00000506.html,people/P1146.html
 P1147,GORE,Samantha,Samantha GORE,No,,-1,F,????-????,,,,,,,,P1328,Alexander PARSONS,,,tree/00000317.html,people/P1147.html
-00000140,GOSLING,Christine Mary,Christine Mary GOSLING,Yes,:1/0:,0,F,1935-2021,1935,2021,,,,,,00000282,Richard Francis MUIR,P1239; 00000242,Andrews Alexander MUIR; Francis William Stuart MUIR,tree/00000282.html,people/00000140.html
+00000140,GOSLING,Christine Mary,Christine Mary GOSLING,Yes,:1/0:,0,F,1935-2021,1935,2021,,,,,,00000282,Richard Francis MUIR,P1239; 00000242,Andrew Alexander MUIR; Francis William Stuart MUIR,tree/00000282.html,people/00000140.html
 P1148,GOULD,,GOULD,No,,7,U,????-????,,,,,,,,P1510,Richwarde WHITEWAY,,,tree/00000506.html,people/P1148.html
 00000141,GOULD,Thomasine,Thomasine GOULD,Yes,:5121/12:,12,F,????-1613,,1613,,,,,,00000511,William WHITEWAY,P1516; P1512; 00000470; P1479; P1503,William WHITEWAY; Thomasine WHITEWAY; Edward WHITEWAY; Agnes WHITEWAY; Margaret WHITEWAY,tree/00000511.html,people/00000141.html
 P1149,GOURLAY,Dr,Dr GOURLAY,No,,6,M,????-????,,,,,,,,P1434,Catherine VAN CORTLANDT,,,tree/00000446.html,people/P1149.html
@@ -289,7 +289,7 @@ P1235,MUIR,Allan Denis,Allan Denis MUIR,No,,0,U,1951-????,1951,,,,,,,,,,,tree/00
 P1236,MUIR,Amelia Wilson,Amelia Wilson MUIR,No,,3,F,1832-1914,1832,1914,,,,00000180; 00000280,Jean LOGAN; Rev Francis MUIR,P1470,James WALDIE,,,tree/00000280.html,people/P1236.html
 P1237,MUIR,Andrew,Andrew MUIR,No,,11,M,????-????,,,,,,00000261; 00000555,John MUIR; Helen YOUNG,,,,,tree/00000261.html,people/P1237.html
 P1238,MUIR,Andrew (Reo),Andrew (Reo) MUIR,No,,2,M,1878-1917,1878,1917,,,,P1300; P1546,Rev. Gavin Struthers MUIR; Helen Drysdale WILSON,P1062,Annie BROWN,P1222; P1296; P1287; P1298; P1297; P1299,Gwendolyn MIDDLETON; Maurice MUIR; Malcolm MUIR; Michael MUIR; Merlin MUIR; Reo MUIR,tree/00000214.html,people/P1238.html
-P1239,MUIR,Andrews Alexander,Andrews Alexander MUIR,No,,-1,M,1961-????,1961,,,,,00000140; 00000282,Christine Mary GOSLING; Richard Francis MUIR,,,,,tree/00000282.html,people/P1239.html
+P1239,MUIR,Andrew Alexander,Andrew Alexander MUIR,No,,-1,M,1961-????,1961,,,,,00000140; 00000282,Christine Mary GOSLING; Richard Francis MUIR,,,,,tree/00000282.html,people/P1239.html
 P1240,MUIR,Ann,Ann MUIR,No,,5,F,1779-????,1779,,,,,00000239; 00000402,Francis MUIR; Ann TORRANCE,,,,,tree/00000239.html,people/P1240.html
 P1241,MUIR,Anna,Anna MUIR,No,,0,F,1934-????,1934,,,,,,,,,,,tree/00000214.html,people/P1241.html
 P1242,MUIR,Anne,Anne MUIR,No,,4,F,1810-1818,1810,1818,,,,00000204; 00000551,Alexander MUIR; Amelia WILSON,,,,,tree/00000239.html,people/P1242.html
@@ -363,7 +363,7 @@ P1298,MUIR,Michael,Michael MUIR,No,,1,M,1914-1975,1914,1975,,,,P1062; P1238,Anni
 P1299,MUIR,Reo,Reo MUIR,No,,1,U,1918-????,1918,,,,,P1062; P1238,Annie BROWN; Andrew (Reo) MUIR,P1178,Beryl HOLLOWAY,,,tree/00000214.html,people/P1299.html
 00000280,MUIR,Rev Francis,Rev Francis MUIR,Yes,:16/4:,4,M,1797-1871,"1797, Strathaven","1871, Bonnington, Edinburgh",1828 Feb 5th,"Clerk in Holy Orders, Leith",,00000204; 00000551,Alexander MUIR; Amelia WILSON,00000180,Jean LOGAN,P1231; P1236; P1247; P1252; 00000238; P1277; P1279; P1281; P1285; P1293; P1300,Alexander MUIR; Amelia Wilson MUIR; Archibald William MUIR; Dr. John Stuart MUIR; Francis MUIR; James Logan MUIR; Janet Elizabeth MUIR; Jean Logan MUIR; Katherine Stuart MUIR; Mary Jane (Aunt Molly) MUIR; Rev. Gavin Struthers MUIR,tree/00000280.html,people/00000280.html
 P1300,MUIR,Rev. Gavin Struthers,Rev. Gavin Struthers MUIR,No,,3,M,1846-1927,1846,1927,,,,00000180; 00000280,Jean LOGAN; Rev Francis MUIR,P1546,Helen Drysdale WILSON,P1238; P1251; P1260; P1303,Andrew (Reo) MUIR; Dr. Ernest MUIR; Francis MUIR; Theodora MUIR,tree/00000280.html,people/P1300.html
-00000282,MUIR,Richard Francis,Richard Francis MUIR,Yes,:0/0:,0,M,1930-2019,1930,2019,,,,00000285; 00000523,Sir Edward Francis MUIR; Evelyn Mary WHITFIELD,00000140,Christine Mary GOSLING,P1239; 00000242,Andrews Alexander MUIR; Francis William Stuart MUIR,tree/00000282.html,people/00000282.html
+00000282,MUIR,Richard Francis,Richard Francis MUIR,Yes,:0/0:,0,M,1930-2019,1930,2019,,,,00000285; 00000523,Sir Edward Francis MUIR; Evelyn Mary WHITFIELD,00000140,Christine Mary GOSLING,P1239; 00000242,Andrew Alexander MUIR; Francis William Stuart MUIR,tree/00000282.html,people/00000282.html
 P1301,MUIR,Rodger Stewart,Rodger Stewart MUIR,No,,0,M,1955-????,1955,,,,,,,,,,,tree/00000214.html,people/P1301.html
 P1302,MUIR,Shiela,Shiela MUIR,No,,0,U,1940-????,1940,,,,,,,,,,,tree/00000214.html,people/P1302.html
 00000285,MUIR,Sir Edward Francis,Sir Edward Francis MUIR,Yes,:2/1:,1,M,1905 June 29th-1979,"1905 June 29th, Shottemill","1979, Midhurst",1928 July 7th 1928,Home Civil Service (MoW),,00000292; 00000486,William Edward MUIR; Logie Elizabeth WHITEWAY,00000523,Evelyn Mary WHITFIELD,P1258; 00000282,Evelyn Anne MUIR; Richard Francis MUIR,tree/00000292.html,people/00000285.html

@@ -277,7 +277,7 @@ SPOUSE,P1145,Sir John FRASER,P1438,Charlotte VAN CORTLANDT,6,6,
 SPOUSE,P1146,GAROL,P1495,Joan WHITEWAY,7,7,
 SPOUSE,P1147,Samantha GORE,P1328,Alexander PARSONS,-1,-1,
 SPOUSE,00000140,Christine Mary GOSLING,00000282,Richard Francis MUIR,0,0,
-PARENT_CHILD,00000140,Christine Mary GOSLING,P1239,Andrews Alexander MUIR,0,-1,Parent -> Child
+PARENT_CHILD,00000140,Christine Mary GOSLING,P1239,Andrew Alexander MUIR,0,-1,Parent -> Child
 PARENT_CHILD,00000140,Christine Mary GOSLING,00000242,Francis William Stuart MUIR,0,-1,Parent -> Child
 SPOUSE,P1148,GOULD,P1510,Richwarde WHITEWAY,7,7,
 SPOUSE,00000141,Thomasine GOULD,00000511,William WHITEWAY,12,12,
@@ -579,7 +579,7 @@ PARENT_CHILD,P1300,Rev. Gavin Struthers MUIR,P1238,Andrew (Reo) MUIR,3,2,Parent 
 PARENT_CHILD,P1300,Rev. Gavin Struthers MUIR,P1251,Dr. Ernest MUIR,3,2,Parent -> Child
 PARENT_CHILD,P1300,Rev. Gavin Struthers MUIR,P1260,Francis MUIR,3,2,Parent -> Child
 PARENT_CHILD,P1300,Rev. Gavin Struthers MUIR,P1303,Theodora MUIR,3,2,Parent -> Child
-PARENT_CHILD,00000282,Richard Francis MUIR,P1239,Andrews Alexander MUIR,0,-1,Parent -> Child
+PARENT_CHILD,00000282,Richard Francis MUIR,P1239,Andrew Alexander MUIR,0,-1,Parent -> Child
 PARENT_CHILD,00000282,Richard Francis MUIR,00000242,Francis William Stuart MUIR,0,-1,Parent -> Child
 SPOUSE,00000285,Sir Edward Francis MUIR,00000523,Evelyn Mary WHITFIELD,1,1,1928 July 7th 1928
 PARENT_CHILD,00000285,Sir Edward Francis MUIR,P1258,Evelyn Anne MUIR,1,0,Parent -> Child
