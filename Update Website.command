@@ -19,7 +19,19 @@ python3 scripts/generate_website.py
 
 if [ $? -eq 0 ]; then
   echo ""
-  echo "✅ Success! Your website (docs/index.html) and exports (exports/muir_family_tree.ged, .xlsx, .csv, .xml, .json) are now up to date."
+  echo "✅ Success! Your local website (docs/index.html) and exports (exports/muir_family_tree.ged, .xlsx, .csv, .xml, .json) are now up to date."
+  echo ""
+  read -q "REPLY?Would you also like to commit and publish these updates to https://francismuir.github.io/family/ now? (y/n) "
+  echo ""
+  if [[ "$REPLY" =~ ^[Yy]$ ]]; then
+    git add -A
+    git commit -m "Update family tree records from Excel workbook"
+    git push -u origin main
+    if [ $? -eq 0 ]; then
+      echo ""
+      echo "🚀 Published! GitHub Pages (https://francismuir.github.io/family/) will update in ~1 minute."
+    fi
+  fi
 else
   echo ""
   echo "❌ An error occurred while updating the website."
@@ -28,4 +40,3 @@ fi
 echo ""
 read -k 1 "?Press any key to close this window..."
 echo ""
-

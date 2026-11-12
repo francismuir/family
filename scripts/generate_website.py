@@ -2053,6 +2053,8 @@ def build_all():
     ds = build_dataset()
     export_paths = generate_all_exports(ds)
     os.makedirs(DOCS_DIR, exist_ok=True)
+    with open(os.path.join(DOCS_DIR, ".nojekyll"), "w", encoding="utf-8") as f:
+        f.write("")
     write_assets(ds)
     generate_home_page(ds)
     generate_tree_pages(ds)
