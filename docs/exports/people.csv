@@ -1,0 +1,697 @@
+Person_ID,Surname,Given_Names,Full_Name,Direct_Ancestor,Ahnentafel_Ref,Generation,Gender,Life_Dates,Birth,Death,Marriage,Profession,Notes,Parent_IDs,Parent_Names,Spouse_IDs,Spouse_Names,Child_IDs,Child_Names,Primary_Tree_Page,Person_Page
+P1001,ADDERLEY,Sir Augustas John,Sir Augustas John ADDERLEY,No,,3,M,1833-1905,1833,1905,,,,,,P1161,Letitia Anne HALL,,,,people/P1001.html
+P1002,AGUILA,Raphael del,Raphael del AGUILA,No,,-1,M,19??-????,19??,,,,,,,P1085,Fiona CREAGH-OSBORNE,,,tree/00000090.html,people/P1002.html
+P1003,ANDERSON,Capt. John,Capt. John ANDERSON,No,,2,M,????-????,,,,,,P1004; P1151,Col. Clinton ANDERSON; Dorothy GWYNNE,P1550,Brenda (??),,,tree/00000011.html,people/P1003.html
+00000008,ANDERSON,Catherine Ogden,Catherine Ogden ANDERSON,Yes,:45/5:,5,F,1802-1863 Jan 25th,1802,"1863 Jan 25th, Ootacamund",1825 Dec 15th,,"3rd daughter of John McKeil Anderson and Mary Ricketts Van Cortlandt. Mary was a daughter of Philip Van Cortlandt (1734-1814) of the Dutch/American Van Cortlandt family of New York, America. He was a ""Loyalist"" at the time of the American War of Independence and was disinherited by his family. Among his ancestors was Stephanus Van Cortland (1643-1700?), the first native born Mayor of New York City (1677). Catherine died at Ootacamundt in 1863 Inscribed tomb in St Stephen's Churchyard, Ooty. India.",00000435; 00000013,Mary Ricketts VAN CORTLANDT; John McKeil ANDERSON,00000030,Frederick John Joseph ANGELO,00000029; P1023; P1033; P1016; P1035; P1036; P1029; P1019; P1018,Frederick Cortlandt ANGELO; Elliot ANGELO; Major John ANGELO; Anthony Richard ANGELO; Martin Kenneth ANGELO; Mary ANGELO; Louisa ANGELO; Catherina ANGELO; Carolina ANGELO,tree/00000435.html,people/00000008.html
+P1004,ANDERSON,Col. Clinton,Col. Clinton ANDERSON,No,,3,M,????-????,,,,,,P1018; P1006,Carolina ANGELO; Gen. H ANDERSON,P1151,Dorothy GWYNNE,P1003,Capt. John ANDERSON,tree/00000011.html,people/P1004.html
+P1005,ANDERSON,Elizabeth,Elizabeth ANDERSON,No,,5,F,1799-????,1799,,,,,00000435; 00000013,Mary Ricketts VAN CORTLANDT; John McKeil ANDERSON,P1428,Captain Alex TROTTER,,,tree/00000435.html,people/P1005.html
+P1006,ANDERSON,Gen. H,Gen. H ANDERSON,No,,4,M,????-????,,,,,,,,P1018; P1023,Carolina ANGELO; Elliot ANGELO,P1004,Col. Clinton ANDERSON,tree/00000011.html,people/P1006.html
+P1007,ANDERSON,James,James ANDERSON,No,,5,M,1796-????,1796,,,,,00000435; 00000013,Mary Ricketts VAN CORTLANDT; John McKeil ANDERSON,,,,,tree/00000435.html,people/P1007.html
+00000013,ANDERSON,John McKeil,John McKeil ANDERSON,Yes,:90/6:,6,M,????-1804,,1804,,Indian Army ?,,,,00000435,Mary Ricketts VAN CORTLANDT,00000008; P1005; P1007; P1011; P1008; P1012; P1009,Catherine Ogden ANDERSON; Elizabeth ANDERSON; James ANDERSON; Mary Anne ANDERSON; John McNeil ANDERSON; Philip Cortlandt ANDERSON; Margaret Douglas ANDERSON,tree/00000435.html,people/00000013.html
+P1008,ANDERSON,John McNeil,John McNeil ANDERSON,No,,5,M,1791-????,1791,,,,,00000013; 00000435,John McKeil ANDERSON; Mary Ricketts VAN CORTLANDT,,,,,tree/00000435.html,people/P1008.html
+P1009,ANDERSON,Margaret Douglas,Margaret Douglas ANDERSON,No,,5,F,1803-????,1803,,,,,00000013; 00000435,John McKeil ANDERSON; Mary Ricketts VAN CORTLANDT,P1557,Capt. Noah FREER,,,tree/00000435.html,people/P1009.html
+P1010,ANDERSON,Mary,Mary ANDERSON,No,,6,F,????-????,,,,,,,,P1458,Philip VAN CORTLANDT,,,tree/00000446.html,people/P1010.html
+P1011,ANDERSON,Mary Anne,Mary Anne ANDERSON,No,,5,F,1789-????,1789,,,,,00000013; 00000435,John McKeil ANDERSON; Mary Ricketts VAN CORTLANDT,P1549,H YOUNG,,,tree/00000435.html,people/P1011.html
+P1012,ANDERSON,Philip Cortlandt,Philip Cortlandt ANDERSON,No,,5,M,1793-????,1793,,,,,00000013; 00000435,John McKeil ANDERSON; Mary Ricketts VAN CORTLANDT,P1549,H YOUNG,,,tree/00000435.html,people/P1012.html
+P1013,ANGELO,Adelaide,Adelaide ANGELO,No,,5,U,????-????,,,,,,00000403; 00000068,Anthony Angelo Malevolti TREMAMANDO; Elizabeth Mary (Martha) BLAND,P1385,Colonel J STEEL,,,tree/00000403.html,people/P1013.html
+P1014,ANGELO,Anne,Anne ANGELO,No,,5,F,????-????,,,,,,00000403; 00000068,Anthony Angelo Malevolti TREMAMANDO; Elizabeth Mary (Martha) BLAND,P1335,General PEMBERTON,,,tree/00000403.html,people/P1014.html
+P1015,ANGELO,Anthony Edward,Anthony Edward ANGELO,No,,5,M,1795-1883,1795,1883,,,,00000403; 00000068,Anthony Angelo Malevolti TREMAMANDO; Elizabeth Mary (Martha) BLAND,,,,,tree/00000403.html,people/P1015.html
+P1016,ANGELO,Anthony Richard,Anthony Richard ANGELO,No,,4,M,????-????,,,,,,00000008; 00000030,Catherine Ogden ANDERSON; Frederick John Joseph ANGELO,,,,,tree/00000403.html,people/P1016.html
+P1017,ANGELO,Beatrice,Beatrice ANGELO,No,,3,F,????-????,,,,,,P1033; P1060,Major John ANGELO; Amy BLYTH,P1359,Sir Frederick ROBERTSON,P1358,Aimee ROBERTSON,tree/00000041.html,people/P1017.html
+P1018,ANGELO,Carolina,Carolina ANGELO,No,,4,F,????-????,,,,,,00000008; 00000030,Catherine Ogden ANDERSON; Frederick John Joseph ANGELO,P1006,Gen. H ANDERSON,P1004,Col. Clinton ANDERSON,tree/00000011.html,people/P1018.html
+P1019,ANGELO,Catherina,Catherina ANGELO,No,,4,F,????-????,,,,,,00000008; 00000030,Catherine Ogden ANDERSON; Frederick John Joseph ANGELO,P1370,Col. SHORT,P1371; P1374; P1369; P1372; P1373,Emily SHORT; William SHORT; Capt. Edwin SHORT; Ernest SHORT; Maud SHORT,tree/00000362.html,people/P1019.html
+P1020,ANGELO,Catherine Cortlandt,Catherine Cortlandt ANGELO,No,,3,F,18??-1949,18??,1949,,,,00000029; 00000093,Frederick Cortlandt ANGELO; Helena Elizabeth Gordon CUMMING,,,,,tree/00000029.html,people/P1020.html
+P1021,ANGELO,Cecilia,Cecilia ANGELO,No,,5,F,1791-????,1791,,,,,00000403; 00000068,Anthony Angelo Malevolti TREMAMANDO; Elizabeth Mary (Martha) BLAND,P1375,Col W SIMONDS,,,tree/00000403.html,people/P1021.html
+P1022,ANGELO,Col. Cecil Cortlandt,Col. Cecil Cortlandt ANGELO,No,,3,M,????-????,,,,,,P1033; P1060,Major John ANGELO; Amy BLYTH,,,,,tree/00000041.html,people/P1022.html
+P1023,ANGELO,Elliot,Elliot ANGELO,No,,4,M,????-????,,,,,,00000008; 00000030,Catherine Ogden ANDERSON; Frederick John Joseph ANGELO,P1006; P1370; P1130; P1325,Gen. H ANDERSON; Col. SHORT; Col. Richard EVANS; Sir Richard OLDFIELD,,,tree/00000403.html,people/P1023.html
+00000029,ANGELO,Frederick Cortlandt,Frederick Cortlandt ANGELO,Yes,:22/4:,4,M,1826 Oct 6th-1857 Jun 27th,"1826 Oct 6th, Kurnaul India","1857 Jun 27th, in the massacre at Cawnpore.","1850 Oct 31st, Benares India","Bengal Army, mainly 16th BNI","Born at Karnal 6 Oct 1826. Educated by Dr Grieg of Leytonstone and at Addiscombe (1843-4). Returned to India ""overland"" 1845. Ensign 16th Bengal Native Infantry 10 Feb 1846, Lieutenant 6 Jan 1850. Faced General Court Martial at Dinapore 25 Oct 1847 for ""unbecoming conduct"", sentenced to ""severe reprimand"". Killed in the massacre at Cawnpore 27 June 1857. Married in Benares 31 Oct 1850 Memorial in All Saints Church Cawnpore.",00000008; 00000030,Catherine Ogden ANDERSON; Frederick John Joseph ANGELO,00000093,Helena Elizabeth Gordon CUMMING,P1020; 00000032; P1027,Catherine Cortlandt ANGELO; Helena Adelaide Cortlandt ANGELO; Lieut. Frederick Canning Cortlandt ANGELO,tree/00000029.html,people/00000029.html
+00000030,ANGELO,Frederick John Joseph,Frederick John Joseph ANGELO,Yes,:44/5:,5,M,1800 Jan 26th-1869 Jan 22nd,"1800 Jan 26th, London","1869 Jan 22nd, Ootacamund",1825 Dec 15th,"Bengal Cavalry, (7th LC)","Born London 26 Jan 1800. Cadet 1819. Admitted 14 June 1820. Cornet 10 Jan 1820. Lieutenant 14 Aug 1822. Captain 26 Aug 1831. Major 26 July 1841. Invalided 28 Sept 1841. Died Ootacamund 22 Jan 1869. Service: joined GG's Bodyguard 1820, posted as Cornet to 7th Light Cavalry 1821, Adjutant 7th LC 1825-26, Deputy Judge Advocate General Dinapore & Benares divisions 1832-1840 (also Sirhind Division 1835). Judge Advocate General to the Army of the Indus at Ferozapore during 1st Afghan War 1838-39. Married 15 December 1825.",00000403; 00000068,Anthony Angelo Malevolti TREMAMANDO; Elizabeth Mary (Martha) BLAND,00000008,Catherine Ogden ANDERSON,P1016; P1018; P1019; P1023; 00000029; P1033; P1035; P1036; P1029,Anthony Richard ANGELO; Carolina ANGELO; Catherina ANGELO; Elliot ANGELO; Frederick Cortlandt ANGELO; Major John ANGELO; Martin Kenneth ANGELO; Mary ANGELO; Louisa ANGELO,tree/00000403.html,people/00000030.html
+P1024,ANGELO,Georgina,Georgina ANGELO,No,,5,U,????-????,,,,,,00000403; 00000068,Anthony Angelo Malevolti TREMAMANDO; Elizabeth Mary (Martha) BLAND,,,,,tree/00000403.html,people/P1024.html
+00000032,ANGELO,Helena Adelaide Cortlandt,Helena Adelaide Cortlandt ANGELO,Yes,:11/3:,3,F,1853 Jun 22nd-1911,"1853 Jun 22nd, Etawah India","1911, Shottermill","1870 Dec 12th, Mynpoorie India",,,00000029; 00000093,Frederick Cortlandt ANGELO; Helena Elizabeth Gordon CUMMING,00000498,Richard Stephen WHITEWAY,P1491; 00000502; 00000486,Helen Isabel WHITEWAY; Stephen Evan Angelo WHITEWAY; Logie Elizabeth WHITEWAY,tree/00000029.html,people/00000032.html
+P1025,ANGELO,Irma,Irma ANGELO,No,,2,F,????-????,,,,,,P1032; P1382,Maj. Gen. Pakenham ANGELO; Maud SPRAGUE,P1380,Wing Com. E SPARLING,P1379; P1378,Penelope Ann SPARLING; Anthony SPARLING,tree/00000374.html,people/P1025.html
+P1026,ANGELO,John,John ANGELO,No,,5,M,1794-1860,1794,1860,,,,00000403; 00000068,Anthony Angelo Malevolti TREMAMANDO; Elizabeth Mary (Martha) BLAND,P1315,Eleanor NEATE,,,tree/00000403.html,people/P1026.html
+P1027,ANGELO,Lieut. Frederick Canning Cortlandt,Lieut. Frederick Canning Cortlandt ANGELO,No,,3,M,1857-1880,1857,1880,,,,00000029; 00000093,Frederick Cortlandt ANGELO; Helena Elizabeth Gordon CUMMING,,,,,tree/00000029.html,people/P1027.html
+P1028,ANGELO,Lillian,Lillian ANGELO,No,,3,F,????-????,,,,,,P1033; P1060,Major John ANGELO; Amy BLYTH,P1342,Sn. Maj. R POLDEN,P1340; P1341,Beatrice POLDEN; Dorothy POLDEN,tree/00000041.html,people/P1028.html
+P1029,ANGELO,Louisa,Louisa ANGELO,No,,4,F,????-????,,,,,,00000008; 00000030,Catherine Ogden ANDERSON; Frederick John Joseph ANGELO,P1130,Col. Richard EVANS,P1133; P1134; P1131; P1132,Frederick EVANS; Harriet EVANS; Edith EVANS; Florence EVANS,tree/00000126.html,people/P1029.html
+P1030,ANGELO,Louisa,Louisa ANGELO,No,,5,F,1789-????,1789,,,,,00000403; 00000068,Anthony Angelo Malevolti TREMAMANDO; Elizabeth Mary (Martha) BLAND,P1069,John BURKE,,,tree/00000403.html,people/P1030.html
+P1031,ANGELO,Mabel,Mabel ANGELO,No,,3,F,????-????,,,,,,P1033; P1060,Major John ANGELO; Amy BLYTH,P1171,Col. G HARDEN,P1172; P1173,Frederick HARDEN; George HARDEN,tree/00000041.html,people/P1031.html
+P1032,ANGELO,Maj. Gen. Pakenham,Maj. Gen. Pakenham ANGELO,No,,3,M,????-????,,,,,,P1033; P1060,Major John ANGELO; Amy BLYTH,P1382,Maud SPRAGUE,P1025,Irma ANGELO,tree/00000041.html,people/P1032.html
+P1033,ANGELO,Major John,Major John ANGELO,No,,4,M,????-????,,,,,,00000008; 00000030,Catherine Ogden ANDERSON; Frederick John Joseph ANGELO,P1060,Amy BLYTH,P1017; P1022; P1028; P1031; P1032,Beatrice ANGELO; Col. Cecil Cortlandt ANGELO; Lillian ANGELO; Mabel ANGELO; Maj. Gen. Pakenham ANGELO,tree/00000041.html,people/P1033.html
+P1034,ANGELO,Maria,Maria ANGELO,No,,5,F,????-????,,,,,,00000403; 00000068,Anthony Angelo Malevolti TREMAMANDO; Elizabeth Mary (Martha) BLAND,,,,,tree/00000403.html,people/P1034.html
+P1035,ANGELO,Martin Kenneth,Martin Kenneth ANGELO,No,,4,M,????-????,,,,,,00000008; 00000030,Catherine Ogden ANDERSON; Frederick John Joseph ANGELO,P1135,Mary Phillipa FARRELL,,,tree/00000403.html,people/P1035.html
+P1036,ANGELO,Mary,Mary ANGELO,No,,4,F,????-????,,,,,,00000008; 00000030,Catherine Ogden ANDERSON; Frederick John Joseph ANGELO,P1325,Sir Richard OLDFIELD,P1323; P1318; P1324,Maj. H OLDFIELD; Col. Christopher OLDFIELD; Maud OLDFIELD,tree/00000311.html,people/P1036.html
+P1037,ANGELO,Matilda,Matilda ANGELO,No,,5,U,????-????,,,,,,00000403; 00000068,Anthony Angelo Malevolti TREMAMANDO; Elizabeth Mary (Martha) BLAND,,,,,tree/00000403.html,people/P1037.html
+P1038,ANGELO,Richard,Richard ANGELO,No,,5,M,1802-1869,1802,1869,,,,00000403; 00000068,Anthony Angelo Malevolti TREMAMANDO; Elizabeth Mary (Martha) BLAND,P1210,Elizabeth MANSELL,,,tree/00000403.html,people/P1038.html
+P1039,ANGELO,Rosalinda,Rosalinda ANGELO,No,,5,U,1791-????,1791,,,,,00000403; 00000068,Anthony Angelo Malevolti TREMAMANDO; Elizabeth Mary (Martha) BLAND,P1071,Surgeon Major CATELL,,,tree/00000403.html,people/P1039.html
+P1040,ANGELO,Warren Hastings,Warren Hastings ANGELO,No,,5,U,1797?-1832,1797?,1832,,,,00000403; 00000068,Anthony Angelo Malevolti TREMAMANDO; Elizabeth Mary (Martha) BLAND,,,,,tree/00000403.html,people/P1040.html
+00000644,ANGELO MALEVOLTI,Dominico,Dominico ANGELO MALEVOLTI,No,,7,M,1717-1802,1717,1802,,Master of Equitation & Fencing to - among many others - Frederick Prince of Wales,Married (1755)d. of Capt Chester RN,00000050; 00000187,Giacomo ANGELO TREMAMANDO; Catterina MALEVOLTI,P1558,Daughter of Capt. Chester RN CHESTER,,,,people/00000644.html
+00000049,ANGELO MALEVOLTI TREMAMANDO,John ?,John ? ANGELO MALEVOLTI TREMAMANDO,Yes,:176/8:,8,M,????-????,,,,,of Edinburgh ?,00000050; 00000187,Giacomo ANGELO TREMAMANDO; Catterina MALEVOLTI,P1336,PESCARA ??,,,,people/00000049.html
+00000050,ANGELO TREMAMANDO,Giacomo,Giacomo ANGELO TREMAMANDO,Yes,:352/8:,8,M,????-of Livorno,,of Livorno,1713 Dec 3rd,,of Livorno,,,00000187,Catterina MALEVOLTI,00000644; 00000049,Dominico ANGELO MALEVOLTI; John ? ANGELO MALEVOLTI TREMAMANDO,,people/00000050.html
+00000051,ARCHE,Marion,Marion ARCHE,Yes,:8193/13:,13,F,????-1611,,1611,,,,,,00000262,John MUIR,00000261; P1268,John MUIR; Isabel MUIR,tree/00000262.html,people/00000051.html
+P1041,ARMITAGE,Dorothy,Dorothy ARMITAGE,No,,2,F,18??-19??,18??,19??,,,,,,P1260,Francis MUIR,,,tree/00000280.html,people/P1041.html
+P1042,AULD,Charles,Charles AULD,No,,4,M,????-????,,,,,,,,P1194,Isabella LOGAN,,,tree/00000176.html,people/P1042.html
+P1043,AYTON,John,John AYTON,No,,13,M,????-????,,,,,,,,P1405,Margaret STEUART,,,tree/00000381.html,people/P1043.html
+P1044,BAILEY,Fergus Andrew Whitburn,Fergus Andrew Whitburn BAILEY,No,,-2,M,1993-????,1993,,,,,P1104; P1047,Alison Jane DUFFIELD; Matthew Philip Whitburn BAILEY,,,,,tree/00000113.html,people/P1044.html
+P1045,BAILEY,Gemma Catherine Jane,Gemma Catherine Jane BAILEY,No,,-2,F,1997-????,1997,,,,,P1104; P1047,Alison Jane DUFFIELD; Matthew Philip Whitburn BAILEY,,,,,tree/00000113.html,people/P1045.html
+P1046,BAILEY,Mai Le,Mai Le BAILEY,No,,3,F,????-????,,,,,,,,P1318,Col. Christopher OLDFIELD,P1321; P1319,Guy OLDFIELD; Dorothy OLDFIELD,tree/00000311.html,people/P1046.html
+P1047,BAILEY,Matthew Philip Whitburn,Matthew Philip Whitburn BAILEY,No,,-1,M,1961-????,1961,,,,,,,P1104,Alison Jane DUFFIELD,P1044; P1045; P1048,Fergus Andrew Whitburn BAILEY; Gemma Catherine Jane BAILEY; Robert Douglas Whitburn BAILEY,tree/00000113.html,people/P1047.html
+P1048,BAILEY,Robert Douglas Whitburn,Robert Douglas Whitburn BAILEY,No,,-2,M,1995-????,1995,,,,,P1047; P1104,Matthew Philip Whitburn BAILEY; Alison Jane DUFFIELD,,,,,tree/00000113.html,people/P1048.html
+P1049,BAIRD,Heather,Heather BAIRD,No,,0,U,????-????,,,,,,,,,,,,tree/00000214.html,people/P1049.html
+P1050,BAKER,Jane,Jane BAKER,No,,-1,F,19??-????,19??,,,,,,,P1086,Roger CREAGH-OSBORNE,,,tree/00000090.html,people/P1050.html
+P1051,BALL,,BALL,No,,8,M,????-????,,,,,,,,P1120,Margaret ENDACOTT,,,tree/00000118.html,people/P1051.html
+P1052,BALL,William,William BALL,No,,6,M,????-????,,,,,,,,P1114,Joan ENDACOTT,,,tree/00000122.html,people/P1052.html
+P1053,BARKER,Peter,Peter BARKER,No,,0,M,1933-????,1933,,,,,,,P1209,Eileen Vartan MACLENNAN,,,tree/00000229.html,people/P1053.html
+P1054,BAYARD,Col Samuel,Col Samuel BAYARD,No,,9,M,????-????,,,,,,,,P1453,Margaret VAN CORTLANDT,,,tree/00000447.html,people/P1054.html
+P1055,BEAUMONT,Frederick S,Frederick S BEAUMONT,No,,3,M,????-????,,,,,,,,P1156,Clara Louisa HALL,,,,people/P1055.html
+P1056,BEEKMAN,Col Henry,Col Henry BEEKMAN,No,,9,M,????-????,,,,,,,,P1447; P1446,Gertrude VAN CORTLANDT; Gertrude VAN CORTLANDT,,,tree/00000447.html,people/P1056.html
+P1057,BENNET,Pamela,Pamela BENNET,No,,0,F,1943-????,1943,,,,,,,P1208,Dr. Ian Calman Muir MACLENNAN,,,tree/00000229.html,people/P1057.html
+P1058,BENNING,James Parkin,James Parkin BENNING,No,,4,M,1787-????,1787,,,,,,,P1518,Alice WHITFIELD,,,tree/00000532.html,people/P1058.html
+00000065,BENNING,Jane Barbara,Jane Barbara BENNING,Yes,,4,F,1793-1861,1793,1861,,,,,,00000545,William WHITFIELD,P1541; 00000565; P1528; P1521; P1530; P1526; P1539; P1536,William Benning WHITFIELD; George WHITFIELD; James Benning WHITFIELD; Charles WHITFIELD; John WHITFIELD; Henry WHITFIELD; Septimus Augustus WHITFIELD; Octavius WHITFIELD,tree/00000545.html,people/00000065.html
+P1059,BENSON (?),Hannah,Hannah BENSON (?),No,,4,F,????-????,,,,,,,,P1531,John WHITFIELD,,,tree/00000532.html,people/P1059.html
+00000068,BLAND,Elizabeth Mary (Martha),Elizabeth Mary (Martha) BLAND,Yes,:89/6:,6,F,1767-1831,1767,1831,1787,,,,,00000403,Anthony Angelo Malevolti TREMAMANDO,P1013; P1014; P1015; P1021; 00000030; P1024; P1026; P1030; P1034; P1037; P1038; P1039; P1040,Adelaide ANGELO; Anne ANGELO; Anthony Edward ANGELO; Cecilia ANGELO; Frederick John Joseph ANGELO; Georgina ANGELO; John ANGELO; Louisa ANGELO; Maria ANGELO; Matilda ANGELO; Richard ANGELO; Rosalinda ANGELO; Warren Hastings ANGELO,tree/00000403.html,people/00000068.html
+P1060,BLYTH,Amy,Amy BLYTH,No,,4,F,????-????,,,,,,,,P1033,Major John ANGELO,P1017; P1022; P1028; P1031; P1032,Beatrice ANGELO; Col. Cecil Cortlandt ANGELO; Lillian ANGELO; Mabel ANGELO; Maj. Gen. Pakenham ANGELO,tree/00000041.html,people/P1060.html
+P1061,BOYD,Lord,Lord BOYD,No,,15,M,????-????,,,,,,,,P1410,Mary STEUART,,,tree/00000385.html,people/P1061.html
+P1062,BROWN,Annie,Annie BROWN,No,,2,F,1884-1976,1884,1976,,,,,,P1238,Andrew (Reo) MUIR,P1296; P1287; P1298; P1222; P1297; P1299,Maurice MUIR; Malcolm MUIR; Michael MUIR; Gwendolyn MIDDLETON; Merlin MUIR; Reo MUIR,tree/00000214.html,people/P1062.html
+P1063,BROWN,Jessie,Jessie BROWN,No,,4,F,????-????,,,,,,,,P1198,John LOGAN,,,tree/00000176.html,people/P1063.html
+P1064,BROWN,Judith Marion,Judith Marion BROWN,No,,0,F,1954-????,1954,,,,,,,,,,,tree/00000214.html,people/P1064.html
+P1065,BROWNING,,BROWNING,No,,13,M,????-????,,,,,,,,P1278,Janet MUIR,,,tree/00000262.html,people/P1065.html
+P1066,BROWNLIE,David,David BROWNLIE,No,,0,M,19??-????,19??,,,,,,,P1330,Diana PARSONS,P1067; P1068,Glen BROWNLIE; Martin BROWNLIE,tree/00000073.html,people/P1066.html
+P1067,BROWNLIE,Glen,Glen BROWNLIE,No,,-1,U,1972-????,1972,,,,,P1066; P1330,David BROWNLIE; Diana PARSONS,,,,,tree/00000073.html,people/P1067.html
+P1068,BROWNLIE,Martin,Martin BROWNLIE,No,,-1,M,1969-????,1969,,,,,P1066; P1330,David BROWNLIE; Diana PARSONS,,,,,tree/00000073.html,people/P1068.html
+P1069,BURKE,John,John BURKE,No,,5,M,????-????,,,,,,,,P1030,Louisa ANGELO,,,tree/00000403.html,people/P1069.html
+P1070,BUTLER RN,Captain Sir Edward,Captain Sir Edward BUTLER RN,No,,6,M,????-????,,,,,,,,P1445,Gertrude VAN CORTLANDT,,,tree/00000446.html,people/P1070.html
+P1071,CATELL,Surgeon Major,Surgeon Major CATELL,No,,5,U,????-????,,,,,,,,P1039,Rosalinda ANGELO,,,tree/00000403.html,people/P1071.html
+P1072,CESSFORD,Gillian Elizabeth,Gillian Elizabeth CESSFORD,No,,-1,F,1957-????,1957,,,,,,,P1102,Adrian Richard DUFFIELD,P1105; P1103,Frederick George DUFFIELD; Alastair James DUFFIELD,tree/00000113.html,people/P1072.html
+P1558,CHESTER,Daughter of Capt. Chester RN,Daughter of Capt. Chester RN CHESTER,No,,7,F,????-????,,,,,,,,00000644,Dominico ANGELO MALEVOLTI,,,,people/P1558.html
+P1073,CHESTER,Paul,Paul CHESTER,No,,0,M,????-????,,,,,,,,,,,,tree/00000214.html,people/P1073.html
+P1074,CHRISTIE,Janet,Janet CHRISTIE,No,,6,F,????-????,,,,,,,,P1413,Robert STEUART,,,tree/00000387.html,people/P1074.html
+P1075,COCKCROFT,Joan,Joan COCKCROFT,No,,1,F,1924-1989,1924,1989,,,,,,P1297,Merlin MUIR,,,tree/00000214.html,people/P1075.html
+P1076,CODNER,Thomas,Thomas CODNER,No,,4,M,????-????,,,,,,,,P1486,Elizabeth WHITEWAY,,,tree/00000504.html,people/P1076.html
+P1077,COOPER,Charles,Charles COOPER,No,,2,M,????-????,,,,,,,,P1341,Dorothy POLDEN,P1078; P1079,Joan COOPER; Nancy COOPER,tree/00000083.html,people/P1077.html
+P1078,COOPER,Joan,Joan COOPER,No,,1,F,????-????,,,,,,P1077; P1341,Charles COOPER; Dorothy POLDEN,,,,,tree/00000083.html,people/P1078.html
+P1079,COOPER,Nancy,Nancy COOPER,No,,1,U,????-????,,,,,,P1077; P1341,Charles COOPER; Dorothy POLDEN,,,,,tree/00000083.html,people/P1079.html
+P1080,CORPE,Charlotte,Charlotte CORPE,No,,4,F,1805-1880,1805,1880,,,,,,P1524,George Pinckney WHITFIELD,,,tree/00000532.html,people/P1080.html
+P1081,COUPER,Andrew,Andrew COUPER,No,,10,M,????-????,,,,,,,,P1390,Christine STEUART,,,tree/00000380.html,people/P1081.html
+P1082,COUTTS,,COUTTS,No,,6,M,????-????,,,,,,,,P1409,Mary STEUART,,,tree/00000387.html,people/P1082.html
+P1083,COYSH,,COYSH,No,,6,M,????-????,,,,,,,,P1123,Mary ENDACOTT,,,tree/00000122.html,people/P1083.html
+P1084,CREAGH-OSBORNE,Clare,Clare CREAGH-OSBORNE,No,,-1,U,1955-????,1955,,,,,P1355; P1087,Elizabeth Jane Ann ROBERTS; Francis CREAGH-OSBORNE RN,,,,,tree/00000090.html,people/P1084.html
+P1085,CREAGH-OSBORNE,Fiona,Fiona CREAGH-OSBORNE,No,,-1,F,1957-????,1957,,,,,P1355; P1087,Elizabeth Jane Ann ROBERTS; Francis CREAGH-OSBORNE RN,P1002,Raphael del AGUILA,,,tree/00000090.html,people/P1085.html
+P1086,CREAGH-OSBORNE,Roger,Roger CREAGH-OSBORNE,No,,-1,M,1957-????,1957,,,,,P1355; P1087,Elizabeth Jane Ann ROBERTS; Francis CREAGH-OSBORNE RN,P1050,Jane BAKER,,,tree/00000090.html,people/P1086.html
+P1087,CREAGH-OSBORNE RN,Francis,Francis CREAGH-OSBORNE RN,No,,0,M,19??-1957,19??,1957,,,,,,P1355,Elizabeth Jane Ann ROBERTS,P1084; P1085; P1086,Clare CREAGH-OSBORNE; Fiona CREAGH-OSBORNE; Roger CREAGH-OSBORNE,tree/00000090.html,people/P1087.html
+P1088,CRICHTON,Sir William (?),Sir William (?) CRICHTON,No,,15,M,????-????,,,,,,,,P1406,Margaret STEUART,,,tree/00000385.html,people/P1088.html
+00000091,CROCKET,Agnes,Agnes CROCKET,Yes,:561/9:,9,F,????-????,,,,,,,,00000391,Walter STEUART,P1415; 00000387; P1393,Walter STEUART; John STEUART; Hannah STEUART,tree/00000384.html,people/00000091.html
+P1089,CULLING,Richard,Richard CULLING,No,,11,M,????-1640,,1640,,,,,,P1479,Agnes WHITEWAY,,,tree/00000511.html,people/P1089.html
+00000093,CUMMING,Helena Elizabeth Gordon,Helena Elizabeth Gordon CUMMING,Yes,:23/4:,4,F,1817-1908,1817,1908,"1850 Oct 31st, Benares India",,"With her two daughters was among the last Europeans to leave Cawnpore before the siege. Her eldest daughter, Helena, was born at Etawah on June 22 1853 and her youngest child, Frederick, was born at Calcutta after the death of his father",,,00000029,Frederick Cortlandt ANGELO,P1020; 00000032; P1027,Catherine Cortlandt ANGELO; Helena Adelaide Cortlandt ANGELO; Lieut. Frederick Canning Cortlandt ANGELO,tree/00000029.html,people/00000093.html
+P1090,CURIE,Annette Una,Annette Una CURIE,No,,0,U,1954-????,1954,,,,,,,,,,,tree/00000214.html,people/P1090.html
+P1091,CURTIS,Ada,Ada CURTIS,No,,1,F,????-????,,,,,,P1128; P1092,Gwendolen ENGLISH; F CURTIS,,,,,tree/00000126.html,people/P1091.html
+P1092,CURTIS,F,F CURTIS,No,,2,M,????-????,,,,,,,,P1128,Gwendolen ENGLISH,P1091,Ada CURTIS,tree/00000126.html,people/P1092.html
+P1093,CUTLER,Genevieve,Genevieve CUTLER,No,,-1,U,1977-????,1977,,,,,P1332; P1095,Philippa PARSONS; David CUTLER RAF,,,,,tree/00000099.html,people/P1093.html
+P1094,CUTLER,Kirsten,Kirsten CUTLER,No,,-1,U,1978-????,1978,,,,,P1332; P1095,Philippa PARSONS; David CUTLER RAF,,,,,tree/00000099.html,people/P1094.html
+P1095,CUTLER RAF,David,David CUTLER RAF,No,,0,M,19??-????,19??,,,,,,,P1332,Philippa PARSONS,P1093; P1094,Genevieve CUTLER; Kirsten CUTLER,tree/00000099.html,people/P1095.html
+00000100,DAVIDSON,Jean,Jean DAVIDSON,Yes,:71/6:,6,F,????-1783,,1783,,,,,,00000386,John STEUART,00000582,Katherine STEUART,tree/00000386.html,people/00000100.html
+P1096,DAVIES,Clare,Clare DAVIES,No,,-1,F,1964-????,1964,,,,,,,P1107,Nicholas Thomas DUFFIELD,,,tree/00000113.html,people/P1096.html
+P1097,DE LANCY,Stephane,Stephane DE LANCY,No,,9,M,????-????,,,,,,,,P1432,Ann VAN CORTLANDT,,,tree/00000447.html,people/P1097.html
+00000103,DEPEYSTER,Catherine,Catherine DEPEYSTER,Yes,:729/9:,9,F,????-????,,,,,,,,00000439,Philip VAN CORTLANDT,00000446; P1431; P1459; P1451; P1460; P1435,Stephen VAN CORTLANDT; Abraham VAN CORTLANDT; Philip VAN CORTLANDT; John VAN CORTLANDT; Pierre VAN CORTLANDT; Catherine VAN CORTLANDT,tree/00000447.html,people/00000103.html
+P1098,DEWELL,John,John DEWELL,No,,10,M,????-????,,,,,,,,P1437,Catherine VAN CORTLANDT,,,tree/00000448.html,people/P1098.html
+P1099,DIXON,Glennys Robyn,Glennys Robyn DIXON,No,,0,U,1949-????,1949,,,,,,,,,,,tree/00000214.html,people/P1099.html
+P1100,DREW,Davide,Davide DREW,No,,0,U,1938-????,1938,,,,,,,,,,,tree/00000214.html,people/P1100.html
+P1101,DRUMMOND,"David, Lord","David, Lord DRUMMOND",No,,13,M,????-????,,,,,,,,P1408,Marjory STEUART,,,tree/00000381.html,people/P1101.html
+P1102,DUFFIELD,Adrian Richard,Adrian Richard DUFFIELD,No,,-1,M,1960-????,1960,,,,,P1537; P1108,Patricia Jane WHITFIELD; Richard Measham DUFFIELD,P1072,Gillian Elizabeth CESSFORD,P1105; P1103,Frederick George DUFFIELD; Alastair James DUFFIELD,tree/00000113.html,people/P1102.html
+P1103,DUFFIELD,Alastair James,Alastair James DUFFIELD,No,,-2,M,1995-????,1995,,,,,P1072; P1102,Gillian Elizabeth CESSFORD; Adrian Richard DUFFIELD,,,,,tree/00000113.html,people/P1103.html
+P1104,DUFFIELD,Alison Jane,Alison Jane DUFFIELD,No,,-1,F,1961-????,1961,,,,,P1537; P1108,Patricia Jane WHITFIELD; Richard Measham DUFFIELD,P1047,Matthew Philip Whitburn BAILEY,P1044; P1045; P1048,Fergus Andrew Whitburn BAILEY; Gemma Catherine Jane BAILEY; Robert Douglas Whitburn BAILEY,tree/00000113.html,people/P1104.html
+P1105,DUFFIELD,Frederick George,Frederick George DUFFIELD,No,,-2,M,1991-????,1991,,,,,P1072; P1102,Gillian Elizabeth CESSFORD; Adrian Richard DUFFIELD,,,,,tree/00000113.html,people/P1105.html
+P1106,DUFFIELD,Jocelyn Alice,Jocelyn Alice DUFFIELD,No,,-1,F,1970-????,1970,,,,,P1537; P1108,Patricia Jane WHITFIELD; Richard Measham DUFFIELD,,,,,tree/00000113.html,people/P1106.html
+P1107,DUFFIELD,Nicholas Thomas,Nicholas Thomas DUFFIELD,No,,-1,M,1962-????,1962,,,,,P1537; P1108,Patricia Jane WHITFIELD; Richard Measham DUFFIELD,P1096,Clare DAVIES,,,tree/00000113.html,people/P1107.html
+P1108,DUFFIELD,Richard Measham,Richard Measham DUFFIELD,No,,0,M,1936-????,1936,,,,,,,P1537,Patricia Jane WHITFIELD,P1102; P1104; P1106; P1107,Adrian Richard DUFFIELD; Alison Jane DUFFIELD; Jocelyn Alice DUFFIELD; Nicholas Thomas DUFFIELD,tree/00000113.html,people/P1108.html
+P1109,EALES,John,John EALES,No,,4,M,????-????,,,,,,,,P1483,Charlotte WHITEWAY,,,tree/00000504.html,people/P1109.html
+P1110,EDWARDS,Thomas,Thomas EDWARDS,No,,4,M,????-????,,,,,,,,P1480,Agnes Maye WHITEWAY,,,tree/00000504.html,people/P1110.html
+P1111,ELLIOT,Captain Onesiphrus,Captain Onesiphrus ELLIOT,No,,6,M,????-????,,,,,,,,P1454,Margaret Hughes VAN CORTLANDT,,,tree/00000446.html,people/P1111.html
+P1112,ENDACOTT,Ebott,Ebott ENDACOTT,No,,7,F,????-????,,,,,,00000122; 00000005,Thomas ENDACOTT; Mary (??),,,,,tree/00000122.html,people/P1112.html
+00000117,ENDACOTT,Elizabeth,Elizabeth ENDACOTT,Yes,:21/4:,4,F,1809-1876,1809,1876,,,,00000119,Stephen ENDACOTT,00000497,Richard WHITEWAY,00000498; P1487,Richard Stephen WHITEWAY; Elizabeth Endacott WHITEWAY,tree/00000497.html,people/00000117.html
+P1113,ENDACOTT,Harriett,Harriett ENDACOTT,No,,4,F,????-????,,,,,,00000119,Stephen ENDACOTT,P1417,Capt. SWEETING RN SP,,,tree/00000120.html,people/P1113.html
+P1114,ENDACOTT,Joan,Joan ENDACOTT,No,,6,F,????-????,,,,,,00000121,Stephen ENDACOTT,P1052,William BALL,,,tree/00000122.html,people/P1114.html
+P1115,ENDACOTT,Joan,Joan ENDACOTT,No,,7,F,????-????,,,,,,00000122; 00000005,Thomas ENDACOTT; Mary (??),,,,,tree/00000122.html,people/P1115.html
+P1116,ENDACOTT,Joan,Joan ENDACOTT,No,,8,F,????-????,,,,,,00000118; 00000001,John ENDACOTT; Elinor (??),P1427,TOTHILL,,,tree/00000118.html,people/P1116.html
+P1117,ENDACOTT,Joanna,Joanna ENDACOTT,No,,5,F,????-????,,,,,,00000120; 00000614,Stephen ENDACOTT; Joan (??),,,,,tree/00000120.html,people/P1117.html
+00000118,ENDACOTT,John,John ENDACOTT,Yes,:672/9:,9,M,????-1691,,1691,,,"of Ideford, Devon",,,00000001,Elinor (??),P1116; P1119; 00000122; P1120,Joan ENDACOTT; John ENDACOTT; Thomas ENDACOTT; Margaret ENDACOTT,tree/00000118.html,people/00000118.html
+P1118,ENDACOTT,John,John ENDACOTT,No,,6,M,????-1754,,1754,,,,00000121,Stephen ENDACOTT,P1551,Johanna (??),,,tree/00000122.html,people/P1118.html
+P1119,ENDACOTT,John,John ENDACOTT,No,,8,M,????-1696,,1696,,,,00000118; 00000001,John ENDACOTT; Elinor (??),P1120,Margaret ENDACOTT,,,tree/00000118.html,people/P1119.html
+P1120,ENDACOTT,Margaret,Margaret ENDACOTT,No,,8,F,????-????,,,,,,00000118; 00000001,John ENDACOTT; Elinor (??),P1051; P1119,BALL; John ENDACOTT,,,tree/00000118.html,people/P1120.html
+P1121,ENDACOTT,Mary,Mary ENDACOTT,No,,4,F,????-????,,,,,,00000119,Stephen ENDACOTT,,,,,tree/00000120.html,people/P1121.html
+P1122,ENDACOTT,Mary,Mary ENDACOTT,No,,5,F,????-????,,,,,,00000120; 00000614,Stephen ENDACOTT; Joan (??),,,,,tree/00000120.html,people/P1122.html
+P1123,ENDACOTT,Mary,Mary ENDACOTT,No,,6,F,????-????,,,,,,00000121,Stephen ENDACOTT,P1083,COYSH,,,tree/00000122.html,people/P1123.html
+00000119,ENDACOTT,Stephen,Stephen ENDACOTT,Yes,:42/5:,5,M,????-1835 (8),,1835 (8),,,,00000120; 00000614,Stephen ENDACOTT; Joan (??),,,00000117; P1113; P1121; P1125,Elizabeth ENDACOTT; Harriett ENDACOTT; Mary ENDACOTT; Stephen ENDACOTT,tree/00000120.html,people/00000119.html
+00000120,ENDACOTT,Stephen,Stephen ENDACOTT,Yes,:84/6:,6,M,????-1777,,1777,,,,00000121,Stephen ENDACOTT,00000614,Joan (??),P1117; P1122; 00000119,Joanna ENDACOTT; Mary ENDACOTT; Stephen ENDACOTT,tree/00000120.html,people/00000120.html
+00000121,ENDACOTT,Stephen,Stephen ENDACOTT,Yes,:168/7:,7,M,????-1746(?),,1746(?),,,,00000122; 00000005,Thomas ENDACOTT; Mary (??),,,P1114; P1118; P1123; 00000120,Joan ENDACOTT; John ENDACOTT; Mary ENDACOTT; Stephen ENDACOTT,tree/00000122.html,people/00000121.html
+P1124,ENDACOTT,Stephen,Stephen ENDACOTT,No,,3,M,????-1894,,1894,,,,P1125,Stephen ENDACOTT,,,,,tree/00000603.html,people/P1124.html
+P1125,ENDACOTT,Stephen,Stephen ENDACOTT,No,,4,M,????-1876,,1876,,,,00000119,Stephen ENDACOTT,,,P1124,Stephen ENDACOTT,tree/00000603.html,people/P1125.html
+00000122,ENDACOTT,Thomas,Thomas ENDACOTT,Yes,:336/8:,8,M,????-1719,,1719,,,,00000118; 00000001,John ENDACOTT; Elinor (??),00000005,Mary (??),P1112; P1115; 00000121; P1126,Ebott ENDACOTT; Joan ENDACOTT; Stephen ENDACOTT; Thomas ENDACOTT,tree/00000122.html,people/00000122.html
+P1126,ENDACOTT,Thomas,Thomas ENDACOTT,No,,7,M,????-1707,,1707,,,,00000122; 00000005,Thomas ENDACOTT; Mary (??),,,,,tree/00000122.html,people/P1126.html
+P1127,ENGLISH,E,E ENGLISH,No,,3,M,????-????,,,,,,,,P1134,Harriet EVANS,P1128,Gwendolen ENGLISH,tree/00000126.html,people/P1127.html
+P1128,ENGLISH,Gwendolen,Gwendolen ENGLISH,No,,2,F,????-????,,,,,,P1127; P1134,E ENGLISH; Harriet EVANS,P1092,F CURTIS,P1091,Ada CURTIS,tree/00000126.html,people/P1128.html
+P1129,ESDALE,Capt.,Capt. ESDALE,No,,2,M,????-????,,,,,,,,P1319,Dorothy OLDFIELD,P1320,Elizabeth OLDFIELD,tree/00000311.html,people/P1129.html
+P1130,EVANS,Col. Richard,Col. Richard EVANS,No,,4,M,????-????,,,,,,,,P1023; P1029,Elliot ANGELO; Louisa ANGELO,P1133; P1134; P1131; P1132,Frederick EVANS; Harriet EVANS; Edith EVANS; Florence EVANS,tree/00000126.html,people/P1130.html
+P1131,EVANS,Edith,Edith EVANS,No,,3,F,????-????,,,,,,P1029; P1130,Louisa ANGELO; Col. Richard EVANS,,,,,tree/00000126.html,people/P1131.html
+P1132,EVANS,Florence,Florence EVANS,No,,3,F,????-????,,,,,,P1029; P1130,Louisa ANGELO; Col. Richard EVANS,,,,,tree/00000126.html,people/P1132.html
+P1133,EVANS,Frederick,Frederick EVANS,No,,3,M,????-????,,,,,,P1029; P1130,Louisa ANGELO; Col. Richard EVANS,,,,,tree/00000126.html,people/P1133.html
+P1134,EVANS,Harriet,Harriet EVANS,No,,3,F,????-????,,,,,,P1029; P1130,Louisa ANGELO; Col. Richard EVANS,P1127,E ENGLISH,P1128,Gwendolen ENGLISH,tree/00000126.html,people/P1134.html
+P1135,FARRELL,Mary Phillipa,Mary Phillipa FARRELL,No,,4,F,????-????,,,,,,,,P1035,Martin Kenneth ANGELO,,,tree/00000403.html,people/P1135.html
+P1136,FERGUSON,Margaret,Margaret FERGUSON,No,,2,F,1888-1981,1888,1981,,,,,,P1165,John Muir HAMILTON,P1163,Aimee Charlotte Muir HAMILTON,tree/00000701.html,people/P1136.html
+P1137,FFERGUSON,Alexander,Alexander FFERGUSON,No,,9,M,????-????,,,,,,,,P1398,Jean STEUART,,,tree/00000384.html,people/P1137.html
+P1138,FFERGUSON,William,William FFERGUSON,No,,9,M,????-????,,,,,,,,P1395,Isobell STEUART,,,tree/00000384.html,people/P1138.html
+P1139,FITZMAURICE,Catherine,Catherine FITZMAURICE,No,,0,F,????-????,,,,,,P1186; P1141,Nancy LEAKE; Maj. Sir Desmond FITZMAURICE,P1142,Maurice FITZMAURICE,,,tree/00000170.html,people/P1139.html
+P1140,FITZMAURICE,Elizabeth,Elizabeth FITZMAURICE,No,,0,F,????-????,,,,,,P1186; P1141,Nancy LEAKE; Maj. Sir Desmond FITZMAURICE,,,,,tree/00000170.html,people/P1140.html
+P1141,FITZMAURICE,Maj. Sir Desmond,Maj. Sir Desmond FITZMAURICE,No,,1,M,????-????,,,,,,,,P1186,Nancy LEAKE,P1139; P1140; P1143; P1142,Catherine FITZMAURICE; Elizabeth FITZMAURICE; Noreen FITZMAURICE; Maurice FITZMAURICE,tree/00000170.html,people/P1141.html
+P1142,FITZMAURICE,Maurice,Maurice FITZMAURICE,No,,0,M,????-????,,,,,,P1141; P1186,Maj. Sir Desmond FITZMAURICE; Nancy LEAKE,P1139,Catherine FITZMAURICE,,,tree/00000170.html,people/P1142.html
+P1143,FITZMAURICE,Noreen,Noreen FITZMAURICE,No,,0,F,????-????,,,,,,P1141; P1186,Maj. Sir Desmond FITZMAURICE; Nancy LEAKE,P1225,Admiral Sir Godfrey MILTON-THOMAS RN,,,tree/00000170.html,people/P1143.html
+P1144,FLEMING,Charlotte,Charlotte FLEMING,No,,4,F,1808-1878,1808,1878,,,,,,P1282,John MUIR,P1243; P1230,Annie Ferguson MUIR; Aimie Wilson MUIR,tree/00000264.html,people/P1144.html
+P1145,FRASER,Sir John,Sir John FRASER,No,,6,M,????-????,,,,,,,,P1438,Charlotte VAN CORTLANDT,,,tree/00000446.html,people/P1145.html
+P1557,FREER,Capt. Noah,Capt. Noah FREER,No,,5,M,????-????,,,,,,,,P1009,Margaret Douglas ANDERSON,,,tree/00000435.html,people/P1557.html
+P1146,GAROL,,GAROL,No,,7,M,????-????,,,,,,,,P1495,Joan WHITEWAY,,,tree/00000506.html,people/P1146.html
+P1147,GORE,Samantha,Samantha GORE,No,,-1,F,????-????,,,,,,,,P1328,Alexander PARSONS,,,tree/00000317.html,people/P1147.html
+00000140,GOSLING,Christine Mary,Christine Mary GOSLING,Yes,:1/0:,0,F,1935-2021,1935,2021,,,,,,00000282,Richard Francis MUIR,P1239; 00000242,Andrews Alexander MUIR; Francis William Stuart MUIR,tree/00000282.html,people/00000140.html
+P1148,GOULD,,GOULD,No,,7,U,????-????,,,,,,,,P1510,Richwarde WHITEWAY,,,tree/00000506.html,people/P1148.html
+00000141,GOULD,Thomasine,Thomasine GOULD,Yes,:5121/12:,12,F,????-1613,,1613,,,,,,00000511,William WHITEWAY,P1516; P1512; 00000470; P1479; P1503,William WHITEWAY; Thomasine WHITEWAY; Edward WHITEWAY; Agnes WHITEWAY; Margaret WHITEWAY,tree/00000511.html,people/00000141.html
+P1149,GOURLAY,Dr,Dr GOURLAY,No,,6,M,????-????,,,,,,,,P1434,Catherine VAN CORTLANDT,,,tree/00000446.html,people/P1149.html
+P1150,GREIG,Agnes S,Agnes S GREIG,No,,4,F,????-????,,,,,,,,P1192; P1200,Alexander Steuart LOGAN; John Steuart LOGAN,,,tree/00000176.html,people/P1150.html
+00000144,GUELDRES,Mary,Mary GUELDRES,Yes,:71681/16:,16,F,????-????,,,1449 July 3rd,,d. of Arnold Duke of Gueldres,,,00000385,James STEUART,00000689; P1410; 00000382; P1406; 00000692; P1391,James STEUART; Mary STEUART; Alexander STEUART; Margaret STEUART; John STEUART; David STEUART,tree/00000385.html,people/00000144.html
+P1151,GWYNNE,Dorothy,Dorothy GWYNNE,No,,3,F,????-????,,,,,,,,P1004,Col. Clinton ANDERSON,P1003,Capt. John ANDERSON,tree/00000011.html,people/P1151.html
+P1152,HALL,Agnes Mary,Agnes Mary HALL,No,,3,F,1847-ob.inf,1847,ob.inf,,,,00000148; 00000194,William Henry HALL; Margaret MICHELL,P1476,Capt. W H WHATLEY,,,,people/P1152.html
+P1153,HALL,Agnes Mary,Agnes Mary HALL,No,,3,F,1852-1883,1852,1883,,,,00000148; 00000194,William Henry HALL; Margaret MICHELL,,,,,,people/P1153.html
+P1154,HALL,Alicia Julia,Alicia Julia HALL,No,,3,F,1843-1844,1843,1844,,,,00000148; 00000194,William Henry HALL; Margaret MICHELL,,,,,,people/P1154.html
+P1155,HALL,Alp Arslan,Alp Arslan HALL,No,,3,M,1857-????,1857,,,,,00000148; 00000194,William Henry HALL; Margaret MICHELL,P1556,Sarah (??),,,,people/P1155.html
+P1156,HALL,Clara Louisa,Clara Louisa HALL,No,,3,F,1861-????,1861,,,,,00000148; 00000194,William Henry HALL; Margaret MICHELL,P1055,Frederick S BEAUMONT,,,,people/P1156.html
+P1157,HALL,Edward Michell,Edward Michell HALL,No,,3,M,1841-1864,1841,1864,,,,00000148; 00000194,William Henry HALL; Margaret MICHELL,,,,,,people/P1157.html
+P1158,HALL,Edward Michell,Edward Michell HALL,No,,3,M,1837-1839,1837,1839,,,,00000148; 00000194,William Henry HALL; Margaret MICHELL,,,,,,people/P1158.html
+00000146,HALL,Ellen Margaret,Ellen Margaret HALL,Yes,:9/3:,3,F,1848 Aug 15th-1944,"1848 Aug 15th, Nassau, Bahamas","1944, USA",,,,00000148; 00000194,William Henry HALL; Margaret MICHELL,00000238,Francis MUIR,P1262; 00000292,Frank William MUIR; William Edward MUIR,tree/00000280.html,people/00000146.html
+P1159,HALL,Grace Margaret,Grace Margaret HALL,No,,1,F,????-1991,,1991,,,,,,P1533,Lawrence Elwood WHITFIELD,,,tree/00000525.html,people/P1159.html
+P1160,HALL,John Lees,John Lees HALL,No,,3,M,1855-ob.inf,1855,ob.inf,,,,00000148; 00000194,William Henry HALL; Margaret MICHELL,,,,,,people/P1160.html
+P1161,HALL,Letitia Anne,Letitia Anne HALL,No,,3,F,1839-????,1839,,,,,00000148; 00000194,William Henry HALL; Margaret MICHELL,P1001,Sir Augustas John ADDERLEY,,,,people/P1161.html
+00000148,HALL,William Henry,William Henry HALL,Yes,:18/4:,4,M,1817-1891,1817,"1891, St Kitts",,"Banker, Nassau Bahamas","Buried ""Middle Island Church"" St Kitts",,,00000194,Margaret MICHELL,P1152; P1153; P1154; P1155; P1156; P1157; P1158; 00000146; P1160; P1161; P1162,Agnes Mary HALL; Agnes Mary HALL; Alicia Julia HALL; Alp Arslan HALL; Clara Louisa HALL; Edward Michell HALL; Edward Michell HALL; Ellen Margaret HALL; John Lees HALL; Letitia Anne HALL; William Henry HALL,,people/00000148.html
+P1162,HALL,William Henry,William Henry HALL,No,,3,M,1850-1874,1850,1874,,,,00000148; 00000194,William Henry HALL; Margaret MICHELL,,,,,,people/P1162.html
+P1163,HAMILTON,Aimee Charlotte Muir,Aimee Charlotte Muir HAMILTON,No,,1,F,1918-????,1918,,,,,P1136; P1165,Margaret FERGUSON; John Muir HAMILTON,P1307,William MUIR,P1284; P1310,John Hamilton MUIR; William Letham MUIR,tree/00000701.html,people/P1163.html
+P1164,HAMILTON,Alison,Alison HAMILTON,No,,0,F,1947-????,1947,,,,,,,P1331,Nicholas PARSONS,P1328; P1329,Alexander PARSONS; Claudia PARSONS,tree/00000317.html,people/P1164.html
+00000150,HAMILTON,Janet,Janet HAMILTON,Yes,:2049/11:,11,F,????-1621,,1621,,,,,,00000260,John MUIR,00000220; P1295; P1271; P1306; P1265,Archibald MUIR; Mathew MUIR; Isobell MUIR; Thomas MUIR; Henry MUIR,tree/00000261.html,people/00000150.html
+P1165,HAMILTON,John Muir,John Muir HAMILTON,No,,2,M,1888-1973,1888,1973,,,,P1230; P1168,Aimie Wilson MUIR; William HAMILTON,P1136,Margaret FERGUSON,P1163,Aimee Charlotte Muir HAMILTON,tree/00000701.html,people/P1165.html
+P1166,HAMILTON,Lord,Lord HAMILTON,No,,15,M,????-????,,,,,,,,,,,,tree/00000385.html,people/P1166.html
+P1167,HAMILTON,Sir Patrick,Sir Patrick HAMILTON,No,,14,M,????-????,,,,,,,,P1403,Katherine STEUART,,,tree/00000385.html,people/P1167.html
+P1168,HAMILTON,William,William HAMILTON,No,,3,M,1844-1897,1844,1897,,,,,,P1230,Aimie Wilson MUIR,P1165,John Muir HAMILTON,tree/00000264.html,people/P1168.html
+P1169,HARDEN,Alexander,Alexander HARDEN,No,,1,M,????-????,,,,,,P1172; P1360,Frederick HARDEN; Marjorie RODDY,,,,,tree/00000154.html,people/P1169.html
+P1170,HARDEN,Anne,Anne HARDEN,No,,1,F,????-????,,,,,,P1173; P1352,George HARDEN; Eanswythe Wood RENTON,,,,,tree/00000155.html,people/P1170.html
+P1171,HARDEN,Col. G,Col. G HARDEN,No,,3,M,????-????,,,,,,,,P1031,Mabel ANGELO,P1172; P1173,Frederick HARDEN; George HARDEN,tree/00000041.html,people/P1171.html
+P1172,HARDEN,Frederick,Frederick HARDEN,No,,2,M,????-????,,,,,,P1031; P1171,Mabel ANGELO; Col. G HARDEN,P1360,Marjorie RODDY,P1169; P1174,Alexander HARDEN; Robert HARDEN,tree/00000154.html,people/P1172.html
+P1173,HARDEN,George,George HARDEN,No,,2,M,????-????,,,,,,P1031; P1171,Mabel ANGELO; Col. G HARDEN,P1352,Eanswythe Wood RENTON,P1170; P1175,Anne HARDEN; Sheila HARDEN,tree/00000155.html,people/P1173.html
+P1174,HARDEN,Robert,Robert HARDEN,No,,1,M,????-????,,,,,,P1172; P1360,Frederick HARDEN; Marjorie RODDY,,,,,tree/00000154.html,people/P1174.html
+P1175,HARDEN,Sheila,Sheila HARDEN,No,,1,F,????-????,,,,,,P1173; P1352,George HARDEN; Eanswythe Wood RENTON,,,,,tree/00000155.html,people/P1175.html
+P1176,HAWKE,Linda Gaye,Linda Gaye HAWKE,No,,0,F,1951-????,1951,,,,,,,,,,,tree/00000214.html,people/P1176.html
+P1177,HENDRY,Isobell,Isobell HENDRY,No,,8,F,????-????,,,,,,,,P1415,Walter STEUART,,,tree/00000384.html,people/P1177.html
+00000159,HICKLEY,Elizabeth,Elizabeth HICKLEY,Yes,,6,F,1720-1800,1720,1800,,,,,,00000532,John WHITFIELD,00000533; P1540,John WHITFIELD; William WHITFIELD,tree/00000532.html,people/00000159.html
+P1178,HOLLOWAY,Beryl,Beryl HOLLOWAY,No,,1,U,1925-????,1925,,,,,,,P1299,Reo MUIR,,,tree/00000214.html,people/P1178.html
+00000161,HOSAY,Jean,Jean HOSAY,Yes,:137/7:,7,F,????-????,,,,,,,,00000181,John LOGAN,00000176,Alexander LOGAN,tree/00000177.html,people/00000161.html
+P1179,JEFFREYS,Gen. D,Gen. D JEFFREYS,No,,3,M,????-????,,,,,,,,P1324,Maud OLDFIELD,,,tree/00000311.html,people/P1179.html
+P1180,JOHNSON,Andrew,Andrew JOHNSON,No,,9,M,????-????,,,,,,,,P1436,Catherine VAN CORTLANDT,,,tree/00000447.html,people/P1180.html
+00000164,JOHNSTON,Jean,Jean JOHNSTON,Yes,:545/9:,9,F,????-????,,,,,,,,00000179,James LOGAN,00000177,Alexander LOGAN,tree/00000179.html,people/00000164.html
+P1181,K ??,Elizabeth,Elizabeth K ??,No,,7,F,????-????,,,,,,,,P1466,William Rickets VAN CORTLANDT,,,tree/00000446.html,people/P1181.html
+P1182,KEIGHLEY,Col. Vernon,Col. Vernon KEIGHLEY,No,,2,M,????-????,,,,,,,,P1358,Aimee ROBERTSON,P1183; P1184,Dereck KEIGHLEY; Lt. Geoffrey KEIGHLEY,tree/00000165.html,people/P1182.html
+P1183,KEIGHLEY,Dereck,Dereck KEIGHLEY,No,,1,U,????-????,,,,,,P1182; P1358,Col. Vernon KEIGHLEY; Aimee ROBERTSON,,,,,tree/00000165.html,people/P1183.html
+P1184,KEIGHLEY,Lt. Geoffrey,Lt. Geoffrey KEIGHLEY,No,,1,U,????-????,,,,,,P1182; P1358,Col. Vernon KEIGHLEY; Aimee ROBERTSON,,,,,tree/00000165.html,people/P1184.html
+P1185,KEMBLE,Peter,Peter KEMBLE,No,,9,M,????-????,,,,,,,,P1453,Margaret VAN CORTLANDT,,,tree/00000447.html,people/P1185.html
+P1186,LEAKE,Nancy,Nancy LEAKE,No,,1,F,????-????,,,,,,P1491; 00000170,Helen Isabel WHITEWAY; Rev. John Sherlock LEAKE,P1141,Maj. Sir Desmond FITZMAURICE,P1139; P1140; P1142; P1143,Catherine FITZMAURICE; Elizabeth FITZMAURICE; Maurice FITZMAURICE; Noreen FITZMAURICE,tree/00000170.html,people/P1186.html
+00000170,LEAKE,Rev. John Sherlock,Rev. John Sherlock LEAKE,No,,2,M,????-????,,,,,First Rector of Grayswood,,,P1491,Helen Isabel WHITEWAY,P1186,Nancy LEAKE,tree/00000170.html,people/00000170.html
+00000683,LESLIE,John,John LESLIE,No,,13,M,????-????,,,,,of Wards,,,P1402,Katherine STEUART,,,tree/00000381.html,people/00000683.html
+P1187,LITTLE,Caroline,Caroline LITTLE,No,,0,F,1946-1996,1946,1996,,,,P1500; P1189,Kathleen WHITEWAY; David LITTLE RN,,,,,tree/00000502.html,people/P1187.html
+P1188,LITTLE,Edwina,Edwina LITTLE,No,,0,F,1946-1996,1946,1996,,,,P1500; P1189,Kathleen WHITEWAY; David LITTLE RN,P1348,John PUGSLEY RN,,,tree/00000502.html,people/P1188.html
+P1189,LITTLE RN,David,David LITTLE RN,No,,1,M,????-????,,,,,,,,P1500,Kathleen WHITEWAY,P1187; P1188,Caroline LITTLE; Edwina LITTLE,tree/00000502.html,people/P1189.html
+P1190,LIVINGSTONE,Joanna,Joanna LIVINGSTONE,No,,8,F,????-????,,,,,,,,P1460,Pierre VAN CORTLANDT,,,tree/00000447.html,people/P1190.html
+00000175,LOCKERMAN,Annetje,Annetje LOCKERMAN,Yes,:2913/11:,11,F,????-????,,,"1642, New Amsterdam",,,,,00000448,Oloff Stevense VAN CORTLANDT,00000447; P1455; P1452; P1462; P1437; P1441; 00000426,Stephanus VAN CORTLANDT; Maria VAN CORTLANDT; John VAN CORTLANDT; Sophia VAN CORTLANDT; Catherine VAN CORTLANDT; Cornelia VAN CORTLANDT; Jacobus VAN CORTLANDT,tree/00000448.html,people/00000175.html
+00000176,LOGAN,Alexander,Alexander LOGAN,Yes,:68/6:,6,M,1737-????,1737,,,,,00000161; 00000181,Jean HOSAY; John LOGAN,00000193,Janet MCILWHAM,P1199; P1197; P1203; 00000178; P1196; P1193; P1191,John LOGAN; Jean LOGAN; Margaret LOGAN; James LOGAN; Janet LOGAN; Archibald LOGAN; Alexander LOGAN,tree/00000176.html,people/00000176.html
+00000177,LOGAN,Alexander,Alexander LOGAN,Yes,:272/8:,8,M,????-????,,,,,,00000164; 00000179,Jean JOHNSTON; James LOGAN,,,00000181,John LOGAN,tree/00000177.html,people/00000177.html
+P1191,LOGAN,Alexander,Alexander LOGAN,No,,5,M,????-????,,,,,,00000176; 00000193,Alexander LOGAN; Janet MCILWHAM,,,,,tree/00000176.html,people/P1191.html
+P1192,LOGAN,Alexander Steuart,Alexander Steuart LOGAN,No,,4,M,1811-1862,1811,1862,,,,00000178; 00000582,James LOGAN; Katherine STEUART,P1150,Agnes S GREIG,,,tree/00000176.html,people/P1192.html
+P1193,LOGAN,Archibald,Archibald LOGAN,No,,5,M,????-????,,,,,,00000176; 00000193,Alexander LOGAN; Janet MCILWHAM,,,,,tree/00000176.html,people/P1193.html
+P1194,LOGAN,Isabella,Isabella LOGAN,No,,4,F,1818-????,1818,,,,,00000178; 00000582,James LOGAN; Katherine STEUART,P1042,Charles AULD,,,tree/00000176.html,people/P1194.html
+00000178,LOGAN,James,James LOGAN,Yes,:34/5:,5,M,1762-1841,1762,1841,,Clerk in Holy Orders,,00000176; 00000193,Alexander LOGAN; Janet MCILWHAM,00000582,Katherine STEUART,P1192; P1194; 00000180; P1200; P1205; P1195; P1202; P1198; P1204; P1201,Alexander Steuart LOGAN; Isabella LOGAN; Jean LOGAN; John Steuart LOGAN; Mary LOGAN; Janet LOGAN; Margaret LOGAN; John LOGAN; Marion Steuart LOGAN; Margaret LOGAN,tree/00000176.html,people/00000178.html
+00000179,LOGAN,James,James LOGAN,Yes,:544/9:,9,M,????-????,,,,Merchant of Glasgow c. 1691,,,,00000164,Jean JOHNSTON,00000177,Alexander LOGAN,tree/00000179.html,people/00000179.html
+P1195,LOGAN,Janet,Janet LOGAN,No,,4,F,1815-????,1815,,,,,00000178; 00000582,James LOGAN; Katherine STEUART,P1217,John MCROBIE,,,tree/00000176.html,people/P1195.html
+P1196,LOGAN,Janet,Janet LOGAN,No,,5,F,????-????,,,,,,00000176; 00000193,Alexander LOGAN; Janet MCILWHAM,,,,,tree/00000176.html,people/P1196.html
+00000180,LOGAN,Jean,Jean LOGAN,Yes,:17/4:,4,F,1808-1869,1808,1869,1828 Feb 5th,,,00000178; 00000582,James LOGAN; Katherine STEUART,00000280,Rev Francis MUIR,P1285; P1231; P1236; P1277; P1293; 00000238; P1279; P1252; P1300; P1281; P1247,Katherine Stuart MUIR; Alexander MUIR; Amelia Wilson MUIR; James Logan MUIR; Mary Jane (Aunt Molly) MUIR; Francis MUIR; Janet Elizabeth MUIR; Dr. John Stuart MUIR; Rev. Gavin Struthers MUIR; Jean Logan MUIR; Archibald William MUIR,tree/00000280.html,people/00000180.html
+P1197,LOGAN,Jean,Jean LOGAN,No,,5,F,1762-????,1762,,,,,00000176; 00000193,Alexander LOGAN; Janet MCILWHAM,,,,,tree/00000176.html,people/P1197.html
+00000181,LOGAN,John,John LOGAN,Yes,:136/7:,7,M,????-????,,,,,,00000177,Alexander LOGAN,00000161,Jean HOSAY,00000176,Alexander LOGAN,tree/00000177.html,people/00000181.html
+P1198,LOGAN,John,John LOGAN,No,,4,M,1820-????,1820,,,,,00000178; 00000582,James LOGAN; Katherine STEUART,P1063; P1474,Jessie BROWN; Helen M WEIR,,,tree/00000176.html,people/P1198.html
+P1199,LOGAN,John,John LOGAN,No,,5,M,1760-????,1760,,,,,00000176; 00000193,Alexander LOGAN; Janet MCILWHAM,,,,,tree/00000176.html,people/P1199.html
+P1200,LOGAN,John Steuart,John Steuart LOGAN,No,,4,M,1810-ob.inf,1810,ob.inf,,,,00000178; 00000582,James LOGAN; Katherine STEUART,P1150,Agnes S GREIG,,,tree/00000176.html,people/P1200.html
+P1201,LOGAN,Margaret,Margaret LOGAN,No,,4,F,1824-1825,1824,1825,,,,00000178; 00000582,James LOGAN; Katherine STEUART,,,,,tree/00000176.html,people/P1201.html
+P1202,LOGAN,Margaret,Margaret LOGAN,No,,4,F,1817-ob.inf,1817,ob.inf,,,,00000178; 00000582,James LOGAN; Katherine STEUART,,,,,tree/00000176.html,people/P1202.html
+P1203,LOGAN,Margaret,Margaret LOGAN,No,,5,F,1764-????,1764,,,,,00000176; 00000193,Alexander LOGAN; Janet MCILWHAM,,,,,tree/00000176.html,people/P1203.html
+P1204,LOGAN,Marion Steuart,Marion Steuart LOGAN,No,,4,F,1822-????,1822,,,,,00000178; 00000582,James LOGAN; Katherine STEUART,P1214,William MCCLURE,,,tree/00000176.html,people/P1204.html
+P1205,LOGAN,Mary,Mary LOGAN,No,,4,F,1813-1852,1813,1852,,,,00000178; 00000582,James LOGAN; Katherine STEUART,,,,,tree/00000176.html,people/P1205.html
+P1206,LUSCOMBE,Philip,Philip LUSCOMBE,No,,4,M,????-????,,,,,,,,P1482,Anna Maria WHITEWAY,,,tree/00000504.html,people/P1206.html
+00000183,MACKEY,Ann,Ann MACKEY,Yes,:39/5:,5,F,????-????,,,,,,,,00000196,Richard Alexander Slocombe MICHELL,P1219; P1221; P1220; 00000194; P1218,Ann Catherine MICHELL; Jane Caroline MICHELL; Francis MICHELL; Margaret MICHELL; Alexander Horne MICHELL,,people/00000183.html
+P1207,MACLENNAN,Calman,Calman MACLENNAN,No,,1,M,1905-1943,1905,1943,,,,,,P1292,Mary Helen MUIR,P1209; P1208,Eileen Vartan MACLENNAN; Dr. Ian Calman Muir MACLENNAN,tree/00000229.html,people/P1207.html
+P1208,MACLENNAN,Dr. Ian Calman Muir,Dr. Ian Calman Muir MACLENNAN,No,,0,M,1939-????,1939,,,,,P1207; P1292,Calman MACLENNAN; Mary Helen MUIR,P1057,Pamela BENNET,,,tree/00000229.html,people/P1208.html
+P1209,MACLENNAN,Eileen Vartan,Eileen Vartan MACLENNAN,No,,0,F,1939-????,1939,,,,,P1207; P1292,Calman MACLENNAN; Mary Helen MUIR,P1053,Peter BARKER,,,tree/00000229.html,people/P1209.html
+00000187,MALEVOLTI,Catterina,Catterina MALEVOLTI,Yes,:353/8:,8,F,????-????,,,1713 Dec 3rd,,of Siena,,,00000050,Giacomo ANGELO TREMAMANDO,00000644; 00000049,Dominico ANGELO MALEVOLTI; John ? ANGELO MALEVOLTI TREMAMANDO,,people/00000187.html
+P1210,MANSELL,Elizabeth,Elizabeth MANSELL,No,,5,F,????-????,,,,,,,,P1038,Richard ANGELO,,,tree/00000403.html,people/P1210.html
+P1211,MARCHAND,Louise Therese Henriette,Louise Therese Henriette MARCHAND,No,,2,F,18??-1880,18??,1880,,,,,,P1542,William Henry WHITFIELD,,,tree/00000545.html,people/P1211.html
+P1212,MATHEWS,William,William MATHEWS,No,,4,M,????-????,,,,,,,,P1504,Mary WHITEWAY,,,tree/00000504.html,people/P1212.html
+00000191,MAYE,Agnes,Agnes MAYE,Yes,:41/5:,5,F,1758-1802,1758,1802,,,,,,00000503,Thomas WHITEWAY,P1504; P1486; P1480; P1511; P1482; P1497; P1513; P1483; 00000497; 00000492; P1490,Mary WHITEWAY; Elizabeth WHITEWAY; Agnes Maye WHITEWAY; Thomas WHITEWAY; Anna Maria WHITEWAY; John WHITEWAY; William WHITEWAY; Charlotte WHITEWAY; Richard WHITEWAY; Philip WHITEWAY; George Farwell WHITEWAY,tree/00000504.html,people/00000191.html
+P1213,MAYE,Mary,Mary MAYE,No,,4,F,1796-1859,1796,1859,,,,,,P1497,John WHITEWAY,,,tree/00000504.html,people/P1213.html
+P1214,MCCLURE,William,William MCCLURE,No,,4,M,????-????,,,,,,,,P1204,Marion Steuart LOGAN,,,tree/00000176.html,people/P1214.html
+P1215,MCGIBBON,John,John MCGIBBON,No,,6,M,????-????,,,,,,,,P1401,Katherine STEUART,,,tree/00000387.html,people/P1215.html
+00000193,MCILWHAM,Janet,Janet MCILWHAM,Yes,:69/6:,6,F,????-????,,,,,,,,00000176,Alexander LOGAN,P1191; P1193; 00000178; P1196; P1197; P1199; P1203,Alexander LOGAN; Archibald LOGAN; James LOGAN; Janet LOGAN; Jean LOGAN; John LOGAN; Margaret LOGAN,tree/00000176.html,people/00000193.html
+P1216,MCILWHAM,Janet,Janet MCILWHAM,No,,6,F,????-????,,,,,,,,,,,,,people/P1216.html
+P1217,MCROBIE,John,John MCROBIE,No,,4,M,????-????,,,,,,,,P1195,Janet LOGAN,,,tree/00000176.html,people/P1217.html
+P1218,MICHELL,Alexander Horne,Alexander Horne MICHELL,No,,4,M,1818-ob.inf,1818,ob.inf,,,,00000183; 00000196,Ann MACKEY; Richard Alexander Slocombe MICHELL,,,,,,people/P1218.html
+P1219,MICHELL,Ann Catherine,Ann Catherine MICHELL,No,,4,F,1808-1885,1808,1885,,,,00000183; 00000196,Ann MACKEY; Richard Alexander Slocombe MICHELL,P1377,Joseph Elias SOLOMON,,,,people/P1219.html
+P1220,MICHELL,Francis,Francis MICHELL,No,,4,M,1813-1818,1813,1818,,,,00000183; 00000196,Ann MACKEY; Richard Alexander Slocombe MICHELL,,,,,,people/P1220.html
+P1221,MICHELL,Jane Caroline,Jane Caroline MICHELL,No,,4,F,1811-1828,1811,1828,,,,00000183; 00000196,Ann MACKEY; Richard Alexander Slocombe MICHELL,,,,,,people/P1221.html
+00000194,MICHELL,Margaret,Margaret MICHELL,Yes,:19/4:,4,F,1815-1885,"1815, Nassau (?)",1885,,,,00000183; 00000196,Ann MACKEY; Richard Alexander Slocombe MICHELL,00000148,William Henry HALL,P1152; P1153; P1154; P1155; P1156; P1157; P1158; 00000146; P1160; P1161; P1162,Agnes Mary HALL; Agnes Mary HALL; Alicia Julia HALL; Alp Arslan HALL; Clara Louisa HALL; Edward Michell HALL; Edward Michell HALL; Ellen Margaret HALL; John Lees HALL; Letitia Anne HALL; William Henry HALL,,people/00000194.html
+00000195,MICHELL,Richard,Richard MICHELL,Yes,:76/6:,6,M,????-????,,,,,"of Langport, Somerset",,,00000370,Catherine SLOCOMBE,00000196,Richard Alexander Slocombe MICHELL,,people/00000195.html
+00000196,MICHELL,Richard Alexander Slocombe,Richard Alexander Slocombe MICHELL,Yes,:38/5:,5,M,1782-1820,1782,1820,,"Royal Navy, later ""Searcher of Customs"" Bahamas and (?) ""Inspector of Lights"" Bahamas.",,00000195; 00000370,Richard MICHELL; Catherine SLOCOMBE,00000183,Ann MACKEY,P1218; P1219; P1220; P1221; 00000194,Alexander Horne MICHELL; Ann Catherine MICHELL; Francis MICHELL; Jane Caroline MICHELL; Margaret MICHELL,,people/00000196.html
+P1222,MIDDLETON,Gwendolyn,Gwendolyn MIDDLETON,No,,1,U,1916-????,1916,,,,,P1062; P1238,Annie BROWN; Andrew (Reo) MUIR,,,,,tree/00000214.html,people/P1222.html
+P1223,MILL,Margaret,Margaret MILL,No,,9,F,????-????,,,,,,,,P1387,Alexander STEUART,,,tree/00000384.html,people/P1223.html
+P1224,MILN,John,John MILN,No,,9,M,????-????,,,,,,,,P1456,Mary VAN CORTLANDT,,,tree/00000447.html,people/P1224.html
+P1225,MILTON-THOMAS RN,Admiral Sir Godfrey,Admiral Sir Godfrey MILTON-THOMAS RN,No,,0,M,????-????,,,,,,,,P1143,Noreen FITZMAURICE,,,tree/00000170.html,people/P1225.html
+P1226,MONDER,,MONDER,No,,7,M,????-????,,,,,,,,P1477,Agnes WHITEWAY,,,tree/00000506.html,people/P1226.html
+P1227,MORIES,James,James MORIES,No,,10,M,????-????,,,,,,,,P1396,Isobell STEUART,,,tree/00000380.html,people/P1227.html
+P1228,MORRIS,Dwight,Dwight MORRIS,No,,0,U,????-????,,,,,,,,,,,,tree/00000214.html,people/P1228.html
+P1229,MOWNSELL,Mary,Mary MOWNSELL,No,,11,F,1579-1655,1579,1655,,,,,,P1516,William WHITEWAY,,,tree/00000511.html,people/P1229.html
+00000293,MUIR,,MUIR,Yes,:16384/14:,14,U,????-????,,,,,,,,,,P1267; 00000262; P1278,Henry (?) MUIR; John MUIR; Janet MUIR,,people/00000293.html
+P1230,MUIR,Aimie Wilson,Aimie Wilson MUIR,No,,3,F,1850-1920,1850,1920,,,,P1144; P1282,Charlotte FLEMING; John MUIR,P1168,William HAMILTON,P1165,John Muir HAMILTON,tree/00000264.html,people/P1230.html
+00000204,MUIR,Alexander,Alexander MUIR,Yes,:32/5:,5,M,1771-1858,1771,1858,,Weavers Agent,,00000239; 00000402,Francis MUIR; Ann TORRANCE,00000551,Amelia WILSON,00000280; P1255; P1282; P1308; P1304; P1272; P1242; P1254; P1232; P1244,Rev Francis MUIR; Elizabeth MUIR; John MUIR; William MUIR; Thomas MUIR; James MUIR; Anne MUIR; Elizabeth MUIR; Alexander MUIR; Archibald MUIR,tree/00000239.html,people/00000204.html
+00000205,MUIR,Alexander,Alexander MUIR,Yes,:128/7:,7,M,1699-????,1689 or more probably 1699,,,,,00000219,Archibald MUIR,,,P1270; P1245; P1233; P1274; P1280; P1249; 00000239,Isobel MUIR; Archibald MUIR; Alexander MUIR; James MUIR; Jean MUIR; Christian MUIR; Francis MUIR,tree/00000219.html,people/00000205.html
+00000206,MUIR,Alexander,Alexander MUIR,Yes,:512/9:,9,M,????-????,,,,Farmer ?,"At ""Plewlands in 1670. Covenanter, imprisoned by Claverhouse.",00000220,Archibald MUIR,,,00000219; P1261,Archibald MUIR; Francis MUIR,tree/00000220.html,people/00000206.html
+P1231,MUIR,Alexander,Alexander MUIR,No,,3,M,1831-1915,1831,1915,,,,00000180; 00000280,Jean LOGAN; Rev Francis MUIR,P1422,Jessie Geddes THOMSON,,,tree/00000280.html,people/P1231.html
+P1232,MUIR,Alexander,Alexander MUIR,No,,4,M,1815-1816,1815,1816,,,,00000204; 00000551,Alexander MUIR; Amelia WILSON,,,,,tree/00000239.html,people/P1232.html
+P1233,MUIR,Alexander,Alexander MUIR,No,,6,M,1736-????,1736,,,,,00000205,Alexander MUIR,,,,,tree/00000219.html,people/P1233.html
+P1234,MUIR,Alexander Stewart,Alexander Stewart MUIR,No,,1,M,1908-1978,1908,1978,,,,P1251; P1469,Dr. Ernest MUIR; Sophie VARTAN,,,,,tree/00000229.html,people/P1234.html
+P1235,MUIR,Allan Denis,Allan Denis MUIR,No,,0,U,1951-????,1951,,,,,,,,,,,tree/00000214.html,people/P1235.html
+P1236,MUIR,Amelia Wilson,Amelia Wilson MUIR,No,,3,F,1832-1914,1832,1914,,,,00000180; 00000280,Jean LOGAN; Rev Francis MUIR,P1470,James WALDIE,,,tree/00000280.html,people/P1236.html
+P1237,MUIR,Andrew,Andrew MUIR,No,,11,M,????-????,,,,,,00000261; 00000555,John MUIR; Helen YOUNG,,,,,tree/00000261.html,people/P1237.html
+P1238,MUIR,Andrew (Reo),Andrew (Reo) MUIR,No,,2,M,1878-1917,1878,1917,,,,P1300; P1546,Rev. Gavin Struthers MUIR; Helen Drysdale WILSON,P1062,Annie BROWN,P1222; P1296; P1287; P1298; P1297; P1299,Gwendolyn MIDDLETON; Maurice MUIR; Malcolm MUIR; Michael MUIR; Merlin MUIR; Reo MUIR,tree/00000214.html,people/P1238.html
+P1239,MUIR,Andrews Alexander,Andrews Alexander MUIR,No,,-1,M,1961-????,1961,,,,,00000140; 00000282,Christine Mary GOSLING; Richard Francis MUIR,,,,,tree/00000282.html,people/P1239.html
+P1240,MUIR,Ann,Ann MUIR,No,,5,F,1779-????,1779,,,,,00000239; 00000402,Francis MUIR; Ann TORRANCE,,,,,tree/00000239.html,people/P1240.html
+P1241,MUIR,Anna,Anna MUIR,No,,0,F,1934-????,1934,,,,,,,,,,,tree/00000214.html,people/P1241.html
+P1242,MUIR,Anne,Anne MUIR,No,,4,F,1810-1818,1810,1818,,,,00000204; 00000551,Alexander MUIR; Amelia WILSON,,,,,tree/00000239.html,people/P1242.html
+P1243,MUIR,Annie Ferguson,Annie Ferguson MUIR,No,,3,U,1838-1930,1838,1930,,,,P1144; P1282,Charlotte FLEMING; John MUIR,,,,,tree/00000264.html,people/P1243.html
+00000219,MUIR,Archibald,Archibald MUIR,Yes,:256/8:,8,M,"????-""in Plewland""",,"""in Plewland""",,Farmer ?,"""in Plewland""",00000206,Alexander MUIR,,,00000205; P1294; P1246; P1289; P1283,Alexander MUIR; Mathew MUIR; Archibald MUIR; Margaret MUIR; John MUIR,tree/00000219.html,people/00000219.html
+00000220,MUIR,Archibald,Archibald MUIR,Yes,:1024/10:,10,M,????-1662,,Living in 1662,,,Living in 1662,00000150; 00000260,Janet HAMILTON; John MUIR,,,00000206; P1275,Alexander MUIR; James MUIR,tree/00000220.html,people/00000220.html
+00000221,MUIR,Archibald,Archibald MUIR,No,,5,M,1791-1881,1791,1881,,,Died in Canada,00000239; 00000402,Francis MUIR; Ann TORRANCE,,,,,tree/00000239.html,people/00000221.html
+P1244,MUIR,Archibald,Archibald MUIR,No,,4,M,1817-1850,1817,1850,,,,00000204; 00000551,Alexander MUIR; Amelia WILSON,P1418,Rebecca TAYLOR,,,tree/00000239.html,people/P1244.html
+P1245,MUIR,Archibald,Archibald MUIR,No,,6,M,1734-????,1734,,,,,00000205,Alexander MUIR,,,,,tree/00000219.html,people/P1245.html
+P1246,MUIR,Archibald,Archibald MUIR,No,,7,M,????-????,,,,,,00000219,Archibald MUIR,,,,,tree/00000219.html,people/P1246.html
+P1247,MUIR,Archibald William,Archibald William MUIR,No,,3,M,1850-1875,1850,1875,,,,00000180; 00000280,Jean LOGAN; Rev Francis MUIR,,,,,tree/00000280.html,people/P1247.html
+P1248,MUIR,Bessie,Bessie MUIR,No,,13,F,????-????,,,,,,,,,,,,tree/00000262.html,people/P1248.html
+P1249,MUIR,Christian,Christian MUIR,No,,6,F,1743-????,1743,,,,,00000205,Alexander MUIR,,,,,tree/00000219.html,people/P1249.html
+00000568,MUIR,Christopher Francis,Christopher Francis MUIR,Yes,,-2,M,1997 Feb 19-????,"1997 Feb 19, Newcastle-upon-Tyne",,,,,00000242; 00000333,Francis William Stuart MUIR; Lindsey Helen PRICE,,,,,tree/00000282.html,people/00000568.html
+P1250,MUIR,David Gavin,David Gavin MUIR,No,,0,M,1950-????,1950,,,,,,,,,,,tree/00000214.html,people/P1250.html
+P1251,MUIR,Dr. Ernest,Dr. Ernest MUIR,No,,2,M,1880-1974,1880,1974,,,,P1300; P1546,Rev. Gavin Struthers MUIR; Helen Drysdale WILSON,P1469,Sophie VARTAN,P1234; P1292; P1253; P1257,Alexander Stewart MUIR; Mary Helen MUIR; Dr. Victor Vartan MUIR; Ernest MUIR,tree/00000229.html,people/P1251.html
+P1252,MUIR,Dr. John Stuart,Dr. John Stuart MUIR,No,,3,M,1844-1942,1844,1942,,,,00000180; 00000280,Jean LOGAN; Rev Francis MUIR,P1361,Andrina B H ROGER,,,tree/00000280.html,people/P1252.html
+P1253,MUIR,Dr. Victor Vartan,Dr. Victor Vartan MUIR,No,,1,M,1916-1943,1916,1943,,,,P1251; P1469,Dr. Ernest MUIR; Sophie VARTAN,P1548,Jean WOODS,,,tree/00000229.html,people/P1253.html
+P1254,MUIR,Elizabeth,Elizabeth MUIR,No,,4,F,1812-1875,1812,1875,,,,00000204; 00000551,Alexander MUIR; Amelia WILSON,,,,,tree/00000239.html,people/P1254.html
+P1255,MUIR,Elizabeth,Elizabeth MUIR,No,,4,F,1799-1804,1799,1804,,,,00000204; 00000551,Alexander MUIR; Amelia WILSON,,,,,tree/00000239.html,people/P1255.html
+P1256,MUIR,Elizabeth (Betty) Helen,Elizabeth (Betty) Helen MUIR,No,,1,F,1907-????,1907,,,,,00000292; 00000486,William Edward MUIR; Logie Elizabeth WHITEWAY,P1357; P1333,John (Jock) ROBERTS; Rowlett Haliburton (Bill) PARSONS,P1355; P1356; P1332; P1330; P1331,Elizabeth Jane Ann ROBERTS; Jennifer Joan ROBERTS; Philippa PARSONS; Diana PARSONS; Nicholas PARSONS,tree/00000292.html,people/P1256.html
+P1257,MUIR,Ernest,Ernest MUIR,No,,1,M,1917-1919,1917,1919,,,,P1251; P1469,Dr. Ernest MUIR; Sophie VARTAN,,,,,tree/00000229.html,people/P1257.html
+P1258,MUIR,Evelyn Anne,Evelyn Anne MUIR,No,,0,F,1932-1989,1932,1989,,,,00000285; 00000523,Sir Edward Francis MUIR; Evelyn Mary WHITFIELD,,,,,tree/00000292.html,people/P1258.html
+P1259,MUIR,Frances,Frances MUIR,No,,0,U,1941-????,1941,,,,,,,,,,,tree/00000214.html,people/P1259.html
+00000238,MUIR,Francis,Francis MUIR,Yes,:8/3:,3,M,1839-1912,"1839, Leith","1912, Haslemere",,Cotton Merchant,,00000180; 00000280,Jean LOGAN; Rev Francis MUIR,00000146,Ellen Margaret HALL,P1262; 00000292,Frank William MUIR; William Edward MUIR,tree/00000280.html,people/00000238.html
+00000239,MUIR,Francis,Francis MUIR,Yes,:64/6:,6,M,1746-1830,1746,1830,,Farmer ? Strathaven,,00000205,Alexander MUIR,00000402,Ann TORRANCE,00000204; P1240; 00000221; P1309; P1269; P1273; P1305,Alexander MUIR; Ann MUIR; Archibald MUIR; William MUIR; Isobel MUIR; James MUIR; Thomas MUIR,tree/00000239.html,people/00000239.html
+P1260,MUIR,Francis,Francis MUIR,No,,2,M,1877-1972,1877,1972,,,,P1300; P1546,Rev. Gavin Struthers MUIR; Helen Drysdale WILSON,P1041,Dorothy ARMITAGE,,,tree/00000280.html,people/P1260.html
+P1261,MUIR,Francis,Francis MUIR,No,,8,M,????-????,,,,,,00000206,Alexander MUIR,,,,,tree/00000220.html,people/P1261.html
+00000242,MUIR,Francis William Stuart,Francis William Stuart MUIR,Yes,,-1,M,1960-????,"1960, Beiruth, Lebanon",,,,,00000140; 00000282,Christine Mary GOSLING; Richard Francis MUIR,00000333,Lindsey Helen PRICE,00000568; 00000567,Christopher Francis MUIR; Helen Jane MUIR,tree/00000282.html,people/00000242.html
+P1262,MUIR,Frank William,Frank William MUIR,No,,2,M,1869-1870,1869,1870,,,,00000146; 00000238,Ellen Margaret HALL; Francis MUIR,00000486,Logie Elizabeth WHITEWAY,,,tree/00000280.html,people/P1262.html
+P1263,MUIR,Geoffrey Maurice,Geoffrey Maurice MUIR,No,,0,U,1948-????,1948,,,,,,,,,,,tree/00000214.html,people/P1263.html
+P1264,MUIR,Helen,Helen MUIR,No,,11,F,????-????,,,,,,00000261; 00000555,John MUIR; Helen YOUNG,,,,,tree/00000261.html,people/P1264.html
+00000567,MUIR,Helen Jane,Helen Jane MUIR,Yes,,-2,F,1995 May 23-????,"1995 May 23, Newcastle upon Tyne",,,,,00000242; 00000333,Francis William Stuart MUIR; Lindsey Helen PRICE,,,,,tree/00000282.html,people/00000567.html
+P1265,MUIR,Henry,Henry MUIR,No,,10,M,????-????,,,,,,00000150; 00000260,Janet HAMILTON; John MUIR,,,,,tree/00000261.html,people/P1265.html
+P1266,MUIR,Henry (?),Henry (?) MUIR,No,,13,M,????-????,,,,,,,,,,,,tree/00000262.html,people/P1266.html
+P1267,MUIR,Henry (?),Henry (?) MUIR,No,,13,M,????-????,,,,,,00000293,MUIR,,,,,,people/P1267.html
+P1268,MUIR,Isabel,Isabel MUIR,No,,12,F,????-1620,,1620,,,,00000051; 00000262,Marion ARCHE; John MUIR,00000392,Gavin STEVINSONE,,,tree/00000262.html,people/P1268.html
+P1269,MUIR,Isobel,Isobel MUIR,No,,5,F,1777-????,1777,,,,,00000239; 00000402,Francis MUIR; Ann TORRANCE,,,,,tree/00000239.html,people/P1269.html
+P1270,MUIR,Isobel,Isobel MUIR,No,,6,F,1731-????,1731,,,,,00000205,Alexander MUIR,,,,,tree/00000219.html,people/P1270.html
+P1271,MUIR,Isobell,Isobell MUIR,No,,10,F,????-????,,,,,,00000150; 00000260,Janet HAMILTON; John MUIR,,,,,tree/00000261.html,people/P1271.html
+P1272,MUIR,James,James MUIR,No,,4,M,1808-1827,1808,1827,,,,00000204; 00000551,Alexander MUIR; Amelia WILSON,,,,,tree/00000239.html,people/P1272.html
+P1273,MUIR,James,James MUIR,No,,5,M,1784-????,1784,,,,,00000239; 00000402,Francis MUIR; Ann TORRANCE,,,,,tree/00000239.html,people/P1273.html
+P1274,MUIR,James,James MUIR,No,,6,M,1739-????,1739,,,,,00000205,Alexander MUIR,,,,,tree/00000219.html,people/P1274.html
+P1275,MUIR,James,James MUIR,No,,9,M,????-????,,,,,,00000220,Archibald MUIR,,,,,tree/00000220.html,people/P1275.html
+P1276,MUIR,James,James MUIR,No,,11,M,????-????,,,,,,00000261; 00000555,John MUIR; Helen YOUNG,,,,,tree/00000261.html,people/P1276.html
+P1277,MUIR,James Logan,James Logan MUIR,No,,3,M,1834-1914,1834,1914,,,,00000180; 00000280,Jean LOGAN; Rev Francis MUIR,P1544,Euphemia WIGHT,,,tree/00000280.html,people/P1277.html
+P1278,MUIR,Janet,Janet MUIR,No,,13,F,????-1605,,1605,,,,00000293,MUIR,P1065,BROWNING,,,tree/00000262.html,people/P1278.html
+P1279,MUIR,Janet Elizabeth,Janet Elizabeth MUIR,No,,3,F,1841-1848,1841,1848,,,,00000180; 00000280,Jean LOGAN; Rev Francis MUIR,,,,,tree/00000280.html,people/P1279.html
+P1280,MUIR,Jean,Jean MUIR,No,,6,F,1740-????,1740,,,,,00000205,Alexander MUIR,,,,,tree/00000219.html,people/P1280.html
+P1281,MUIR,Jean Logan,Jean Logan MUIR,No,,3,F,1848-1893,1848,1893,,,,00000180; 00000280,Jean LOGAN; Rev Francis MUIR,,,,,tree/00000280.html,people/P1281.html
+00000260,MUIR,John,John MUIR,Yes,:2048/11:,11,M,????-????,,,,Farmer ?,,00000261; 00000555,John MUIR; Helen YOUNG,00000150,Janet HAMILTON,00000220; P1265; P1271; P1295; P1306,Archibald MUIR; Henry MUIR; Isobell MUIR; Mathew MUIR; Thomas MUIR,tree/00000261.html,people/00000260.html
+00000261,MUIR,John,John MUIR,Yes,:4096/12:,12,M,????-1616,,1616,,Farmer ?,,00000051; 00000262,Marion ARCHE; John MUIR,00000555,Helen YOUNG,P1237; P1264; P1276; 00000260; P1290,Andrew MUIR; Helen MUIR; James MUIR; John MUIR; Margaret MUIR,tree/00000261.html,people/00000261.html
+00000262,MUIR,John,John MUIR,Yes,:8192/13:,13,M,????-1596,,1596,,,"""in Plewlands""",00000293,MUIR,00000051,Marion ARCHE,P1268; 00000261,Isabel MUIR; John MUIR,tree/00000262.html,people/00000262.html
+P1282,MUIR,John,John MUIR,No,,4,M,1800-1852,1800,1852,,,,00000204; 00000551,Alexander MUIR; Amelia WILSON,P1144,Charlotte FLEMING,P1230; P1243,Aimie Wilson MUIR; Annie Ferguson MUIR,tree/00000264.html,people/P1282.html
+P1283,MUIR,John,John MUIR,No,,7,M,????-????,,,,,,00000219,Archibald MUIR,,,,,tree/00000219.html,people/P1283.html
+P1284,MUIR,John Hamilton,John Hamilton MUIR,No,,0,M,1957-????,1957,,,,,P1163; P1307,Aimee Charlotte Muir HAMILTON; William MUIR,,,,,tree/00000701.html,people/P1284.html
+P1285,MUIR,Katherine Stuart,Katherine Stuart MUIR,No,,3,F,1829-1915,1829,1915,,,,00000180; 00000280,Jean LOGAN; Rev Francis MUIR,P1351,Rev. James RENNIE,,,tree/00000280.html,people/P1285.html
+P1286,MUIR,Leslie Marianne,Leslie Marianne MUIR,No,,0,U,1947-????,1947,,,,,,,,,,,tree/00000214.html,people/P1286.html
+P1287,MUIR,Malcolm,Malcolm MUIR,No,,1,M,1912-1953,1912,1953,,,,P1062; P1238,Annie BROWN; Andrew (Reo) MUIR,,,,,tree/00000214.html,people/P1287.html
+P1288,MUIR,Margaret,Margaret MUIR,No,,0,F,1939-????,1939,,,,,,,,,,,tree/00000214.html,people/P1288.html
+P1289,MUIR,Margaret,Margaret MUIR,No,,7,F,1702-????,1702,,,,,00000219,Archibald MUIR,,,,,tree/00000219.html,people/P1289.html
+P1290,MUIR,Margaret,Margaret MUIR,No,,11,F,????-????,,,,,,00000261; 00000555,John MUIR; Helen YOUNG,,,,,tree/00000261.html,people/P1290.html
+P1291,MUIR,Marion,Marion MUIR,No,,13,F,????-????,,,,,,,,,,,,tree/00000262.html,people/P1291.html
+P1292,MUIR,Mary Helen,Mary Helen MUIR,No,,1,F,1910-1973,1910,1973,,,,P1251; P1469,Dr. Ernest MUIR; Sophie VARTAN,P1207; P1363,Calman MACLENNAN; William Alexander ROXBURGH,P1208; P1209; P1362,Dr. Ian Calman Muir MACLENNAN; Eileen Vartan MACLENNAN; Victor Alexander ROXBURGH,tree/00000229.html,people/P1292.html
+P1293,MUIR,Mary Jane (Aunt Molly),Mary Jane (Aunt Molly) MUIR,No,,3,F,1836-1933,1836,1933,,,,00000180; 00000280,Jean LOGAN; Rev Francis MUIR,P1472,James WALLACE,,,tree/00000280.html,people/P1293.html
+P1294,MUIR,Mathew,Mathew MUIR,No,,7,U,1699-????,1699,,,,,00000219,Archibald MUIR,,,,,tree/00000219.html,people/P1294.html
+P1295,MUIR,Mathew,Mathew MUIR,No,,10,M,????-1652,,1652,,,,00000150; 00000260,Janet HAMILTON; John MUIR,P1354,Catherine RIDDELL,,,tree/00000261.html,people/P1295.html
+P1296,MUIR,Maurice,Maurice MUIR,No,,1,U,1911-????,1911,,,,,P1062; P1238,Annie BROWN; Andrew (Reo) MUIR,P1475,Bettina May WEST,,,tree/00000214.html,people/P1296.html
+P1297,MUIR,Merlin,Merlin MUIR,No,,1,M,1916-????,1916,,,,,P1062; P1238,Annie BROWN; Andrew (Reo) MUIR,P1075,Joan COCKCROFT,,,tree/00000214.html,people/P1297.html
+P1298,MUIR,Michael,Michael MUIR,No,,1,M,1914-1975,1914,1975,,,,P1062; P1238,Annie BROWN; Andrew (Reo) MUIR,P1349,Antoinette REDWAY,,,tree/00000214.html,people/P1298.html
+P1299,MUIR,Reo,Reo MUIR,No,,1,U,1918-????,1918,,,,,P1062; P1238,Annie BROWN; Andrew (Reo) MUIR,P1178,Beryl HOLLOWAY,,,tree/00000214.html,people/P1299.html
+00000280,MUIR,Rev Francis,Rev Francis MUIR,Yes,:16/4:,4,M,1797-1871,"1797, Strathaven","1871, Bonnington, Edinburgh",1828 Feb 5th,"Clerk in Holy Orders, Leith",,00000204; 00000551,Alexander MUIR; Amelia WILSON,00000180,Jean LOGAN,P1231; P1236; P1247; P1252; 00000238; P1277; P1279; P1281; P1285; P1293; P1300,Alexander MUIR; Amelia Wilson MUIR; Archibald William MUIR; Dr. John Stuart MUIR; Francis MUIR; James Logan MUIR; Janet Elizabeth MUIR; Jean Logan MUIR; Katherine Stuart MUIR; Mary Jane (Aunt Molly) MUIR; Rev. Gavin Struthers MUIR,tree/00000280.html,people/00000280.html
+P1300,MUIR,Rev. Gavin Struthers,Rev. Gavin Struthers MUIR,No,,3,M,1846-1927,1846,1927,,,,00000180; 00000280,Jean LOGAN; Rev Francis MUIR,P1546,Helen Drysdale WILSON,P1238; P1251; P1260; P1303,Andrew (Reo) MUIR; Dr. Ernest MUIR; Francis MUIR; Theodora MUIR,tree/00000280.html,people/P1300.html
+00000282,MUIR,Richard Francis,Richard Francis MUIR,Yes,:0/0:,0,M,1930-2019,1930,2019,,,,00000285; 00000523,Sir Edward Francis MUIR; Evelyn Mary WHITFIELD,00000140,Christine Mary GOSLING,P1239; 00000242,Andrews Alexander MUIR; Francis William Stuart MUIR,tree/00000282.html,people/00000282.html
+P1301,MUIR,Rodger Stewart,Rodger Stewart MUIR,No,,0,M,1955-????,1955,,,,,,,,,,,tree/00000214.html,people/P1301.html
+P1302,MUIR,Shiela,Shiela MUIR,No,,0,U,1940-????,1940,,,,,,,,,,,tree/00000214.html,people/P1302.html
+00000285,MUIR,Sir Edward Francis,Sir Edward Francis MUIR,Yes,:2/1:,1,M,1905 June 29th-1979,"1905 June 29th, Shottemill","1979, Midhurst",1928 July 7th 1928,Home Civil Service (MoW),,00000292; 00000486,William Edward MUIR; Logie Elizabeth WHITEWAY,00000523,Evelyn Mary WHITFIELD,P1258; 00000282,Evelyn Anne MUIR; Richard Francis MUIR,tree/00000292.html,people/00000285.html
+P1303,MUIR,Theodora,Theodora MUIR,No,,2,U,1884-1977,1884,1977,,,,P1300; P1546,Rev. Gavin Struthers MUIR; Helen Drysdale WILSON,,,,,tree/00000280.html,people/P1303.html
+P1304,MUIR,Thomas,Thomas MUIR,No,,4,M,1805-1821,1805,1821,,,,00000204; 00000551,Alexander MUIR; Amelia WILSON,,,,,tree/00000239.html,people/P1304.html
+P1305,MUIR,Thomas,Thomas MUIR,No,,5,M,1789-????,1789,,,,,00000239; 00000402,Francis MUIR; Ann TORRANCE,,,,,tree/00000239.html,people/P1305.html
+P1306,MUIR,Thomas,Thomas MUIR,No,,10,M,????-????,,,,,,00000150; 00000260,Janet HAMILTON; John MUIR,,,,,tree/00000261.html,people/P1306.html
+P1307,MUIR,William,William MUIR,No,,1,M,1917-1993?,1917,1993?,,,,,,P1163,Aimee Charlotte Muir HAMILTON,P1284; P1310,John Hamilton MUIR; William Letham MUIR,tree/00000701.html,people/P1307.html
+P1308,MUIR,William,William MUIR,No,,4,M,1803-1846,1803,1846,,,,00000204; 00000551,Alexander MUIR; Amelia WILSON,P1350,Peggy REID,,,tree/00000239.html,people/P1308.html
+P1309,MUIR,William,William MUIR,No,,5,M,1774-????,1774,,,,,00000239; 00000402,Francis MUIR; Ann TORRANCE,,,,,tree/00000239.html,people/P1309.html
+00000292,MUIR,William Edward,William Edward MUIR,Yes,:4/2:,2,M,1872 Jan 21st-1948 Jun 23rd,"1872 Jan 21st, Savannah, Ga, USA","1948 Jun 23rd, Haslemere","1902 Mar 5th, Shottermill",Gentleman,,00000146; 00000238,Ellen Margaret HALL; Francis MUIR,00000486,Logie Elizabeth WHITEWAY,P1256; 00000285,Elizabeth (Betty) Helen MUIR; Sir Edward Francis MUIR,tree/00000292.html,people/00000292.html
+P1310,MUIR,William Letham,William Letham MUIR,No,,0,M,1958-????,1958,,,,,P1163; P1307,Aimee Charlotte Muir HAMILTON; William MUIR,,,,,tree/00000701.html,people/P1310.html
+P1311,MULCASTER,Sir W H,Sir W H MULCASTER,No,,6,M,????-????,,,,,,,,P1463,Sophia Sawyers VAN CORTLANDT,,,tree/00000446.html,people/P1311.html
+P1312,MURPHY RN,John Edward,John Edward MURPHY RN,No,,-1,M,19??-????,19??,,,,,,,P1344,Penelope Elizabeth PRETTY,,,tree/00000331.html,people/P1312.html
+P1313,NEALL,John,John NEALL,No,,0,M,19??-1981,19??,1981,,,,,,P1355,Elizabeth Jane Ann ROBERTS,P1314,Richard NEALL,tree/00000296.html,people/P1313.html
+P1314,NEALL,Richard,Richard NEALL,No,,-1,M,1964-????,1964,,,,,P1313; P1355,John NEALL; Elizabeth Jane Ann ROBERTS,,,,,tree/00000296.html,people/P1314.html
+P1315,NEATE,Eleanor,Eleanor NEATE,No,,5,F,????-????,,,,,,,,P1026,John ANGELO,,,tree/00000403.html,people/P1315.html
+00000299,NESBIT,Isobell,Isobell NESBIT,Yes,:1121/10:,10,F,????-????,,,,,,,,00000384,James STEUART,P1416; P1397; 00000391; P1387; P1395; P1398,William STEUART; James STEUART; Walter STEUART; Alexander STEUART; Isobell STEUART; Jean STEUART,tree/00000384.html,people/00000299.html
+P1316,NETTLESHIP,Edward,Edward NETTLESHIP,No,,3,M,1845-1913,1845,1913,,,,,,P1487,Elizabeth Endacott WHITEWAY,,,tree/00000497.html,people/P1316.html
+P1317,O'BRIEN,David,David O'BRIEN,No,,1,M,????-????,,,,,,,,P1379,Penelope Ann SPARLING,,,tree/00000374.html,people/P1317.html
+00000302,OGDEN,Catherine,Catherine OGDEN,Yes,:183/7:,7,F,????-????,,,,,,,,00000438,Philip VAN CORTLANDT,00000435; P1442; P1434; P1458; P1464; P1454; P1445; P1461; P1449; P1439; P1438; P1433; P1463; P1554,Mary Ricketts VAN CORTLANDT; Elizabeth VAN CORTLANDT; Catherine VAN CORTLANDT; Philip VAN CORTLANDT; Stephen VAN CORTLANDT; Margaret Hughes VAN CORTLANDT; Gertrude VAN CORTLANDT; Sarah Ogden VAN CORTLANDT; Jacop Ogden VAN CORTLANDT; Col Henry Clinton VAN CORTLANDT; Charlotte VAN CORTLANDT; Arthur Auchmutty VAN CORTLANDT; Sophia Sawyers VAN CORTLANDT; 10 others ob. infancy VAN CORTLANDT,tree/00000446.html,people/00000302.html
+00000303,OGILVIE,Katherine,Katherine OGILVIE,Yes,:141/7:,7,F,????-????,,,,,Gt.G d of 1st Earl of Airlie,,,00000383,James STEUART,P1401; 00000386; P1413; P1409; P1411,Katherine STEUART; John STEUART; Robert STEUART; Mary STEUART; May STEUART,tree/00000387.html,people/00000303.html
+00000660,OGILVIE,Margaret,Margaret OGILVIE,No,,9,F,????-????,,,,,gd.d of !st Earl of Airie,,,P1416,William STEUART,,,tree/00000384.html,people/00000660.html
+P1318,OLDFIELD,Col. Christopher,Col. Christopher OLDFIELD,No,,3,M,????-????,,,,,,P1036; P1325,Mary ANGELO; Sir Richard OLDFIELD,P1046,Mai Le BAILEY,P1321; P1319,Guy OLDFIELD; Dorothy OLDFIELD,tree/00000311.html,people/P1318.html
+P1319,OLDFIELD,Dorothy,Dorothy OLDFIELD,No,,2,F,????-????,,,,,,P1046; P1318,Mai Le BAILEY; Col. Christopher OLDFIELD,P1129,Capt. ESDALE,P1320,Elizabeth OLDFIELD,tree/00000311.html,people/P1319.html
+P1320,OLDFIELD,Elizabeth,Elizabeth OLDFIELD,No,,1,F,????-????,,,,,,P1129; P1319,Capt. ESDALE; Dorothy OLDFIELD,,,,,tree/00000311.html,people/P1320.html
+P1321,OLDFIELD,Guy,Guy OLDFIELD,No,,2,M,????-????,,,,,,P1046; P1318,Mai Le BAILEY; Col. Christopher OLDFIELD,,,,,tree/00000311.html,people/P1321.html
+P1322,OLDFIELD,John,John OLDFIELD,No,,2,M,????-????,,,,,,P1323; P1545,Maj. H OLDFIELD; Grace WILLIS,,,,,tree/00000311.html,people/P1322.html
+P1323,OLDFIELD,Maj. H,Maj. H OLDFIELD,No,,3,M,????-????,,,,,,P1036; P1325,Mary ANGELO; Sir Richard OLDFIELD,P1545,Grace WILLIS,P1322,John OLDFIELD,tree/00000311.html,people/P1323.html
+P1324,OLDFIELD,Maud,Maud OLDFIELD,No,,3,F,????-????,,,,,,P1036; P1325,Mary ANGELO; Sir Richard OLDFIELD,P1179,Gen. D JEFFREYS,,,tree/00000311.html,people/P1324.html
+P1325,OLDFIELD,Sir Richard,Sir Richard OLDFIELD,No,,4,M,????-????,,,,,,,,P1023; P1036,Elliot ANGELO; Mary ANGELO,P1318; P1323; P1324,Col. Christopher OLDFIELD; Maj. H OLDFIELD; Maud OLDFIELD,tree/00000311.html,people/P1325.html
+P1326,ORD,Margaret,Margaret ORD,No,,5,F,1744-1781,1744,1781,,,,,,00000533,John WHITFIELD,,,tree/00000532.html,people/P1326.html
+P1327,OSBORN,Amy Elizabeth,Amy Elizabeth OSBORN,No,,2,F,1859-1923,1859,1923,,,,,,P1542,William Henry WHITFIELD,,,tree/00000545.html,people/P1327.html
+P1328,PARSONS,Alexander,Alexander PARSONS,No,,-1,M,1973-????,1973,,,,,P1164; P1331,Alison HAMILTON; Nicholas PARSONS,P1147,Samantha GORE,,,tree/00000317.html,people/P1328.html
+P1329,PARSONS,Claudia,Claudia PARSONS,No,,-1,U,1974-????,1974,,,,,P1164; P1331,Alison HAMILTON; Nicholas PARSONS,,,,,tree/00000317.html,people/P1329.html
+P1330,PARSONS,Diana,Diana PARSONS,No,,0,F,1944-????,1944,,,,,P1256; P1333,Elizabeth (Betty) Helen MUIR; Rowlett Haliburton (Bill) PARSONS,P1066,David BROWNLIE,P1067; P1068,Glen BROWNLIE; Martin BROWNLIE,tree/00000073.html,people/P1330.html
+P1331,PARSONS,Nicholas,Nicholas PARSONS,No,,0,M,1947-????,1947,,,,,P1256; P1333,Elizabeth (Betty) Helen MUIR; Rowlett Haliburton (Bill) PARSONS,P1164,Alison HAMILTON,P1328; P1329,Alexander PARSONS; Claudia PARSONS,tree/00000317.html,people/P1331.html
+P1332,PARSONS,Philippa,Philippa PARSONS,No,,0,F,1944-????,1944,,,,,P1256; P1333,Elizabeth (Betty) Helen MUIR; Rowlett Haliburton (Bill) PARSONS,P1095,David CUTLER RAF,P1093; P1094,Genevieve CUTLER; Kirsten CUTLER,tree/00000099.html,people/P1332.html
+P1333,PARSONS,Rowlett Haliburton (Bill),Rowlett Haliburton (Bill) PARSONS,No,,1,M,????-????,,,,,,,,P1256,Elizabeth (Betty) Helen MUIR,P1330; P1331; P1332,Diana PARSONS; Nicholas PARSONS; Philippa PARSONS,tree/00000292.html,people/P1333.html
+P1334,PATTERSON,Sheridan,Sheridan PATTERSON,No,,0,M,19??-????,19??,,,,,,,P1355,Elizabeth Jane Ann ROBERTS,,,tree/00000292.html,people/P1334.html
+P1335,PEMBERTON,General,General PEMBERTON,No,,5,M,????-????,,,,,,,,P1014,Anne ANGELO,,,tree/00000403.html,people/P1335.html
+P1336,PESCARA ??,,PESCARA ??,No,,8,F,????-????,,,,,,,,00000049,John ? ANGELO MALEVOLTI TREMAMANDO,,,,people/P1336.html
+P1337,PHILIPSE,Eva (de Vries),Eva (de Vries) PHILIPSE,No,,10,F,????-????,,,,,,,,00000426,Jacobus VAN CORTLANDT,,,tree/00000448.html,people/P1337.html
+P1338,PHILLIPSE,F,F PHILLIPSE,No,,10,M,????-????,,,,,,,,P1437,Catherine VAN CORTLANDT,,,tree/00000448.html,people/P1338.html
+P1339,PICTON,John,John PICTON,No,,0,M,????-????,,,,,,,,,,,,tree/00000214.html,people/P1339.html
+00000325,PINCKNEY,Elizabeth,Elizabeth PINCKNEY,Yes,,5,F,1753-1798,1753,1798,,,,,,00000533; P1540,John WHITFIELD; William WHITFIELD,P1531; P1524; 00000545; P1535; P1519; P1532; P1518; P1534,John WHITFIELD; George Pinckney WHITFIELD; William WHITFIELD; Mary WHITFIELD; Ann WHITFIELD; Joseph WHITFIELD; Alice WHITFIELD; Margaret WHITFIELD,tree/00000532.html,people/00000325.html
+P1340,POLDEN,Beatrice,Beatrice POLDEN,No,,2,F,????-????,,,,,,P1028; P1342,Lillian ANGELO; Sn. Maj. R POLDEN,P1424,Col. R TILLY,P1426; P1425,John TILLY; Gwendolen TILLY,tree/00000399.html,people/P1340.html
+P1341,POLDEN,Dorothy,Dorothy POLDEN,No,,2,F,????-????,,,,,,P1028; P1342,Lillian ANGELO; Sn. Maj. R POLDEN,P1077,Charles COOPER,P1078; P1079,Joan COOPER; Nancy COOPER,tree/00000083.html,people/P1341.html
+P1342,POLDEN,Sn. Maj. R,Sn. Maj. R POLDEN,No,,3,M,????-????,,,,,,,,P1028,Lillian ANGELO,P1340; P1341,Beatrice POLDEN; Dorothy POLDEN,tree/00000041.html,people/P1342.html
+P1343,PRETTY,John,John PRETTY,No,,-1,M,1963-????,1963,,,,,P1356; P1345,Jennifer Joan ROBERTS; Robert PRETTY,,,,,tree/00000331.html,people/P1343.html
+P1344,PRETTY,Penelope Elizabeth,Penelope Elizabeth PRETTY,No,,-1,F,1959-????,1959,,,,,P1356; P1345,Jennifer Joan ROBERTS; Robert PRETTY,P1312,John Edward MURPHY RN,,,tree/00000331.html,people/P1344.html
+P1345,PRETTY,Robert,Robert PRETTY,No,,0,M,1930-1988,1930,1988,,,,,,P1356,Jennifer Joan ROBERTS,P1343; P1344; P1346,John PRETTY; Penelope Elizabeth PRETTY; David PRETTY RN,tree/00000331.html,people/P1345.html
+P1346,PRETTY RN,David,David PRETTY RN,No,,-1,M,1956-????,1956,,,,,P1345; P1356,Robert PRETTY; Jennifer Joan ROBERTS,,,,,tree/00000331.html,people/P1346.html
+00000333,PRICE,Lindsey Helen,Lindsey Helen PRICE,Yes,,-1,F,1964-????,1964,,,,,,,00000242,Francis William Stuart MUIR,00000568; 00000567,Christopher Francis MUIR; Helen Jane MUIR,tree/00000282.html,people/00000333.html
+P1347,PROWSE,John,John PROWSE,No,,11,M,????-????,,,,,,,,P1503,Margaret WHITEWAY,,,tree/00000511.html,people/P1347.html
+P1348,PUGSLEY RN,John,John PUGSLEY RN,No,,0,M,????-????,,,,,,,,P1188,Edwina LITTLE,,,tree/00000502.html,people/P1348.html
+P1349,REDWAY,Antoinette,Antoinette REDWAY,No,,1,F,1914-1994,1914,1994,,,,,,P1298,Michael MUIR,,,tree/00000214.html,people/P1349.html
+P1350,REID,Peggy,Peggy REID,No,,4,F,????-????,,,,,,,,P1308,William MUIR,,,tree/00000239.html,people/P1350.html
+P1351,RENNIE,Rev. James,Rev. James RENNIE,No,,3,M,????-????,,,,,,,,P1285,Katherine Stuart MUIR,,,tree/00000280.html,people/P1351.html
+P1352,RENTON,Eanswythe Wood,Eanswythe Wood RENTON,No,,2,F,????-????,,,,,,,,P1173,George HARDEN,P1170; P1175,Anne HARDEN; Sheila HARDEN,tree/00000155.html,people/P1352.html
+P1353,RICHMOND,Robin,Robin RICHMOND,No,,1,U,????-????,,,,,,,,P1509,Richwarda (Peggy) WHITEWAY,,,tree/00000502.html,people/P1353.html
+00000342,RICKETTS,Mary Walton,Mary Walton RICKETTS,Yes,:365/8:,8,F,????-????,,,1738 May 6th,,,,,00000446,Stephen VAN CORTLANDT,P1466; 00000438,William Rickets VAN CORTLANDT; Philip VAN CORTLANDT,tree/00000446.html,people/00000342.html
+P1354,RIDDELL,Catherine,Catherine RIDDELL,No,,10,F,????-????,,,,,,,,P1295,Mathew MUIR,,,tree/00000261.html,people/P1354.html
+P1355,ROBERTS,Elizabeth Jane Ann,Elizabeth Jane Ann ROBERTS,No,,0,F,1930-????,1930,,,,,P1256; P1357,Elizabeth (Betty) Helen MUIR; John (Jock) ROBERTS,P1087; P1313; P1334,Francis CREAGH-OSBORNE RN; John NEALL; Sheridan PATTERSON,P1084; P1085; P1086; P1314,Clare CREAGH-OSBORNE; Fiona CREAGH-OSBORNE; Roger CREAGH-OSBORNE; Richard NEALL,tree/00000292.html,people/P1355.html
+P1356,ROBERTS,Jennifer Joan,Jennifer Joan ROBERTS,No,,0,F,1930-????,1930,,,,,P1256; P1357,Elizabeth (Betty) Helen MUIR; John (Jock) ROBERTS,P1345,Robert PRETTY,P1343; P1344; P1346,John PRETTY; Penelope Elizabeth PRETTY; David PRETTY RN,tree/00000331.html,people/P1356.html
+P1357,ROBERTS,John (Jock),John (Jock) ROBERTS,No,,1,M,????-????,,,,,,,,P1256,Elizabeth (Betty) Helen MUIR,P1355; P1356,Elizabeth Jane Ann ROBERTS; Jennifer Joan ROBERTS,tree/00000292.html,people/P1357.html
+P1358,ROBERTSON,Aimee,Aimee ROBERTSON,No,,2,F,????-????,,,,,,P1017; P1359,Beatrice ANGELO; Sir Frederick ROBERTSON,P1182,Col. Vernon KEIGHLEY,P1183; P1184,Dereck KEIGHLEY; Lt. Geoffrey KEIGHLEY,tree/00000165.html,people/P1358.html
+P1359,ROBERTSON,Sir Frederick,Sir Frederick ROBERTSON,No,,3,M,????-????,,,,,,,,P1017,Beatrice ANGELO,P1358,Aimee ROBERTSON,tree/00000041.html,people/P1359.html
+P1360,RODDY,Marjorie,Marjorie RODDY,No,,2,F,????-????,,,,,,,,P1172,Frederick HARDEN,P1169; P1174,Alexander HARDEN; Robert HARDEN,tree/00000154.html,people/P1360.html
+P1361,ROGER,Andrina B H,Andrina B H ROGER,No,,3,F,????-????,,,,,,,,P1252,Dr. John Stuart MUIR,,,tree/00000280.html,people/P1361.html
+00000351,RONALD,Marion,Marion RONALD,Yes,:281/8:,8,F,????-????,,,1697 July 12th,,,,,00000387,John STEUART,P1414; P1389; P1386; P1407; P1392; P1394; P1388; P1399; 00000383; P1404,Walter STEUART; Christian STEUART; Agnes STEUART; Marion STEUART; Hannah STEUART; Helen STEUART; Beatrix STEUART; John STEUART; James STEUART; Margaret STEUART,tree/00000387.html,people/00000351.html
+P1362,ROXBURGH,Victor Alexander,Victor Alexander ROXBURGH,No,,0,M,????-????,,,,,,P1292; P1363,Mary Helen MUIR; William Alexander ROXBURGH,P1367,Katthy SHAMLOCK,,,tree/00000229.html,people/P1362.html
+P1363,ROXBURGH,William Alexander,William Alexander ROXBURGH,No,,1,M,1908-????,1908,,,,,,,P1292,Mary Helen MUIR,P1362,Victor Alexander ROXBURGH,tree/00000229.html,people/P1363.html
+P1364,SCARLETT,Jane,Jane SCARLETT,No,,3,F,????-????,,,,,,,,P1530,John WHITFIELD,,,tree/00000545.html,people/P1364.html
+P1365,SCHUYLER,Brandt,Brandt SCHUYLER,No,,10,M,????-????,,,,,,,,P1441,Cornelia VAN CORTLANDT,,,tree/00000448.html,people/P1365.html
+P1366,SCHUYLER,Col John,Col John SCHUYLER,No,,9,M,????-????,,,,,,,,P1440,Cornelia VAN CORTLANDT,,,tree/00000447.html,people/P1366.html
+00000357,SCHUYLER,Gertrude,Gertrude SCHUYLER,Yes,:1457/10:,10,F,????-1723,,1723,1671 Sep 10th,,of Albany,,,00000447,Stephanus VAN CORTLANDT,P1450; P1453; P1432; P1457; P1456; P1446; 00000439; P1465; P1447; P1448; P1443; P1444; P1436; P1440,Johannes VAN CORTLANDT; Margaret VAN CORTLANDT; Ann VAN CORTLANDT; Oliver VAN CORTLANDT; Mary VAN CORTLANDT; Gertrude VAN CORTLANDT; Philip VAN CORTLANDT; Stephen VAN CORTLANDT; Gertrude VAN CORTLANDT; Gysbert VAN CORTLANDT; Elizabeth VAN CORTLANDT; Elizabeth VAN CORTLANDT; Catherine VAN CORTLANDT; Cornelia VAN CORTLANDT,tree/00000447.html,people/00000357.html
+00000358,SCOBELL,A,A SCOBELL,Yes,:81/6:,6,F,????-????,,,,,,,,00000504,Thomas WHITEWAY,00000503,Thomas WHITEWAY,tree/00000504.html,people/00000358.html
+P1367,SHAMLOCK,Katthy,Katthy SHAMLOCK,No,,0,F,????-????,,,,,,,,P1362,Victor Alexander ROXBURGH,,,tree/00000229.html,people/P1367.html
+P1368,SHAW,Alan Thomas,Alan Thomas SHAW,No,,0,M,1947-????,1947,,,,,,,,,,,tree/00000214.html,people/P1368.html
+P1369,SHORT,Capt. Edwin,Capt. Edwin SHORT,No,,3,M,????-????,,,,,,P1019; P1370,Catherina ANGELO; Col. SHORT,,,,,tree/00000362.html,people/P1369.html
+P1370,SHORT,Col.,Col. SHORT,No,,4,M,????-????,,,,,,,,P1019; P1023,Catherina ANGELO; Elliot ANGELO,P1369; P1371; P1374; P1372; P1373,Capt. Edwin SHORT; Emily SHORT; William SHORT; Ernest SHORT; Maud SHORT,tree/00000362.html,people/P1370.html
+P1371,SHORT,Emily,Emily SHORT,No,,3,U,????-????,,,,,,P1019; P1370,Catherina ANGELO; Col. SHORT,,,,,tree/00000362.html,people/P1371.html
+P1372,SHORT,Ernest,Ernest SHORT,No,,3,M,????-????,,,,,,P1019; P1370,Catherina ANGELO; Col. SHORT,,,,,tree/00000362.html,people/P1372.html
+P1373,SHORT,Maud,Maud SHORT,No,,3,F,????-????,,,,,,P1019; P1370,Catherina ANGELO; Col. SHORT,,,,,tree/00000362.html,people/P1373.html
+P1374,SHORT,William,William SHORT,No,,3,M,????-????,,,,,,P1019; P1370,Catherina ANGELO; Col. SHORT,,,,,tree/00000362.html,people/P1374.html
+P1375,SIMONDS,Col W,Col W SIMONDS,No,,5,M,????-????,,,,,,,,P1021,Cecilia ANGELO,,,tree/00000403.html,people/P1375.html
+00000368,SINCLAIR,Katherine,Katherine SINCLAIR,Yes,:35841/15:,15,F,????-d. of the Earl of Caithness,,d. of the Earl of Caithness,,,d. of the Earl of Caithness,,,00000382,Alexander STEUART,00000381; P1403,Alexander STEUART; Katherine STEUART,tree/00000385.html,people/00000368.html
+P1376,SKINNER,Rev William,Rev William SKINNER,No,,9,M,????-????,,,,,,,,P1444; P1443,Elizabeth VAN CORTLANDT; Elizabeth VAN CORTLANDT,,,tree/00000447.html,people/P1376.html
+00000370,SLOCOMBE,Catherine,Catherine SLOCOMBE,Yes,:77/6:,6,F,????-????,,,,,,,,00000195,Richard MICHELL,00000196,Richard Alexander Slocombe MICHELL,,people/00000370.html
+P1377,SOLOMON,Joseph Elias,Joseph Elias SOLOMON,No,,4,M,????-????,,,,,,,,P1219,Ann Catherine MICHELL,,,,people/P1377.html
+P1378,SPARLING,Anthony,Anthony SPARLING,No,,1,M,????-????,,,,,,P1025; P1380,Irma ANGELO; Wing Com. E SPARLING,,,,,tree/00000374.html,people/P1378.html
+P1379,SPARLING,Penelope Ann,Penelope Ann SPARLING,No,,1,F,????-????,,,,,,P1025; P1380,Irma ANGELO; Wing Com. E SPARLING,P1317,David O'BRIEN,,,tree/00000374.html,people/P1379.html
+P1380,SPARLING,Wing Com. E,Wing Com. E SPARLING,No,,2,M,????-????,,,,,,,,P1025,Irma ANGELO,P1378; P1379,Anthony SPARLING; Penelope Ann SPARLING,tree/00000374.html,people/P1380.html
+P1381,SPENCER,Richard Hugh Houghton,Richard Hugh Houghton SPENCER,No,,0,M,????-????,,,,,,,,,,,,tree/00000214.html,people/P1381.html
+P1382,SPRAGUE,Maud,Maud SPRAGUE,No,,3,F,????-????,,,,,,,,P1032,Maj. Gen. Pakenham ANGELO,P1025,Irma ANGELO,tree/00000041.html,people/P1382.html
+P1383,STAATS,Catalina,Catalina STAATS,No,,9,F,????-????,,,,,,,,P1465,Stephen VAN CORTLANDT,,,tree/00000447.html,people/P1383.html
+P1384,STANCOMBE,David,David STANCOMBE,No,,0,M,1938-????,1938,,,,,,,,,,,tree/00000214.html,people/P1384.html
+P1385,STEEL,Colonel J,Colonel J STEEL,No,,5,U,????-????,,,,,,,,P1013,Adelaide ANGELO,,,tree/00000403.html,people/P1385.html
+P1386,STEUART,Agnes,Agnes STEUART,No,,7,F,1703-????,1703,,,,,00000351; 00000387,Marion RONALD; John STEUART,,,,,tree/00000387.html,people/P1386.html
+00000380,STEUART,Alexander,Alexander STEUART,Yes,:4480/12:,12,M,1545-????,1545,,,Portioner of Scone,,00000389,John STEUART,,,00000388,John STEUART,tree/00000380.html,people/00000380.html
+00000381,STEUART,Alexander,Alexander STEUART,Yes,:17920/14:,14,M,1475-1534,1475,1534,,"Abbot of Scone, Bishop of Moray",,00000368; 00000382,Katherine SINCLAIR; Alexander STEUART,,,00000676; 00000677; P1412; 00000389; P1408; P1402; P1405,Alexander STEUART; Alexander STEUART; Patrick STEUART; John STEUART; Marjory STEUART; Katherine STEUART; Margaret STEUART,tree/00000381.html,people/00000381.html
+00000382,STEUART,Alexander,Alexander STEUART,Yes,:35840/15:,15,M,????-1485,,1485,,Duke of Albany,,00000144; 00000385,Mary GUELDRES; James STEUART,00000368,Katherine SINCLAIR,00000381; P1403,Alexander STEUART; Katherine STEUART,tree/00000385.html,people/00000382.html
+00000665,STEUART,Alexander,Alexander STEUART,No,,10,M,????-????,,,,Portioner of Scone,,00000388,John STEUART,,,,,tree/00000380.html,people/00000665.html
+00000676,STEUART,Alexander,Alexander STEUART,No,,13,M,1509-????,1509,,,Archdeacon of Lothian,,00000381,Alexander STEUART,,,,,tree/00000381.html,people/00000676.html
+00000677,STEUART,Alexander,Alexander STEUART,No,,13,M,1511-????,1511,,,,of Pitcairn,00000381,Alexander STEUART,,,,,tree/00000381.html,people/00000677.html
+P1387,STEUART,Alexander,Alexander STEUART,No,,9,M,????-????,,,,,,00000299; 00000384,Isobell NESBIT; James STEUART,P1223,Margaret MILL,,,tree/00000384.html,people/P1387.html
+P1388,STEUART,Beatrix,Beatrix STEUART,No,,7,U,1706-????,1706,,,,,00000351; 00000387,Marion RONALD; John STEUART,,,,,tree/00000387.html,people/P1388.html
+P1389,STEUART,Christian,Christian STEUART,No,,7,F,1702-????,1702,,,,,00000351; 00000387,Marion RONALD; John STEUART,,,,,tree/00000387.html,people/P1389.html
+P1390,STEUART,Christine,Christine STEUART,No,,10,F,????-????,,,,,,00000388,John STEUART,P1081,Andrew COUPER,,,tree/00000380.html,people/P1390.html
+P1391,STEUART,David,David STEUART,No,,15,M,????-ob.inf.,,ob.inf.,,,,00000144; 00000385,Mary GUELDRES; James STEUART,,,,,tree/00000385.html,people/P1391.html
+P1392,STEUART,Hannah,Hannah STEUART,No,,7,F,1705-????,1705,,,,,00000351; 00000387,Marion RONALD; John STEUART,,,,,tree/00000387.html,people/P1392.html
+P1393,STEUART,Hannah,Hannah STEUART,No,,8,F,????-????,,,,,,00000091; 00000391,Agnes CROCKET; Walter STEUART,,,,,tree/00000384.html,people/P1393.html
+P1394,STEUART,Helen,Helen STEUART,No,,7,F,1705-????,1705,,,,,00000351; 00000387,Marion RONALD; John STEUART,,,,,tree/00000387.html,people/P1394.html
+P1395,STEUART,Isobell,Isobell STEUART,No,,9,F,????-????,,,,,,00000299; 00000384,Isobell NESBIT; James STEUART,P1138,William FFERGUSON,,,tree/00000384.html,people/P1395.html
+P1396,STEUART,Isobell,Isobell STEUART,No,,10,F,????-????,,,,,,00000388,John STEUART,P1227,James MORIES,,,tree/00000380.html,people/P1396.html
+00000383,STEUART,James,James STEUART,Yes,:140/7:,7,M,1710-1796,1710,1796,,,"""The Paip"" of Bridgeend, Bridge of Allan. Memorial plaque on modern bridge over Allan Water",00000351; 00000387,Marion RONALD; John STEUART,00000303,Katherine OGILVIE,P1401; 00000386; P1413; P1409; P1411,Katherine STEUART; John STEUART; Robert STEUART; Mary STEUART; May STEUART,tree/00000387.html,people/00000383.html
+00000384,STEUART,James,James STEUART,Yes,:1120/10:,10,M,1606-1701,1606,1701,,,of Bridgend,00000388,John STEUART,00000299,Isobell NESBIT,P1387; P1395; P1416; P1397; 00000391; P1398,Alexander STEUART; Isobell STEUART; William STEUART; James STEUART; Walter STEUART; Jean STEUART,tree/00000384.html,people/00000384.html
+00000385,STEUART,James,James STEUART,Yes,:71680/16:,16,M,1430 Oct 16th-1460 Aug 3rd,1430 Oct 16th,1460 Aug 3rd. Killed by a burst- ing cannon at Roxburgh Castle.,1449 July 3rd,"James II, King of Scotland s. 1436/37 Feb 21st",Killed by a bursting cannon at Roxburgh Castle.,,,00000144,Mary GUELDRES,00000382; P1391; 00000689; P1410; P1406; 00000692,Alexander STEUART; David STEUART; James STEUART; Mary STEUART; Margaret STEUART; John STEUART,tree/00000385.html,people/00000385.html
+00000689,STEUART,James,James STEUART,No,,15,M,1451-1488,1451,1488,,King James III 1460-1488,,00000144; 00000385,Mary GUELDRES; James STEUART,00000694,Margaret (??),,,tree/00000385.html,people/00000689.html
+P1397,STEUART,James,James STEUART,No,,9,M,????-????,,,,,,00000299; 00000384,Isobell NESBIT; James STEUART,P1421,Janet THOMSON,,,tree/00000384.html,people/P1397.html
+P1398,STEUART,Jean,Jean STEUART,No,,9,F,????-????,,,,,,00000299; 00000384,Isobell NESBIT; James STEUART,P1137,Alexander FFERGUSON,,,tree/00000384.html,people/P1398.html
+00000386,STEUART,John,John STEUART,Yes,:70/6:,6,M,1752-1828,1752,1828,,,of Corntown,00000303; 00000383,Katherine OGILVIE; James STEUART,00000100,Jean DAVIDSON,00000582,Katherine STEUART,tree/00000386.html,people/00000386.html
+00000387,STEUART,John,John STEUART,Yes,:280/8:,8,M,????-????,,,1697 July 12th,,,00000091; 00000391,Agnes CROCKET; Walter STEUART,00000351,Marion RONALD,P1386; P1388; P1389; P1392; P1394; 00000383; P1414; P1407; P1399; P1404,Agnes STEUART; Beatrix STEUART; Christian STEUART; Hannah STEUART; Helen STEUART; James STEUART; Walter STEUART; Marion STEUART; John STEUART; Margaret STEUART,tree/00000387.html,people/00000387.html
+00000388,STEUART,John,John STEUART,Yes,:2240/11:,11,M,1576-????,1576,,,Portioner of Scone,,00000380,Alexander STEUART,,,00000665; P1390; P1396; 00000384; P1400,Alexander STEUART; Christine STEUART; Isobell STEUART; James STEUART; Jonat STEUART,tree/00000380.html,people/00000388.html
+00000389,STEUART,John,John STEUART,Yes,:8960/13:,13,M,1515-????,1515,,,Portioner of Scone,,00000381,Alexander STEUART,,,00000380,Alexander STEUART,tree/00000381.html,people/00000389.html
+00000692,STEUART,John,John STEUART,No,,15,M,1459-1479,1459,1479,,,Earl of Mar,00000144; 00000385,Mary GUELDRES; James STEUART,,,,,tree/00000385.html,people/00000692.html
+P1399,STEUART,John,John STEUART,No,,7,M,1708-????,1708,,,,,00000351; 00000387,Marion RONALD; John STEUART,,,,,tree/00000387.html,people/P1399.html
+P1400,STEUART,Jonat,Jonat STEUART,No,,10,F,????-????,,,,,,00000388,John STEUART,P1552,Rannald (??),,,tree/00000380.html,people/P1400.html
+00000582,STEUART,Katherine,Katherine STEUART,Yes,:35/5:,5,F,1780 Nov 23rd-1847,1780 Nov 23rd,1847,,,,00000100; 00000386,Jean DAVIDSON; John STEUART,00000178,James LOGAN,P1192; P1194; P1195; 00000180; P1198; P1200; P1201; P1202; P1204; P1205,Alexander Steuart LOGAN; Isabella LOGAN; Janet LOGAN; Jean LOGAN; John LOGAN; John Steuart LOGAN; Margaret LOGAN; Margaret LOGAN; Marion Steuart LOGAN; Mary LOGAN,tree/00000176.html,people/00000582.html
+P1401,STEUART,Katherine,Katherine STEUART,No,,6,F,1745-????,1745,,,,,00000303; 00000383,Katherine OGILVIE; James STEUART,P1215,John MCGIBBON,,,tree/00000387.html,people/P1401.html
+P1402,STEUART,Katherine,Katherine STEUART,No,,13,F,????-????,,,,,,00000381,Alexander STEUART,00000683,John LESLIE,,,tree/00000381.html,people/P1402.html
+P1403,STEUART,Katherine,Katherine STEUART,No,,14,F,????-????,,,,,,00000368; 00000382,Katherine SINCLAIR; Alexander STEUART,P1167,Sir Patrick HAMILTON,,,tree/00000385.html,people/P1403.html
+P1404,STEUART,Margaret,Margaret STEUART,No,,7,F,????-????,,,,,,00000351; 00000387,Marion RONALD; John STEUART,,,,,tree/00000387.html,people/P1404.html
+P1405,STEUART,Margaret,Margaret STEUART,No,,13,F,????-????,,,,,,00000381,Alexander STEUART,P1043,John AYTON,,,tree/00000381.html,people/P1405.html
+P1406,STEUART,Margaret,Margaret STEUART,No,,15,F,????-????,,,,,,00000144; 00000385,Mary GUELDRES; James STEUART,P1088,Sir William (?) CRICHTON,,,tree/00000385.html,people/P1406.html
+P1407,STEUART,Marion,Marion STEUART,No,,7,F,1704-????,1704,,,,,00000351; 00000387,Marion RONALD; John STEUART,,,,,tree/00000387.html,people/P1407.html
+P1408,STEUART,Marjory,Marjory STEUART,No,,13,F,????-????,,,,,,00000381,Alexander STEUART,P1101,"David, Lord DRUMMOND",,,tree/00000381.html,people/P1408.html
+P1409,STEUART,Mary,Mary STEUART,No,,6,F,1764-1834,1764,1834,,,,00000303; 00000383,Katherine OGILVIE; James STEUART,P1082,COUTTS,,,tree/00000387.html,people/P1409.html
+P1410,STEUART,Mary,Mary STEUART,No,,15,F,????-1488,,1488,,,,00000144; 00000385,Mary GUELDRES; James STEUART,P1061,Lord BOYD,,,tree/00000385.html,people/P1410.html
+P1411,STEUART,May,May STEUART,No,,6,U,1764-1837,1764,1837,,,,00000303; 00000383,Katherine OGILVIE; James STEUART,,,,,tree/00000387.html,people/P1411.html
+P1412,STEUART,Patrick,Patrick STEUART,No,,13,M,1513-????,1513,,,,,00000381,Alexander STEUART,,,,,tree/00000381.html,people/P1412.html
+P1413,STEUART,Robert,Robert STEUART,No,,6,M,1755-????,1755,,,,,00000303; 00000383,Katherine OGILVIE; James STEUART,P1074,Janet CHRISTIE,,,tree/00000387.html,people/P1413.html
+00000391,STEUART,Walter,Walter STEUART,Yes,:560/9:,9,M,????-????,,,,,of Tulliallan,00000299; 00000384,Isobell NESBIT; James STEUART,00000091,Agnes CROCKET,P1393; 00000387; P1415,Hannah STEUART; John STEUART; Walter STEUART,tree/00000384.html,people/00000391.html
+P1414,STEUART,Walter,Walter STEUART,No,,7,M,1699-????,1699,,,,,00000351; 00000387,Marion RONALD; John STEUART,,,,,tree/00000387.html,people/P1414.html
+P1415,STEUART,Walter,Walter STEUART,No,,8,M,????-????,,,,,,00000091; 00000391,Agnes CROCKET; Walter STEUART,P1177,Isobell HENDRY,,,tree/00000384.html,people/P1415.html
+P1416,STEUART,William,William STEUART,No,,9,M,????-????,,,,,,00000299; 00000384,Isobell NESBIT; James STEUART,00000660,Margaret OGILVIE,,,tree/00000384.html,people/P1416.html
+00000392,STEVINSONE,Gavin,Gavin STEVINSONE,No,,12,M,????-????,,,,,Drumelogie,,,P1268,Isabel MUIR,,,tree/00000262.html,people/00000392.html
+P1417,SWEETING RN SP,Capt.,Capt. SWEETING RN SP,No,,4,M,????-????,,,,,,,,P1113,Harriett ENDACOTT,,,tree/00000120.html,people/P1417.html
+P1418,TAYLOR,Rebecca,Rebecca TAYLOR,No,,4,F,????-????,,,,,,,,P1244,Archibald MUIR,,,tree/00000239.html,people/P1418.html
+P1419,TAYLOR,William,William TAYLOR,No,,6,M,????-????,,,,,,,,P1442,Elizabeth VAN CORTLANDT,,,tree/00000446.html,people/P1419.html
+P1420,TELFORD,Edna,Edna TELFORD,No,,1,U,1908-1966,1908,1966,,,,,,P1533,Lawrence Elwood WHITFIELD,P1537; P1522,Patricia Jane WHITFIELD; Derek George WHITFIELD,tree/00000525.html,people/P1420.html
+P1421,THOMSON,Janet,Janet THOMSON,No,,9,F,????-????,,,,,,,,P1397,James STEUART,,,tree/00000384.html,people/P1421.html
+P1422,THOMSON,Jessie Geddes,Jessie Geddes THOMSON,No,,3,F,????-????,,,,,,,,P1231,Alexander MUIR,,,tree/00000280.html,people/P1422.html
+P1423,TILLIER,Andrew,Andrew TILLIER,No,,10,M,????-????,,,,,,,,P1462,Sophia VAN CORTLANDT,,,tree/00000448.html,people/P1423.html
+P1424,TILLY,Col. R,Col. R TILLY,No,,2,M,????-????,,,,,,,,P1340,Beatrice POLDEN,P1426; P1425,John TILLY; Gwendolen TILLY,tree/00000399.html,people/P1424.html
+P1425,TILLY,Gwendolen,Gwendolen TILLY,No,,1,F,????-????,,,,,,P1340; P1424,Beatrice POLDEN; Col. R TILLY,,,,,tree/00000399.html,people/P1425.html
+P1426,TILLY,John,John TILLY,No,,1,M,????-????,,,,,,P1340; P1424,Beatrice POLDEN; Col. R TILLY,,,,,tree/00000399.html,people/P1426.html
+00000402,TORRANCE,Ann,Ann TORRANCE,Yes,:65/6:,6,F,1747-1830,1747,1830,,,,,,00000239,Francis MUIR,00000204; P1240; 00000221; P1269; P1273; P1305; P1309,Alexander MUIR; Ann MUIR; Archibald MUIR; Isobel MUIR; James MUIR; Thomas MUIR; William MUIR,tree/00000239.html,people/00000402.html
+P1427,TOTHILL,,TOTHILL,No,,8,M,????-????,,,,,,,,P1116,Joan ENDACOTT,,,tree/00000118.html,people/P1427.html
+00000403,TREMAMANDO,Anthony Angelo Malevolti,Anthony Angelo Malevolti TREMAMANDO,Yes,:88/6:,6,M,1747-1829,"1747, Italy","1829, London",1787,Cadet 1778. Sailed to India on the 'Gratton' in 1778. Ensign 1778. Lieutenant in Cavalry 1778. Resigned 1785. Served in Governor General's Bodyguard 1780-81. Appointed ridingmaster to the Bengal army on monthly salary of Rs1500.,,,,00000068,Elizabeth Mary (Martha) BLAND,P1013; P1014; P1015; P1021; 00000030; P1024; P1026; P1030; P1034; P1037; P1038; P1039; P1040,Adelaide ANGELO; Anne ANGELO; Anthony Edward ANGELO; Cecilia ANGELO; Frederick John Joseph ANGELO; Georgina ANGELO; John ANGELO; Louisa ANGELO; Maria ANGELO; Matilda ANGELO; Richard ANGELO; Rosalinda ANGELO; Warren Hastings ANGELO,tree/00000403.html,people/00000403.html
+P1428,TROTTER,Captain Alex,Captain Alex TROTTER,No,,5,M,????-????,,,,,,,,P1005,Elizabeth ANDERSON,,,tree/00000435.html,people/P1428.html
+P1429,TUTTLE,Margaret,Margaret TUTTLE,No,,2,F,????-????,,,,,,,,P1520,Arthur WHITFIELD,,,tree/00000545.html,people/P1429.html
+P1430,VALLANCE,Elizabeth,Elizabeth VALLANCE,No,,4,F,????-????,,,,,,,,P1511,Thomas WHITEWAY,,,tree/00000504.html,people/P1430.html
+P1554,VAN CORTLANDT,10 others ob. infancy,10 others ob. infancy VAN CORTLANDT,No,,6,U,????-ob. infancy,,ob. infancy,,,,00000302; 00000438,Catherine OGDEN; Philip VAN CORTLANDT,,,,,tree/00000446.html,people/P1554.html
+P1431,VAN CORTLANDT,Abraham,Abraham VAN CORTLANDT,No,,8,U,1713-1746,1713,1746,,,,00000103; 00000439,Catherine DEPEYSTER; Philip VAN CORTLANDT,,,,,tree/00000447.html,people/P1431.html
+P1432,VAN CORTLANDT,Ann,Ann VAN CORTLANDT,No,,9,F,1676-????,1676,,,,,00000357; 00000447,Gertrude SCHUYLER; Stephanus VAN CORTLANDT,P1097; P1450,Stephane DE LANCY; Johannes VAN CORTLANDT,,,tree/00000447.html,people/P1432.html
+P1433,VAN CORTLANDT,Arthur Auchmutty,Arthur Auchmutty VAN CORTLANDT,No,,6,M,1787-????,1787,,,,,00000302; 00000438,Catherine OGDEN; Philip VAN CORTLANDT,P1463,Sophia Sawyers VAN CORTLANDT,,,tree/00000446.html,people/P1433.html
+P1434,VAN CORTLANDT,Catherine,Catherine VAN CORTLANDT,No,,6,F,????-????,,,,,,00000302; 00000438,Catherine OGDEN; Philip VAN CORTLANDT,P1149,Dr GOURLAY,,,tree/00000446.html,people/P1434.html
+P1435,VAN CORTLANDT,Catherine,Catherine VAN CORTLANDT,No,,8,F,1725-1735,1725,1735,,,,00000103; 00000439,Catherine DEPEYSTER; Philip VAN CORTLANDT,,,,,tree/00000447.html,people/P1435.html
+P1436,VAN CORTLANDT,Catherine,Catherine VAN CORTLANDT,No,,9,F,1696-????,1696,,,,,00000357; 00000447,Gertrude SCHUYLER; Stephanus VAN CORTLANDT,P1180,Andrew JOHNSON,,,tree/00000447.html,people/P1436.html
+P1437,VAN CORTLANDT,Catherine,Catherine VAN CORTLANDT,No,,10,F,1652-1730,1652,1730,,,,00000175; 00000448,Annetje LOCKERMAN; Oloff Stevense VAN CORTLANDT,P1098; P1338,John DEWELL; F PHILLIPSE,,,tree/00000448.html,people/P1437.html
+P1438,VAN CORTLANDT,Charlotte,Charlotte VAN CORTLANDT,No,,6,F,1783-1841,1783,1841,,,,00000302; 00000438,Catherine OGDEN; Philip VAN CORTLANDT,P1145,Sir John FRASER,,,tree/00000446.html,people/P1438.html
+P1439,VAN CORTLANDT,Col Henry Clinton,Col Henry Clinton VAN CORTLANDT,No,,6,M,1780-1864,1780,1864,,,,00000302; 00000438,Catherine OGDEN; Philip VAN CORTLANDT,P1553,An Indian Woman (??),00000425,Henry Charles VAN CORTLANDT,tree/00000415.html,people/P1439.html
+P1440,VAN CORTLANDT,Cornelia,Cornelia VAN CORTLANDT,No,,9,F,1698-c.1777,1698,c.1777,,,,00000357; 00000447,Gertrude SCHUYLER; Stephanus VAN CORTLANDT,P1366,Col John SCHUYLER,,,tree/00000447.html,people/P1440.html
+P1441,VAN CORTLANDT,Cornelia,Cornelia VAN CORTLANDT,No,,10,F,1655-1682,1655,1682,,,,00000175; 00000448,Annetje LOCKERMAN; Oloff Stevense VAN CORTLANDT,P1365,Brandt SCHUYLER,,,tree/00000448.html,people/P1441.html
+P1442,VAN CORTLANDT,Elizabeth,Elizabeth VAN CORTLANDT,No,,6,F,1764-????,1764,,,,,00000302; 00000438,Catherine OGDEN; Philip VAN CORTLANDT,P1419,William TAYLOR,,,tree/00000446.html,people/P1442.html
+P1443,VAN CORTLANDT,Elizabeth,Elizabeth VAN CORTLANDT,No,,9,F,1691-young,1691,young,,,,00000357; 00000447,Gertrude SCHUYLER; Stephanus VAN CORTLANDT,P1376,Rev William SKINNER,,,tree/00000447.html,people/P1443.html
+P1444,VAN CORTLANDT,Elizabeth,Elizabeth VAN CORTLANDT,No,,9,F,1694-????,1694,,,,,00000357; 00000447,Gertrude SCHUYLER; Stephanus VAN CORTLANDT,P1376,Rev William SKINNER,,,tree/00000447.html,people/P1444.html
+P1445,VAN CORTLANDT,Gertrude,Gertrude VAN CORTLANDT,No,,6,F,1772-????,1772,,,,,00000302; 00000438,Catherine OGDEN; Philip VAN CORTLANDT,P1070,Captain Sir Edward BUTLER RN,,,tree/00000446.html,people/P1445.html
+P1446,VAN CORTLANDT,Gertrude,Gertrude VAN CORTLANDT,No,,9,F,1681-young,1681,young,,,,00000357; 00000447,Gertrude SCHUYLER; Stephanus VAN CORTLANDT,P1056,Col Henry BEEKMAN,,,tree/00000447.html,people/P1446.html
+P1447,VAN CORTLANDT,Gertrude,Gertrude VAN CORTLANDT,No,,9,F,1688-1777,1688,1777,,,,00000357; 00000447,Gertrude SCHUYLER; Stephanus VAN CORTLANDT,P1056,Col Henry BEEKMAN,,,tree/00000447.html,people/P1447.html
+P1448,VAN CORTLANDT,Gysbert,Gysbert VAN CORTLANDT,No,,9,U,1689-young,1689,young,,,,00000357; 00000447,Gertrude SCHUYLER; Stephanus VAN CORTLANDT,,,,,tree/00000447.html,people/P1448.html
+00000425,VAN CORTLANDT,Henry Charles,Henry Charles VAN CORTLANDT,No,,5,M,1814-1888,1814,1888,,,Served with distinction as a General in the armies of both Ranjit Singh and the EIC. For the latter raised a regiment of levies which subsequently became the 23rd Punjab Infantry.,P1439; P1553,Col Henry Clinton VAN CORTLANDT; An Indian Woman (??),,,,,tree/00000415.html,people/00000425.html
+00000426,VAN CORTLANDT,Jacobus,Jacobus VAN CORTLANDT,No,,10,M,1658-1739,1658,1739,,,Founder of the branch of the family that settled on land now known as van C. Park NYC.,00000175; 00000448,Annetje LOCKERMAN; Oloff Stevense VAN CORTLANDT,P1337,Eva (de Vries) PHILIPSE,,,tree/00000448.html,people/00000426.html
+P1449,VAN CORTLANDT,Jacop Ogden,Jacop Ogden VAN CORTLANDT,No,,6,M,1774-1814,1774,1814,,,,00000302; 00000438,Catherine OGDEN; Philip VAN CORTLANDT,P1473,Anne WARRINGTON,,,tree/00000446.html,people/P1449.html
+P1450,VAN CORTLANDT,Johannes,Johannes VAN CORTLANDT,No,,9,M,1672-????,1672,,,,,00000357; 00000447,Gertrude SCHUYLER; Stephanus VAN CORTLANDT,P1432,Ann VAN CORTLANDT,,,tree/00000447.html,people/P1450.html
+P1451,VAN CORTLANDT,John,John VAN CORTLANDT,No,,8,M,1718-1746,1718,1746,,,,00000103; 00000439,Catherine DEPEYSTER; Philip VAN CORTLANDT,,,,,tree/00000447.html,people/P1451.html
+P1452,VAN CORTLANDT,John,John VAN CORTLANDT,No,,10,M,1648-1667,1648,1667,,,,00000175; 00000448,Annetje LOCKERMAN; Oloff Stevense VAN CORTLANDT,,,,,tree/00000448.html,people/P1452.html
+P1453,VAN CORTLANDT,Margaret,Margaret VAN CORTLANDT,No,,9,F,1674-????,1674,,,,,00000357; 00000447,Gertrude SCHUYLER; Stephanus VAN CORTLANDT,P1054; P1185,Col Samuel BAYARD; Peter KEMBLE,,,tree/00000447.html,people/P1453.html
+P1454,VAN CORTLANDT,Margaret Hughes,Margaret Hughes VAN CORTLANDT,No,,6,F,????-????,,,,,,00000302; 00000438,Catherine OGDEN; Philip VAN CORTLANDT,P1111,Captain Onesiphrus ELLIOT,,,tree/00000446.html,people/P1454.html
+P1455,VAN CORTLANDT,Maria,Maria VAN CORTLANDT,No,,10,F,1645-1689,1645,1689,,,,00000175; 00000448,Annetje LOCKERMAN; Oloff Stevense VAN CORTLANDT,00000453,Col Jermiah VON RANSAELER,,,tree/00000448.html,people/P1455.html
+P1456,VAN CORTLANDT,Mary,Mary VAN CORTLANDT,No,,9,F,1680-????,1680,,,,,00000357; 00000447,Gertrude SCHUYLER; Stephanus VAN CORTLANDT,P1224; P1467,John MILN; Kiliaen VAN RENSSELAER,,,tree/00000447.html,people/P1456.html
+00000435,VAN CORTLANDT,Mary Ricketts,Mary Ricketts VAN CORTLANDT,Yes,:91/6:,6,F,1763-1807or8,1763,1807 or 8,,,,00000302; 00000438,Catherine OGDEN; Philip VAN CORTLANDT,00000013,John McKeil ANDERSON,00000008; P1005; P1007; P1008; P1009; P1011; P1012,Catherine Ogden ANDERSON; Elizabeth ANDERSON; James ANDERSON; John McNeil ANDERSON; Margaret Douglas ANDERSON; Mary Anne ANDERSON; Philip Cortlandt ANDERSON,tree/00000435.html,people/00000435.html
+P1457,VAN CORTLANDT,Oliver,Oliver VAN CORTLANDT,No,,9,M,1678-1708,1678,1708,,,,00000357; 00000447,Gertrude SCHUYLER; Stephanus VAN CORTLANDT,,,,,tree/00000447.html,people/P1457.html
+00000448,VAN CORTLANDT,Oloff Stevense,Oloff Stevense VAN CORTLANDT,Yes,:2912/11:,11,M,c. 1600/1610-1684,c. 1600/1610 in Netherlands,1684,1642 in New Amsterdam,"Soldier, municipal & provincial office holder, a commissioner of Indian affairs, brewer etc.",Founder of New World branch of van C. family. Arrived in New Netherlands 1683,,,00000175,Annetje LOCKERMAN,P1437; P1441; 00000426; P1452; P1455; 00000447; P1462,Catherine VAN CORTLANDT; Cornelia VAN CORTLANDT; Jacobus VAN CORTLANDT; John VAN CORTLANDT; Maria VAN CORTLANDT; Stephanus VAN CORTLANDT; Sophia VAN CORTLANDT,tree/00000448.html,people/00000448.html
+00000438,VAN CORTLANDT,Philip,Philip VAN CORTLANDT,Yes,:182/7:,7,M,1734-1814,1734 (?)   New York,1814,,Soldier,"Loyalist (at time of American Revolution). Nephew of Pierre van C. of van C. Manor at Croton on Hudson, New York",00000342; 00000446,Mary Walton RICKETTS; Stephen VAN CORTLANDT,00000302,Catherine OGDEN,P1554; P1433; P1434; P1438; P1439; P1442; P1445; P1449; P1454; 00000435; P1458; P1464; P1461; P1463,10 others ob. infancy VAN CORTLANDT; Arthur Auchmutty VAN CORTLANDT; Catherine VAN CORTLANDT; Charlotte VAN CORTLANDT; Col Henry Clinton VAN CORTLANDT; Elizabeth VAN CORTLANDT; Gertrude VAN CORTLANDT; Jacop Ogden VAN CORTLANDT; Margaret Hughes VAN CORTLANDT; Mary Ricketts VAN CORTLANDT; Philip VAN CORTLANDT; Stephen VAN CORTLANDT; Sarah Ogden VAN CORTLANDT; Sophia Sawyers VAN CORTLANDT,tree/00000446.html,people/00000438.html
+00000439,VAN CORTLANDT,Philip,Philip VAN CORTLANDT,Yes,:728/9:,9,M,1683 Aug 8th-1748 Sept 2nd,1683 Aug 8th,1748 Sept 2nd,,"Alderman & member of Governors Council, active merchant,  aquired additional city property including a coffee house & a tavern,The Fighting Cocks.",,00000357; 00000447,Gertrude SCHUYLER; Stephanus VAN CORTLANDT,00000103,Catherine DEPEYSTER,P1431; P1435; P1451; 00000446; P1459; P1460,Abraham VAN CORTLANDT; Catherine VAN CORTLANDT; John VAN CORTLANDT; Stephen VAN CORTLANDT; Philip VAN CORTLANDT; Pierre VAN CORTLANDT,tree/00000447.html,people/00000439.html
+P1458,VAN CORTLANDT,Philip,Philip VAN CORTLANDT,No,,6,M,1766-????,1766,,,,,00000302; 00000438,Catherine OGDEN; Philip VAN CORTLANDT,P1010,Mary ANDERSON,,,tree/00000446.html,people/P1458.html
+P1459,VAN CORTLANDT,Philip,Philip VAN CORTLANDT,No,,8,M,1715-1745,1715,1745,,,,00000103; 00000439,Catherine DEPEYSTER; Philip VAN CORTLANDT,,,,,tree/00000447.html,people/P1459.html
+P1460,VAN CORTLANDT,Pierre,Pierre VAN CORTLANDT,No,,8,M,1721-1814,1721,1814,,,,00000103; 00000439,Catherine DEPEYSTER; Philip VAN CORTLANDT,P1190,Joanna LIVINGSTONE,,,tree/00000447.html,people/P1460.html
+P1461,VAN CORTLANDT,Sarah Ogden,Sarah Ogden VAN CORTLANDT,No,,6,F,1774-1857,1774,1857,,,,00000302; 00000438,Catherine OGDEN; Philip VAN CORTLANDT,P1473,Anne WARRINGTON,,,tree/00000446.html,people/P1461.html
+P1462,VAN CORTLANDT,Sophia,Sophia VAN CORTLANDT,No,,10,F,1651-1729?,1651,1729?,,,,00000175; 00000448,Annetje LOCKERMAN; Oloff Stevense VAN CORTLANDT,P1423,Andrew TILLIER,,,tree/00000448.html,people/P1462.html
+P1463,VAN CORTLANDT,Sophia Sawyers,Sophia Sawyers VAN CORTLANDT,No,,6,F,1789-1841,1789,1841,,,,00000302; 00000438,Catherine OGDEN; Philip VAN CORTLANDT,P1311; P1433,Sir W H MULCASTER; Arthur Auchmutty VAN CORTLANDT,,,tree/00000446.html,people/P1463.html
+00000447,VAN CORTLANDT,Stephanus,Stephanus VAN CORTLANDT,Yes,:1456/10:,10,M,1643 Nov 7th-1700 Nov25th,1643 Nov 7th,1700 Nov25th,1671 Sep 10th,"Soldier, Judge of the Court of Admiralty, Judge of Superior Court of Pleas of Kings County, Associate Judge & later Chief Justice of the Supreme Court of the Province of New York,  Justice of the Court of Oyer & Terminer, Chancellor of the Court of Chancery. Served on  the Governor's Council under both Dutch & English. Mayor of New York City, Commissioner of Customs & Collector of Revenue, Secretary of the Province of  New York. Brewer & businessman. Landowner.","First native born Mayor of New York, 1677",00000175; 00000448,Annetje LOCKERMAN; Oloff Stevense VAN CORTLANDT,00000357,Gertrude SCHUYLER,P1432; P1436; P1440; P1443; P1444; P1446; P1447; P1448; P1450; P1453; P1456; P1457; 00000439; P1465,Ann VAN CORTLANDT; Catherine VAN CORTLANDT; Cornelia VAN CORTLANDT; Elizabeth VAN CORTLANDT; Elizabeth VAN CORTLANDT; Gertrude VAN CORTLANDT; Gertrude VAN CORTLANDT; Gysbert VAN CORTLANDT; Johannes VAN CORTLANDT; Margaret VAN CORTLANDT; Mary VAN CORTLANDT; Oliver VAN CORTLANDT; Philip VAN CORTLANDT; Stephen VAN CORTLANDT,tree/00000447.html,people/00000447.html
+00000446,VAN CORTLANDT,Stephen,Stephen VAN CORTLANDT,Yes,:364/8:,8,M,1711 Oct 26th-1756 Oct 17th,1711 Oct 26th,1756 Oct 17th,1738 May 6th,,,00000103; 00000439,Catherine DEPEYSTER; Philip VAN CORTLANDT,00000342,Mary Walton RICKETTS,00000438; P1466,Philip VAN CORTLANDT; William Rickets VAN CORTLANDT,tree/00000446.html,people/00000446.html
+P1464,VAN CORTLANDT,Stephen,Stephen VAN CORTLANDT,No,,6,M,1776-????,1776,,,,,00000302; 00000438,Catherine OGDEN; Philip VAN CORTLANDT,,,,,tree/00000446.html,people/P1464.html
+P1465,VAN CORTLANDT,Stephen,Stephen VAN CORTLANDT,No,,9,M,1685-1756,1685,1756,,,,00000357; 00000447,Gertrude SCHUYLER; Stephanus VAN CORTLANDT,P1383,Catalina STAATS,,,tree/00000447.html,people/P1465.html
+P1466,VAN CORTLANDT,William Rickets,William Rickets VAN CORTLANDT,No,,7,M,????-????,,,,,,00000342; 00000446,Mary Walton RICKETTS; Stephen VAN CORTLANDT,P1181,Elizabeth K ??,,,tree/00000446.html,people/P1466.html
+P1467,VAN RENSSELAER,Kiliaen,Kiliaen VAN RENSSELAER,No,,9,M,????-????,,,,,,,,P1456,Mary VAN CORTLANDT,,,tree/00000447.html,people/P1467.html
+P1468,VAN SCHAICK,Anna Sophia,Anna Sophia VAN SCHAICK,No,,10,F,????-????,,,,,,,,,,,,tree/00000447.html,people/P1468.html
+P1469,VARTAN,Sophie,Sophie VARTAN,No,,2,F,1873-1961,1873,1961,,,,,,P1251,Dr. Ernest MUIR,P1234; P1253; P1257; P1292,Alexander Stewart MUIR; Dr. Victor Vartan MUIR; Ernest MUIR; Mary Helen MUIR,tree/00000229.html,people/P1469.html
+00000453,VON RANSAELER,Col Jermiah,Col Jermiah VON RANSAELER,No,,10,M,????-????,,,,4th Patroon of Rensselaerswyck,,,,P1455,Maria VAN CORTLANDT,,,tree/00000448.html,people/00000453.html
+P1470,WALDIE,James,James WALDIE,No,,3,M,????-????,,,,,,,,P1236,Amelia Wilson MUIR,,,tree/00000280.html,people/P1470.html
+P1471,WALKER,Charlotte (Molly),Charlotte (Molly) WALKER,No,,2,F,1888-1967,1888,1967,,,,,,00000502,Stephen Evan Angelo WHITEWAY,P1500; P1509,Kathleen WHITEWAY; Richwarda (Peggy) WHITEWAY,tree/00000502.html,people/P1471.html
+00000456,WALKER,Hester,Hester WALKER,Yes,,3,F,1830-????,1830,,,,,,,00000565,George WHITFIELD,P1542; P1529; P1517; P1527; P1525; 00000525; P1520,William Henry WHITFIELD; Jane Charlotte WHITFIELD; Alice WHITFIELD; Hester WHITFIELD; Helen WHITFIELD; George WHITFIELD; Arthur WHITFIELD,tree/00000545.html,people/00000456.html
+P1472,WALLACE,James,James WALLACE,No,,3,M,????-????,,,,,,,,P1293,Mary Jane (Aunt Molly) MUIR,,,tree/00000280.html,people/P1472.html
+P1473,WARRINGTON,Anne,Anne WARRINGTON,No,,6,F,????-????,,,,,,,,P1449; P1461,Jacop Ogden VAN CORTLANDT; Sarah Ogden VAN CORTLANDT,,,tree/00000446.html,people/P1473.html
+P1474,WEIR,Helen M,Helen M WEIR,No,,4,F,????-????,,,,,,,,P1198,John LOGAN,,,tree/00000176.html,people/P1474.html
+P1475,WEST,Bettina May,Bettina May WEST,No,,1,U,1921-????,1921,,,,,,,P1296,Maurice MUIR,,,tree/00000214.html,people/P1475.html
+00000460,WESTRAY,Alice Maud,Alice Maud WESTRAY,Yes,,2,F,1878-1960,1878,1960,,,,,,00000525,George WHITFIELD,P1543; P1533; 00000523; P1538,Winifred Alice WHITFIELD; Lawrence Elwood WHITFIELD; Evelyn Mary WHITFIELD; Richard Thomas WHITFIELD,tree/00000525.html,people/00000460.html
+P1476,WHATLEY,Capt. W H,Capt. W H WHATLEY,No,,3,M,????-????,,,,,,,,P1152,Agnes Mary HALL,,,,people/P1476.html
+P1477,WHITEWAY,Agnes,Agnes WHITEWAY,No,,7,F,1683-????,1683,,,,,00000506,Thomas WHITEWAY,P1226,MONDER,,,tree/00000506.html,people/P1477.html
+P1478,WHITEWAY,Agnes,Agnes WHITEWAY,No,,9,F,????-????,,,,,,00000468; 00000004,Edmond WHITEWAY; Agnes (??),,,,,tree/00000468.html,people/P1478.html
+P1479,WHITEWAY,Agnes,Agnes WHITEWAY,No,,11,F,1578-????,1578,,,,,00000141; 00000511,Thomasine GOULD; William WHITEWAY,P1089,Richard CULLING,,,tree/00000511.html,people/P1479.html
+P1480,WHITEWAY,Agnes Maye,Agnes Maye WHITEWAY,No,,4,F,1785-1852,1785,1852,,,,00000191; 00000503,Agnes MAYE; Thomas WHITEWAY,P1110,Thomas EDWARDS,,,tree/00000504.html,people/P1480.html
+P1481,WHITEWAY,Alice,Alice WHITEWAY,No,,10,F,????-????,,,,,,00000470; 00000002,Edward WHITEWAY; Grace (??),,,,,tree/00000511.html,people/P1481.html
+P1482,WHITEWAY,Anna Maria,Anna Maria WHITEWAY,No,,4,F,1789-1853,1789,1853,,,,00000191; 00000503,Agnes MAYE; Thomas WHITEWAY,P1206,Philip LUSCOMBE,,,tree/00000504.html,people/P1482.html
+P1483,WHITEWAY,Charlotte,Charlotte WHITEWAY,No,,4,F,1793-????,1793,,,,,00000191; 00000503,Agnes MAYE; Thomas WHITEWAY,P1109,John EALES,,,tree/00000504.html,people/P1483.html
+00000468,WHITEWAY,Edmond,Edmond WHITEWAY,Yes,:1280/10:,10,M,????-1666,,1666,,,,00000470; 00000002,Edward WHITEWAY; Grace (??),00000004,Agnes (??),P1478; 00000510,Agnes WHITEWAY; William WHITEWAY,tree/00000468.html,people/00000468.html
+P1484,WHITEWAY,Edmund,Edmund WHITEWAY,No,,7,M,1695-????,1695,,,,,00000506,Thomas WHITEWAY,,,,,tree/00000506.html,people/P1484.html
+00000470,WHITEWAY,Edward,Edward WHITEWAY,Yes,:2560/11:,11,M,1576-????,1576,,,,,00000141; 00000511,Thomasine GOULD; William WHITEWAY,00000002,Grace (??),P1481; 00000468; P1505; P1499; P1506,Alice WHITEWAY; Edmond WHITEWAY; Mary WHITEWAY; John WHITEWAY; Richard WHITEWAY,tree/00000511.html,people/00000470.html
+P1485,WHITEWAY,Edward,Edward WHITEWAY,No,,7,M,????-????,,,,,,00000506,Thomas WHITEWAY,,,,,tree/00000506.html,people/P1485.html
+P1486,WHITEWAY,Elizabeth,Elizabeth WHITEWAY,No,,4,F,1783-1868,1783,1868,,,,00000191; 00000503,Agnes MAYE; Thomas WHITEWAY,P1076,Thomas CODNER,,,tree/00000504.html,people/P1486.html
+P1487,WHITEWAY,Elizabeth Endacott,Elizabeth Endacott WHITEWAY,No,,3,F,1843-19??,1843,19??,,,,00000117; 00000497,Elizabeth ENDACOTT; Richard WHITEWAY,P1316,Edward NETTLESHIP,,,tree/00000497.html,people/P1487.html
+P1488,WHITEWAY,George,George WHITEWAY,No,,7,M,1693-????,1693,,,,,00000506,Thomas WHITEWAY,,,,,tree/00000506.html,people/P1488.html
+P1489,WHITEWAY,George,George WHITEWAY,No,,8,M,1662-1665,1662,1665,,,,00000510; 00000003,William WHITEWAY; Joan (??),,,,,tree/00000468.html,people/P1489.html
+P1490,WHITEWAY,George Farwell,George Farwell WHITEWAY,No,,4,M,1801-ob.inf,1801,ob.inf,,,,00000191; 00000503,Agnes MAYE; Thomas WHITEWAY,,,,,tree/00000504.html,people/P1490.html
+P1491,WHITEWAY,Helen Isabel,Helen Isabel WHITEWAY,No,,2,F,1871-19??,1871,19??,,,,00000032; 00000498,Helena Adelaide Cortlandt ANGELO; Richard Stephen WHITEWAY,00000170,Rev. John Sherlock LEAKE,P1186,Nancy LEAKE,tree/00000170.html,people/P1491.html
+P1492,WHITEWAY,Hugh,Hugh WHITEWAY,No,,7,M,1699-????,1699,,,,,00000506,Thomas WHITEWAY,,,,,tree/00000506.html,people/P1492.html
+P1493,WHITEWAY,James,James WHITEWAY,No,,13,M,????-????,,,,,,00000495,Richard WHITEWAY,,,,,tree/00000495.html,people/P1493.html
+P1494,WHITEWAY,James,James WHITEWAY,No,,13,M,????-????,,,,,,,,,,,,,people/P1494.html
+P1495,WHITEWAY,Joan,Joan WHITEWAY,No,,7,F,1687-????,1687,,,,,00000506,Thomas WHITEWAY,P1146,GAROL,,,tree/00000506.html,people/P1495.html
+P1496,WHITEWAY,Joan,Joan WHITEWAY,No,,8,F,1655-1657,1655,1657,,,,00000510; 00000003,William WHITEWAY; Joan (??),,,,,tree/00000468.html,people/P1496.html
+P1497,WHITEWAY,John,John WHITEWAY,No,,4,M,1790-1878,1790,1878,,,,00000191; 00000503,Agnes MAYE; Thomas WHITEWAY,P1213,Mary MAYE,,,tree/00000504.html,people/P1497.html
+P1498,WHITEWAY,John,John WHITEWAY,No,,7,M,????-1792,,1792,,,,00000506,Thomas WHITEWAY,,,,,tree/00000506.html,people/P1498.html
+P1499,WHITEWAY,John,John WHITEWAY,No,,10,M,????-????,,,,,,00000470; 00000002,Edward WHITEWAY; Grace (??),,,,,tree/00000511.html,people/P1499.html
+P1500,WHITEWAY,Kathleen,Kathleen WHITEWAY,No,,1,F,????-????,,,,,,P1471; 00000502,Charlotte (Molly) WALKER; Stephen Evan Angelo WHITEWAY,P1189,David LITTLE RN,P1187; P1188,Caroline LITTLE; Edwina LITTLE,tree/00000502.html,people/P1500.html
+00000486,WHITEWAY,Logie Elizabeth,Logie Elizabeth WHITEWAY,Yes,:5/2:,2,F,1877 Mar 23rd-1956,1877 Mar 23rd,"1956, Lymington","1902 Mar 5th, Shottermill",,,00000032; 00000498,Helena Adelaide Cortlandt ANGELO; Richard Stephen WHITEWAY,P1262; 00000292,Frank William MUIR; William Edward MUIR,P1256; 00000285,Elizabeth (Betty) Helen MUIR; Sir Edward Francis MUIR,tree/00000292.html,people/00000486.html
+P1501,WHITEWAY,Margaret,Margaret WHITEWAY,No,,7,F,1697-????,1697,,,,,00000506,Thomas WHITEWAY,,,,,tree/00000506.html,people/P1501.html
+P1502,WHITEWAY,Margaret,Margaret WHITEWAY,No,,8,F,1652-ob.inf,1652,ob.inf,,,,00000510; 00000003,William WHITEWAY; Joan (??),,,,,tree/00000468.html,people/P1502.html
+P1503,WHITEWAY,Margaret,Margaret WHITEWAY,No,,11,F,????-????,,,,,,00000141; 00000511,Thomasine GOULD; William WHITEWAY,P1347,John PROWSE,,,tree/00000511.html,people/P1503.html
+P1504,WHITEWAY,Mary,Mary WHITEWAY,No,,4,F,1783-????,1783,,,,,00000191; 00000503,Agnes MAYE; Thomas WHITEWAY,P1212,William MATHEWS,,,tree/00000504.html,people/P1504.html
+P1505,WHITEWAY,Mary,Mary WHITEWAY,No,,10,F,????-1650,,1650,,,,00000470; 00000002,Edward WHITEWAY; Grace (??),,,,,tree/00000511.html,people/P1505.html
+00000492,WHITEWAY,Philip,Philip WHITEWAY,No,,4,M,1799-????,1799,,,,drowned at sea,00000191; 00000503,Agnes MAYE; Thomas WHITEWAY,,,,,tree/00000504.html,people/00000492.html
+00000494,WHITEWAY,Richard,Richard WHITEWAY,Yes,:10240/13:,13,M,????-1582,,1582,,,,00000495,Richard WHITEWAY,,,00000511,William WHITEWAY,tree/00000495.html,people/00000494.html
+00000495,WHITEWAY,Richard,Richard WHITEWAY,Yes,:20480/14:,14,M,????-1565,,1565,,,,,,,,P1493; 00000494,James WHITEWAY; Richard WHITEWAY,tree/00000495.html,people/00000495.html
+00000497,WHITEWAY,Richard,Richard WHITEWAY,Yes,:20/4:,4,M,1796-1860,1796,1860,,,,00000191; 00000503,Agnes MAYE; Thomas WHITEWAY,00000117,Elizabeth ENDACOTT,P1487; 00000498,Elizabeth Endacott WHITEWAY; Richard Stephen WHITEWAY,tree/00000497.html,people/00000497.html
+P1506,WHITEWAY,Richard,Richard WHITEWAY,No,,10,M,????-1659,,1659,,,,00000470; 00000002,Edward WHITEWAY; Grace (??),,,,,tree/00000511.html,people/P1506.html
+00000498,WHITEWAY,Richard Stephen,Richard Stephen WHITEWAY,Yes,:10/3:,3,M,1845-1926,1845,"1926, Grayswood",,Indian (Bengal) Civil Service,"Educated at University of London. Appointed to Bengal Civil Service after competative exam of 1866. Arrived India Dec 10 1868 and served in NW Provinces in various grades as Collector & Magistrate. Retired in August 1893. Married at Mynpoorie Dec 12th 1870. Died Grayswood, Haslemere 1926.",00000117; 00000497,Elizabeth ENDACOTT; Richard WHITEWAY,00000032,Helena Adelaide Cortlandt ANGELO,P1491; 00000486; 00000502,Helen Isabel WHITEWAY; Logie Elizabeth WHITEWAY; Stephen Evan Angelo WHITEWAY,tree/00000497.html,people/00000498.html
+P1507,WHITEWAY,Richward,Richward WHITEWAY,No,,8,U,1650-ob inf,1650,ob inf,,,,00000510; 00000003,William WHITEWAY; Joan (??),,,,,tree/00000468.html,people/P1507.html
+P1508,WHITEWAY,Richward,Richward WHITEWAY,No,,8,U,1650-ob.inf,1650,ob.inf,,,,,,,,,,tree/00000468.html,people/P1508.html
+P1509,WHITEWAY,Richwarda (Peggy),Richwarda (Peggy) WHITEWAY,No,,1,U,????-????,,,,,,P1471; 00000502,Charlotte (Molly) WALKER; Stephen Evan Angelo WHITEWAY,P1353,Robin RICHMOND,,,tree/00000502.html,people/P1509.html
+P1510,WHITEWAY,Richwarde,Richwarde WHITEWAY,No,,7,U,1691-????,1691,,,,,00000506,Thomas WHITEWAY,P1148,GOULD,,,tree/00000506.html,people/P1510.html
+00000502,WHITEWAY,Stephen Evan Angelo,Stephen Evan Angelo WHITEWAY,No,,2,M,1872-1948,1872,"1948, Littlehampton","1907, Calcutta",Manager of ANGELO Brothers (Merchants) in Calcutta.,,00000032; 00000498,Helena Adelaide Cortlandt ANGELO; Richard Stephen WHITEWAY,P1471,Charlotte (Molly) WALKER,P1500; P1509,Kathleen WHITEWAY; Richwarda (Peggy) WHITEWAY,tree/00000502.html,people/00000502.html
+00000503,WHITEWAY,Thomas,Thomas WHITEWAY,Yes,:40/5:,5,M,1753-1841,1753,1841,,,,00000358; 00000504,A SCOBELL; Thomas WHITEWAY,00000191,Agnes MAYE,P1480; P1482; P1483; P1486; P1490; P1497; P1504; 00000492; 00000497; P1511; P1513,Agnes Maye WHITEWAY; Anna Maria WHITEWAY; Charlotte WHITEWAY; Elizabeth WHITEWAY; George Farwell WHITEWAY; John WHITEWAY; Mary WHITEWAY; Philip WHITEWAY; Richard WHITEWAY; Thomas WHITEWAY; William WHITEWAY,tree/00000504.html,people/00000503.html
+00000504,WHITEWAY,Thomas,Thomas WHITEWAY,Yes,:80/6:,6,M,1718-1804,1718,1804,,,,00000505,Thomas WHITEWAY,00000358,A SCOBELL,00000503,Thomas WHITEWAY,tree/00000504.html,people/00000504.html
+00000505,WHITEWAY,Thomas,Thomas WHITEWAY,Yes,:160/7:,7,M,1689-1764,1689,1764,,,,00000506,Thomas WHITEWAY,,,00000504,Thomas WHITEWAY,tree/00000506.html,people/00000505.html
+00000506,WHITEWAY,Thomas,Thomas WHITEWAY,Yes,:320/8:,8,M,1659-1743,1659,1743,,,,00000510; 00000003,William WHITEWAY; Joan (??),,,P1477; P1484; P1485; P1488; P1492; P1495; P1498; P1501; P1510; 00000505; P1514,Agnes WHITEWAY; Edmund WHITEWAY; Edward WHITEWAY; George WHITEWAY; Hugh WHITEWAY; Joan WHITEWAY; John WHITEWAY; Margaret WHITEWAY; Richwarde WHITEWAY; Thomas WHITEWAY; William WHITEWAY,tree/00000506.html,people/00000506.html
+P1511,WHITEWAY,Thomas,Thomas WHITEWAY,No,,4,M,1787-1861,1787,1861,,,,00000191; 00000503,Agnes MAYE; Thomas WHITEWAY,P1430,Elizabeth VALLANCE,,,tree/00000504.html,people/P1511.html
+P1512,WHITEWAY,Thomasine,Thomasine WHITEWAY,No,,11,F,1572-1631,1572,1631,,,,00000141; 00000511,Thomasine GOULD; William WHITEWAY,,,,,tree/00000511.html,people/P1512.html
+00000510,WHITEWAY,William,William WHITEWAY,Yes,:640/9:,9,M,1624-1696,1624,1696,,,,00000468; 00000004,Edmond WHITEWAY; Agnes (??),00000003,Joan (??),P1489; P1496; P1502; P1507; 00000506; P1515,George WHITEWAY; Joan WHITEWAY; Margaret WHITEWAY; Richward WHITEWAY; Thomas WHITEWAY; William WHITEWAY,tree/00000468.html,people/00000510.html
+00000511,WHITEWAY,William,William WHITEWAY,Yes,:5120/12:,12,M,1532-1615,1532,1615,,,,00000494,Richard WHITEWAY,00000141,Thomasine GOULD,P1479; 00000470; P1503; P1512; P1516,Agnes WHITEWAY; Edward WHITEWAY; Margaret WHITEWAY; Thomasine WHITEWAY; William WHITEWAY,tree/00000511.html,people/00000511.html
+P1513,WHITEWAY,William,William WHITEWAY,No,,4,M,1792-ob.inf,1792,ob.inf,,,,00000191; 00000503,Agnes MAYE; Thomas WHITEWAY,,,,,tree/00000504.html,people/P1513.html
+P1514,WHITEWAY,William,William WHITEWAY,No,,7,M,1685-????,1685,,,,,00000506,Thomas WHITEWAY,,,,,tree/00000506.html,people/P1514.html
+P1515,WHITEWAY,William,William WHITEWAY,No,,8,M,1657-1685,1657,1685,,,,00000510; 00000003,William WHITEWAY; Joan (??),P1555,Elizabeth (??),,,tree/00000468.html,people/P1515.html
+P1516,WHITEWAY,William,William WHITEWAY,No,,11,M,1570-1639,1570,1639,,,,00000141; 00000511,Thomasine GOULD; William WHITEWAY,P1229,Mary MOWNSELL,,,tree/00000511.html,people/P1516.html
+P1517,WHITFIELD,Alice,Alice WHITFIELD,No,,2,F,1855-1939,1855,1939,,,,00000456; 00000565,Hester WALKER; George WHITFIELD,,,,,tree/00000545.html,people/P1517.html
+P1518,WHITFIELD,Alice,Alice WHITFIELD,No,,4,F,1795-????,1795,,,,,00000325; 00000533,Elizabeth PINCKNEY; John WHITFIELD,P1058,James Parkin BENNING,,,tree/00000532.html,people/P1518.html
+P1519,WHITFIELD,Ann,Ann WHITFIELD,No,,4,F,1789-????,1789,,,,,00000325; 00000533,Elizabeth PINCKNEY; John WHITFIELD,,,,,tree/00000532.html,people/P1519.html
+P1520,WHITFIELD,Arthur,Arthur WHITFIELD,No,,2,M,1868-1947,1868,1947,,,,00000456; 00000565,Hester WALKER; George WHITFIELD,P1429,Margaret TUTTLE,,,tree/00000545.html,people/P1520.html
+P1521,WHITFIELD,Charles,Charles WHITFIELD,No,,3,M,1826-1882,1826,1882,,,,00000065; 00000545,Jane Barbara BENNING; William WHITFIELD,,,,,tree/00000545.html,people/P1521.html
+P1522,WHITFIELD,Derek George,Derek George WHITFIELD,No,,0,M,1939-1961,1939,1961,,,,P1420; P1533,Edna TELFORD; Lawrence Elwood WHITFIELD,,,,,tree/00000525.html,people/P1522.html
+P1523,WHITFIELD,Ernest Albert,Ernest Albert WHITFIELD,No,,2,M,1864-????,1864,,,,,,,P1527,Hester WHITFIELD,,,tree/00000545.html,people/P1523.html
+00000523,WHITFIELD,Evelyn Mary,Evelyn Mary WHITFIELD,Yes,:3/1:,1,F,1907 Dec 8th-1964,"1907 Dec 8th, Claygate","1964, London",1928 July 7th 1928,,,00000460; 00000525,Alice Maud WESTRAY; George WHITFIELD,00000285,Sir Edward Francis MUIR,P1258; 00000282,Evelyn Anne MUIR; Richard Francis MUIR,tree/00000292.html,people/00000523.html
+00000525,WHITFIELD,George,George WHITFIELD,Yes,,2,M,1866-1949,1866,1949,,,,00000456; 00000565,Hester WALKER; George WHITFIELD,00000460,Alice Maud WESTRAY,00000523; P1543; P1533; P1538,Evelyn Mary WHITFIELD; Winifred Alice WHITFIELD; Lawrence Elwood WHITFIELD; Richard Thomas WHITFIELD,tree/00000525.html,people/00000525.html
+00000565,WHITFIELD,George,George WHITFIELD,Yes,,3,M,1823-1878,1823,1878,,,,00000065; 00000545,Jane Barbara BENNING; William WHITFIELD,00000456,Hester WALKER,P1517; P1520; 00000525; P1542; P1529; P1527; P1525,Alice WHITFIELD; Arthur WHITFIELD; George WHITFIELD; William Henry WHITFIELD; Jane Charlotte WHITFIELD; Hester WHITFIELD; Helen WHITFIELD,tree/00000545.html,people/00000565.html
+P1524,WHITFIELD,George Pinckney,George Pinckney WHITFIELD,No,,4,M,1784-1857,1784,1857,,,,00000325; 00000533,Elizabeth PINCKNEY; John WHITFIELD,P1080,Charlotte CORPE,,,tree/00000532.html,people/P1524.html
+P1525,WHITFIELD,Helen,Helen WHITFIELD,No,,2,F,1863-1941,1863,1941,,,,00000456; 00000565,Hester WALKER; George WHITFIELD,,,,,tree/00000545.html,people/P1525.html
+P1526,WHITFIELD,Henry,Henry WHITFIELD,No,,3,M,1830-1833,1830,1833,,,,00000065; 00000545,Jane Barbara BENNING; William WHITFIELD,,,,,tree/00000545.html,people/P1526.html
+P1527,WHITFIELD,Hester,Hester WHITFIELD,No,,2,F,1860-1912,1860,1912,,,,00000456; 00000565,Hester WALKER; George WHITFIELD,P1523,Ernest Albert WHITFIELD,,,tree/00000545.html,people/P1527.html
+P1528,WHITFIELD,James Benning,James Benning WHITFIELD,No,,3,M,1825-1881,1825,1881,,,,00000065; 00000545,Jane Barbara BENNING; William WHITFIELD,,,,,tree/00000545.html,people/P1528.html
+P1529,WHITFIELD,Jane Charlotte,Jane Charlotte WHITFIELD,No,,2,F,1852-1856,1852,1856,,,,00000456; 00000565,Hester WALKER; George WHITFIELD,,,,,tree/00000545.html,people/P1529.html
+00000532,WHITFIELD,John,John WHITFIELD,Yes,,6,M,1721-1795,1721,1795,,,,,,00000159,Elizabeth HICKLEY,00000533; P1540,John WHITFIELD; William WHITFIELD,tree/00000532.html,people/00000532.html
+00000533,WHITFIELD,John,John WHITFIELD,Yes,,5,M,????-????,,,,,,00000159; 00000532,Elizabeth HICKLEY; John WHITFIELD,P1326; 00000325,Margaret ORD; Elizabeth PINCKNEY,P1518; P1519; P1524; P1531; 00000545; P1535; P1532; P1534,Alice WHITFIELD; Ann WHITFIELD; George Pinckney WHITFIELD; John WHITFIELD; William WHITFIELD; Mary WHITFIELD; Joseph WHITFIELD; Margaret WHITFIELD,tree/00000532.html,people/00000533.html
+P1530,WHITFIELD,John,John WHITFIELD,No,,3,M,1828-1865,1828,1865,,,,00000065; 00000545,Jane Barbara BENNING; William WHITFIELD,P1364,Jane SCARLETT,,,tree/00000545.html,people/P1530.html
+P1531,WHITFIELD,John,John WHITFIELD,No,,4,M,????-1843,,1843,,,,00000325; 00000533,Elizabeth PINCKNEY; John WHITFIELD,P1059,Hannah BENSON (?),,,tree/00000532.html,people/P1531.html
+P1532,WHITFIELD,Joseph,Joseph WHITFIELD,No,,4,M,1791-1792,1791,1792,,,,00000325; 00000533,Elizabeth PINCKNEY; John WHITFIELD,,,,,tree/00000532.html,people/P1532.html
+P1533,WHITFIELD,Lawrence Elwood,Lawrence Elwood WHITFIELD,No,,1,M,1904-1970,1904,1970,,,,00000460; 00000525,Alice Maud WESTRAY; George WHITFIELD,P1159; P1420,Grace Margaret HALL; Edna TELFORD,P1522; P1537,Derek George WHITFIELD; Patricia Jane WHITFIELD,tree/00000525.html,people/P1533.html
+P1534,WHITFIELD,Margaret,Margaret WHITFIELD,No,,4,F,1799-1826,1799,1826,,,,00000325; 00000533,Elizabeth PINCKNEY; John WHITFIELD,,,,,tree/00000532.html,people/P1534.html
+P1535,WHITFIELD,Mary,Mary WHITFIELD,No,,4,F,1787-????,1787,,,,,00000325; 00000533,Elizabeth PINCKNEY; John WHITFIELD,,,,,tree/00000532.html,people/P1535.html
+P1536,WHITFIELD,Octavius,Octavius WHITFIELD,No,,3,U,1838-1885,1838,1885,,,,00000065; 00000545,Jane Barbara BENNING; William WHITFIELD,,,,,tree/00000545.html,people/P1536.html
+P1537,WHITFIELD,Patricia Jane,Patricia Jane WHITFIELD,No,,0,F,1936-????,1936,,,,,P1420; P1533,Edna TELFORD; Lawrence Elwood WHITFIELD,P1108,Richard Measham DUFFIELD,P1102; P1104; P1106; P1107,Adrian Richard DUFFIELD; Alison Jane DUFFIELD; Jocelyn Alice DUFFIELD; Nicholas Thomas DUFFIELD,tree/00000113.html,people/P1537.html
+P1538,WHITFIELD,Richard Thomas,Richard Thomas WHITFIELD,No,,1,M,1902-1927,1902,1927,,,,00000460; 00000525,Alice Maud WESTRAY; George WHITFIELD,,,,,tree/00000525.html,people/P1538.html
+P1539,WHITFIELD,Septimus Augustus,Septimus Augustus WHITFIELD,No,,3,U,1831-1868,1831,1868,,,,00000065; 00000545,Jane Barbara BENNING; William WHITFIELD,,,,,tree/00000545.html,people/P1539.html
+00000545,WHITFIELD,William,William WHITFIELD,Yes,,4,M,1785-1859,1785,1859,,,,00000325; 00000533,Elizabeth PINCKNEY; John WHITFIELD,00000065,Jane Barbara BENNING,P1521; 00000565; P1526; P1528; P1530; P1536; P1539; P1541,Charles WHITFIELD; George WHITFIELD; Henry WHITFIELD; James Benning WHITFIELD; John WHITFIELD; Octavius WHITFIELD; Septimus Augustus WHITFIELD; William Benning WHITFIELD,tree/00000545.html,people/00000545.html
+P1540,WHITFIELD,William,William WHITFIELD,No,,5,M,1753-1824,1753,1824,,,,00000159; 00000532,Elizabeth HICKLEY; John WHITFIELD,00000325,Elizabeth PINCKNEY,,,tree/00000532.html,people/P1540.html
+P1541,WHITFIELD,William Benning,William Benning WHITFIELD,No,,3,M,1821-1841,1821,1841,,,,00000065; 00000545,Jane Barbara BENNING; William WHITFIELD,,,,,tree/00000545.html,people/P1541.html
+P1542,WHITFIELD,William Henry,William Henry WHITFIELD,No,,2,M,1850-1933,1850,1933,,,,00000456; 00000565,Hester WALKER; George WHITFIELD,P1211; P1327,Louise Therese Henriette MARCHAND; Amy Elizabeth OSBORN,,,tree/00000545.html,people/P1542.html
+P1543,WHITFIELD,Winifred Alice,Winifred Alice WHITFIELD,No,,1,F,1901-1977,1901,1977,,,,00000460; 00000525,Alice Maud WESTRAY; George WHITFIELD,,,,,tree/00000525.html,people/P1543.html
+P1544,WIGHT,Euphemia,Euphemia WIGHT,No,,3,F,????-????,,,,,,,,P1277,James Logan MUIR,,,tree/00000280.html,people/P1544.html
+P1545,WILLIS,Grace,Grace WILLIS,No,,3,F,????-????,,,,,,,,P1323,Maj. H OLDFIELD,P1322,John OLDFIELD,tree/00000311.html,people/P1545.html
+00000551,WILSON,Amelia,Amelia WILSON,Yes,:33/5:,5,F,1778-1837,1778,1837,,,,,,00000204,Alexander MUIR,P1232; P1242; P1244; P1254; P1255; P1272; P1282; 00000280; P1304; P1308,Alexander MUIR; Anne MUIR; Archibald MUIR; Elizabeth MUIR; Elizabeth MUIR; James MUIR; John MUIR; Rev Francis MUIR; Thomas MUIR; William MUIR,tree/00000239.html,people/00000551.html
+P1546,WILSON,Helen Drysdale,Helen Drysdale WILSON,No,,3,F,1847-1928,1847,1928,,,,,,P1300,Rev. Gavin Struthers MUIR,P1238; P1251; P1260; P1303,Andrew (Reo) MUIR; Dr. Ernest MUIR; Francis MUIR; Theodora MUIR,tree/00000280.html,people/P1546.html
+P1547,WINRAME,John,John WINRAME,No,,13,M,????-????,,,,,,,,,,,,tree/00000381.html,people/P1547.html
+P1548,WOODS,Jean,Jean WOODS,No,,1,F,1916-????,1916,,,,,,,P1253,Dr. Victor Vartan MUIR,,,tree/00000229.html,people/P1548.html
+P1549,YOUNG,H,H YOUNG,No,,5,M,????-????,,,,,,,,P1011; P1012,Mary Anne ANDERSON; Philip Cortlandt ANDERSON,,,tree/00000435.html,people/P1549.html
+00000555,YOUNG,Helen,Helen YOUNG,Yes,:4097/12:,12,F,????-????,,,,,,,,00000261,John MUIR,P1237; P1264; P1276; 00000260; P1290,Andrew MUIR; Helen MUIR; James MUIR; John MUIR; Margaret MUIR,tree/00000261.html,people/00000555.html
+00000004,??,Agnes,Agnes (??),Yes,:1281/10:,10,F,????-1653,,1653,,,,,,00000468,Edmond WHITEWAY,P1478; 00000510,Agnes WHITEWAY; William WHITEWAY,tree/00000468.html,people/00000004.html
+P1553,??,An Indian Woman,An Indian Woman (??),No,,6,F,????-????,,,,,,,,P1439,Col Henry Clinton VAN CORTLANDT,00000425,Henry Charles VAN CORTLANDT,tree/00000415.html,people/P1553.html
+P1550,??,Brenda,Brenda (??),No,,2,F,????-????,,,,,,,,P1003,Capt. John ANDERSON,,,tree/00000011.html,people/P1550.html
+00000001,??,Elinor,Elinor (??),Yes,:673/9:,9,F,????-1696,,1696,,,,,,00000118,John ENDACOTT,P1116; P1119; P1120; 00000122,Joan ENDACOTT; John ENDACOTT; Margaret ENDACOTT; Thomas ENDACOTT,tree/00000118.html,people/00000001.html
+P1555,??,Elizabeth,Elizabeth (??),No,,8,F,????-????,,,,,,,,P1515,William WHITEWAY,,,tree/00000468.html,people/P1555.html
+00000002,??,Grace,Grace (??),Yes,:2561/11:,11,F,????-1633,,1633,,,,,,00000470,Edward WHITEWAY,P1481; 00000468; P1499; P1505; P1506,Alice WHITEWAY; Edmond WHITEWAY; John WHITEWAY; Mary WHITEWAY; Richard WHITEWAY,tree/00000511.html,people/00000002.html
+00000003,??,Joan,Joan (??),Yes,:641/9:,9,F,????-1663,,1663,,,,,,00000510,William WHITEWAY,P1489; P1496; P1502; P1507; 00000506; P1515,George WHITEWAY; Joan WHITEWAY; Margaret WHITEWAY; Richward WHITEWAY; Thomas WHITEWAY; William WHITEWAY,tree/00000468.html,people/00000003.html
+00000614,??,Joan,Joan (??),Yes,,6,F,????-????,,,,,,,,00000120,Stephen ENDACOTT,P1117; P1122; 00000119,Joanna ENDACOTT; Mary ENDACOTT; Stephen ENDACOTT,tree/00000120.html,people/00000614.html
+P1551,??,Johanna,Johanna (??),No,,6,F,????-????,,,,,,,,P1118,John ENDACOTT,,,tree/00000122.html,people/P1551.html
+00000694,??,Margaret,Margaret (??),No,,15,F,????-????,,,,,d. of Christian 1 of Denmark,,,00000689,James STEUART,,,,people/00000694.html
+00000005,??,Mary,Mary (??),Yes,:337/8:,8,F,????-????,,,,,,,,00000122,Thomas ENDACOTT,P1112; P1115; 00000121; P1126,Ebott ENDACOTT; Joan ENDACOTT; Stephen ENDACOTT; Thomas ENDACOTT,tree/00000118.html,people/00000005.html
+P1552,??,Rannald,Rannald (??),No,,10,M,????-????,,,,,,,,P1400,Jonat STEUART,,,tree/00000380.html,people/P1552.html
+P1556,??,Sarah,Sarah (??),No,,3,F,????-????,,,,,,,,P1155,Alp Arslan HALL,,,,people/P1556.html

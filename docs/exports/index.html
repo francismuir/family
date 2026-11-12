@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data &amp; GEDCOM Exports — The Muir Family Tree</title>
+  <meta name="description" content="The Muir Family Tree &amp; Genealogy Archive — Muir, Steuart, Angelo, Van Cortlandt, Whiteway, Endacott, Whitfield, and Hall family history.">
+  <link rel="stylesheet" href="../assets/style.css">
+  
+</head>
+<body data-rel-root="..">
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="../index.html" class="brand">
+        <span class="brand-crest">M</span>
+        <span class="brand-text">
+          <strong>The Muir Family Tree</strong>
+          <small>Genealogy &amp; Family History Archive</small>
+        </span>
+      </a>
+      <nav class="main-nav" aria-label="Main Navigation">
+          <a href="../index.html" class="nav-link">Home</a>
+          <a href="../tree/explorer.html" class="nav-link">Interactive Tree</a>
+          <a href="../misc/map.html" class="nav-link">Tree Map</a>
+          <a href="../people/index.html" class="nav-link">Direct Ancestors</a>
+          <a href="../people/indexall.html" class="nav-link">All People</a>
+          <a href="../angelos/angelos.html" class="nav-link">The Angelos</a>
+          <a href="../notes/index.html" class="nav-link">Course Notes</a>
+          <a href="../exports/index.html" class="nav-link active">Data & GEDCOM</a>
+      </nav>
+      <div class="header-actions">
+        <div class="search-wrapper">
+          <input type="search" id="global-person-search" class="search-input" placeholder="Search 696 people..." autocomplete="off" aria-label="Search people">
+          <div id="global-search-results" class="search-dropdown" hidden></div>
+        </div>
+        <button type="button" id="theme-toggle" class="theme-btn" title="Toggle dark/light mode" aria-label="Toggle theme">◐</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-container">
+
+    <div class="page-header">
+      <div>
+        <div class="breadcrumbs"><a href="../index.html">Home</a> · Data &amp; GEDCOM Exports</div>
+        <h1>Extracted Data &amp; Genealogy Exports</h1>
+        <p style="color:var(--text-muted);margin:0;">All relationship data, biographical records, and the legacy Microsoft Access 97 database (<code>Docs/family.mdb</code>) extracted into modern open formats.</p>
+      </div>
+    </div>
+
+    <div class="grid-2">
+      <div class="card" style="border-top:4px solid var(--accent);">
+        <span class="badge badge-ancestor" style="margin-bottom:0.5rem;">Recommended for Spreadsheets</span>
+        <h2>Excel Workbook (<code>.xlsx</code>) &amp; CSVs</h2>
+        <p>Multi-sheet Microsoft Excel workbook containing 4 worksheets: <strong>People (696)</strong>, <strong>Families &amp; Marriages (262)</strong>, <strong>Relationships</strong>, and the decoded <strong>Access DB (Family Table, 104 records)</strong>.</p>
+        <div style="display:flex;gap:0.5rem;flex-wrap:wrap;margin-top:1rem;">
+          <a href="muir_family_tree.xlsx" class="btn btn-primary" download>⬇ Download Excel Workbook (.xlsx)</a>
+          <a href="people.csv" class="btn" download>people.csv</a>
+          <a href="families.csv" class="btn" download>families.csv</a>
+          <a href="relationships.csv" class="btn" download>relationships.csv</a>
+          <a href="access_family_table.csv" class="btn" download>access_family_table.csv</a>
+        </div>
+      </div>
+
+      <div class="card" style="border-top:4px solid var(--primary);">
+        <span class="badge badge-primary" style="margin-bottom:0.5rem;">Ancestry.co.uk / FindMyPast / MyHeritage</span>
+        <h2>Standard GEDCOM 5.5.1 (<code>.ged</code>)</h2>
+        <p>Complete Lineage-Linked GEDCOM 5.5.1 file containing all 696 individuals (<code>INDI</code>) and 262 families (<code>FAM</code>), ready for direct upload to <strong>Ancestry.co.uk</strong> or any genealogy software.</p>
+        <div style="display:flex;gap:0.5rem;flex-wrap:wrap;margin-top:1rem;">
+          <a href="muir_family_tree.ged" class="btn btn-primary" download>⬇ Download GEDCOM (.ged) for Ancestry.co.uk</a>
+        </div>
+        <div style="margin-top:1rem;padding:0.75rem;background:var(--bg-subtle);border-radius:var(--radius-sm);font-size:0.85rem;">
+          <strong>How to import into Ancestry.co.uk:</strong>
+          <ol style="margin:0.35rem 0 0;padding-left:1.25rem;">
+            <li>Sign in to <strong>Ancestry.co.uk</strong> and click <strong>Trees</strong> → <strong>Create &amp; Manage Trees</strong>.</li>
+            <li>Click <strong>Upload a GEDCOM file</strong> at the bottom of the list.</li>
+            <li>Select <code>muir_family_tree.ged</code> and name your tree (e.g., <em>The Muir Family Tree</em>).</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Structured XML &amp; JSON Exports</h2>
+      <p>Hierarchical machine- and human-readable exports containing all person attributes, parent/spouse/child cross-references, and the raw 46-column Microsoft Access database records.</p>
+      <div style="display:flex;gap:0.65rem;flex-wrap:wrap;margin-top:0.75rem;">
+        <a href="family_tree.xml" class="btn" download>⬇ Download XML (family_tree.xml)</a>
+        <a href="family_tree.json" class="btn" download>⬇ Download JSON (family_tree.json)</a>
+      </div>
+    </div>
+    
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div>
+        <strong>The Muir Family Tree &amp; Genealogy Archive</strong>
+        <p>Originally researched by Richard Francis Muir (1930–2019) and created by Francis Muir (2000–2001). Modernized with complete Access database &amp; GEDCOM exports.</p>
+      </div>
+      <div class="footer-links">
+        <a href="../index.html">Home</a>
+        <a href="../tree/explorer.html">Interactive Tree</a>
+        <a href="../misc/map.html">Map</a>
+        <a href="../people/index.html">Direct Ancestors</a>
+        <a href="../people/indexall.html">All People</a>
+        <a href="../exports/index.html">Downloads &amp; GEDCOM</a>
+        <a href="../misc/history.html">Site History</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../assets/tree-data.js"></script>
+  <script src="../assets/app.js"></script>
+</body>
+</html>

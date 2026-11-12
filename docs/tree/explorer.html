@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Family Tree Explorer — The Muir Family Tree</title>
+  <meta name="description" content="The Muir Family Tree &amp; Genealogy Archive — Muir, Steuart, Angelo, Van Cortlandt, Whiteway, Endacott, Whitfield, and Hall family history.">
+  <link rel="stylesheet" href="../assets/style.css">
+  
+</head>
+<body data-rel-root="..">
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="../index.html" class="brand">
+        <span class="brand-crest">M</span>
+        <span class="brand-text">
+          <strong>The Muir Family Tree</strong>
+          <small>Genealogy &amp; Family History Archive</small>
+        </span>
+      </a>
+      <nav class="main-nav" aria-label="Main Navigation">
+          <a href="../index.html" class="nav-link">Home</a>
+          <a href="../tree/explorer.html" class="nav-link active">Interactive Tree</a>
+          <a href="../misc/map.html" class="nav-link">Tree Map</a>
+          <a href="../people/index.html" class="nav-link">Direct Ancestors</a>
+          <a href="../people/indexall.html" class="nav-link">All People</a>
+          <a href="../angelos/angelos.html" class="nav-link">The Angelos</a>
+          <a href="../notes/index.html" class="nav-link">Course Notes</a>
+          <a href="../exports/index.html" class="nav-link">Data & GEDCOM</a>
+      </nav>
+      <div class="header-actions">
+        <div class="search-wrapper">
+          <input type="search" id="global-person-search" class="search-input" placeholder="Search 696 people..." autocomplete="off" aria-label="Search people">
+          <div id="global-search-results" class="search-dropdown" hidden></div>
+        </div>
+        <button type="button" id="theme-toggle" class="theme-btn" title="Toggle dark/light mode" aria-label="Toggle theme">◐</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-container">
+
+    <div class="page-header">
+      <div>
+        <div class="breadcrumbs"><a href="../index.html">Home</a> · Interactive Family Tree Explorer</div>
+        <h1>Interactive Family Tree Explorer</h1>
+        <p style="color:var(--text-muted);margin:0;">Dynamically trace ancestors (pedigree) or descendants across all 19 generations.</p>
+      </div>
+    </div>
+
+    <div class="tree-toolbar" style="gap:0.75rem;">
+      <div style="display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;">
+        <label for="explorer-root-select" style="font-weight:600;font-size:0.88rem;">Root Person:</label>
+        <select id="explorer-root-select" class="search-input" style="width:280px;border-radius:6px;"></select>
+
+        <label for="explorer-mode-select" style="font-weight:600;font-size:0.88rem;margin-left:0.5rem;">View Mode:</label>
+        <select id="explorer-mode-select" class="search-input" style="width:190px;border-radius:6px;">
+          <option value="ancestors">Pedigree (Ancestors ↑)</option>
+          <option value="descendants">Descendants (Issue ↓)</option>
+        </select>
+
+        <label for="explorer-depth-select" style="font-weight:600;font-size:0.88rem;margin-left:0.5rem;">Generations:</label>
+        <select id="explorer-depth-select" class="search-input" style="width:110px;border-radius:6px;">
+          <option value="3">3 Gens</option>
+          <option value="4" selected>4 Gens</option>
+          <option value="5">5 Gens</option>
+          <option value="6">6 Gens</option>
+          <option value="8">8 Gens</option>
+        </select>
+      </div>
+      <div style="display:flex;gap:0.4rem;flex-wrap:wrap;">
+        <button type="button" class="btn" data-preset="00000282" data-mode="ancestors">R. F. Muir Ancestors</button>
+        <button type="button" class="btn" data-preset="00000385" data-mode="descendants">King James II Descendants</button>
+        <button type="button" class="btn" data-preset="00000448" data-mode="descendants">Van Cortlandt Descendants</button>
+        <button type="button" class="btn" data-preset="00000403" data-mode="descendants">Angelo Descendants</button>
+      </div>
+    </div>
+
+    <div class="tree-viewport" id="explorer-viewport">
+      <div class="tree-stage" id="tree-stage" data-zoom="1">
+        <svg class="tree-connectors-svg" id="tree-connectors-svg"></svg>
+        <div id="explorer-rows-container" style="display:flex;flex-direction:column;gap:4rem;"></div>
+      </div>
+    </div>
+
+    <script>
+    (function() {
+      window.addEventListener("DOMContentLoaded", function() {
+        if (!window.FAMILY_DATA) return;
+        const people = window.FAMILY_DATA.people;
+        const rootSelect = document.getElementById("explorer-root-select");
+        const modeSelect = document.getElementById("explorer-mode-select");
+        const depthSelect = document.getElementById("explorer-depth-select");
+        const container = document.getElementById("explorer-rows-container");
+        const stage = document.getElementById("tree-stage");
+        const svg = document.getElementById("tree-connectors-svg");
+
+        // Populate dropdown with key people & all people with connections
+        const allList = Object.values(people).filter(function(p) {
+          return p.p.length > 0 || p.c.length > 0 || p.da;
+        }).sort(function(a, b) {
+          if (a.da !== b.da) return a.da ? -1 : 1;
+          return a.sn.localeCompare(b.sn) || a.cn.localeCompare(b.cn);
+        });
+
+        rootSelect.innerHTML = allList.map(function(p) {
+          const star = p.da ? "★ " : "";
+          return '<option value="' + p.id + '">' + star + p.sn + ', ' + p.cn + ' (' + p.dates + ') [Gen ' + p.gen + ']</option>';
+        }).join("");
+
+        const params = new URLSearchParams(window.location.search);
+        const initialRoot = params.get("root") && people[params.get("root")] ? params.get("root") : "00000282";
+        const initialMode = params.get("mode") || (people[initialRoot] && people[initialRoot].c.length > 0 && people[initialRoot].p.length === 0 ? "descendants" : "ancestors");
+        rootSelect.value = initialRoot;
+        modeSelect.value = initialMode;
+
+        function renderExplorer() {
+          const rootId = rootSelect.value;
+          const mode = modeSelect.value;
+          const maxDepth = parseInt(depthSelect.value, 10) || 4;
+          if (!people[rootId]) return;
+
+          const levels = [];
+          const seen = new Set([rootId]);
+          levels.push([{ pid: rootId, parentNodeId: null }]);
+
+          for (let d = 1; d < maxDepth; d++) {
+            const prevLevel = levels[d - 1];
+            const nextLevel = [];
+            prevLevel.forEach(function(item) {
+              const p = people[item.pid];
+              if (!p) return;
+              const nodeDomId = "exp_" + (d - 1) + "_" + item.pid;
+              const relIds = mode === "ancestors" ? p.p : p.c;
+              relIds.forEach(function(rid) {
+                if (!seen.has(rid) && people[rid]) {
+                  seen.add(rid);
+                  nextLevel.push({ pid: rid, parentNodeId: nodeDomId });
+                }
+              });
+            });
+            if (nextLevel.length === 0) break;
+            levels.push(nextLevel);
+          }
+
+          // If mode is ancestors, display oldest generation at top and root at bottom!
+          const displayLevels = mode === "ancestors" ? levels.slice().reverse() : levels;
+
+          let html = "";
+          displayLevels.forEach(function(lvl, rowIdx) {
+            const origDepth = mode === "ancestors" ? (levels.length - 1 - rowIdx) : rowIdx;
+            const sampleP = people[lvl[0].pid];
+            const genLabel = sampleP ? sampleP.gen : "";
+            const cardsHtml = lvl.map(function(item) {
+              const p = people[item.pid];
+              const domId = "exp_" + origDepth + "_" + item.pid;
+              let parentAttr = "";
+              if (mode === "descendants" && item.parentNodeId) {
+                parentAttr = ' data-parent-node="' + item.parentNodeId + '"';
+              }
+              const star = p.da ? ' <span style="color:var(--accent);">★</span>' : '';
+              const spNames = (p.s || []).map(function(sid) {
+                return people[sid] ? '<div class="spouse-divider">m. <a href="../people/' + sid + '.html">' + people[sid].name + '</a></div>' : '';
+              }).join("");
+              const treeBtn = p.tid ? '<a href="' + p.tid + '.html" class="tree-nav-btn down">View 3-Gen Tree</a>' : '';
+              return '<div class="tree-node-card" id="' + domId + '"' + parentAttr + ' data-child-target="' + (item.parentNodeId || "") + '" data-accent="' + (p.da ? "#FFFF99" : "#8080FF") + '">' +
+                '<button type="button" class="tree-nav-btn exp-recenter" data-pid="' + p.id + '">⊕ Focus Tree Here</button>' +
+                '<a href="../people/' + p.id + '.html" class="person-block-name">' + p.name + star + '</a>' +
+                '<span class="person-block-dates">' + (p.dates || "") + '</span>' +
+                (p.prof ? '<span class="issue-pill">' + p.prof.slice(0, 38) + '</span>' : '') +
+                spNames +
+                treeBtn +
+              '</div>';
+            }).join("");
+
+            html += '<div class="tree-gen-row">' +
+              '<div class="tree-gen-badge"><span>Gen</span><strong>' + genLabel + '</strong></div>' +
+              '<div class="tree-row-nodes">' + cardsHtml + '</div>' +
+            '</div>';
+          });
+
+          container.innerHTML = html;
+
+          // If mode is ancestors, wire data-parent-node from upper row (parents) to lower row (child)
+          if (mode === "ancestors") {
+            container.querySelectorAll(".tree-node-card").forEach(function(card) {
+              const childTarget = card.getAttribute("data-child-target");
+              if (childTarget) {
+                // card is a parent of childTarget; in top-down SVG drawing, child has data-parent-node
+                card.removeAttribute("data-parent-node");
+              }
+            });
+          }
+
+          // Draw SVG connectors for explorer
+          setTimeout(function() {
+            const stageRect = stage.getBoundingClientRect();
+            const w = stage.scrollWidth;
+            const h = stage.scrollHeight;
+            svg.setAttribute("width", w);
+            svg.setAttribute("height", h);
+            svg.setAttribute("viewBox", "0 0 " + w + " " + h);
+            let paths = "";
+            container.querySelectorAll(".tree-node-card").forEach(function(card) {
+              const pId = mode === "descendants" ? card.getAttribute("data-parent-node") : card.id;
+              const cId = mode === "descendants" ? card.id : card.getAttribute("data-child-target");
+              if (!pId || !cId) return;
+              const pEl = document.getElementById(pId);
+              const cEl = document.getElementById(cId);
+              if (!pEl || !cEl) return;
+              const pRect = pEl.getBoundingClientRect();
+              const cRect = cEl.getBoundingClientRect();
+              const x1 = pRect.left - stageRect.left + pRect.width / 2;
+              const y1 = pRect.bottom - stageRect.top;
+              const x2 = cRect.left - stageRect.left + cRect.width / 2;
+              const y2 = cRect.top - stageRect.top;
+              const midY = y1 + (y2 - y1) * 0.5;
+              const d = "M " + x1.toFixed(1) + " " + y1.toFixed(1) + " L " + x1.toFixed(1) + " " + midY.toFixed(1) + " L " + x2.toFixed(1) + " " + midY.toFixed(1) + " L " + x2.toFixed(1) + " " + y2.toFixed(1);
+              paths += '<path d="' + d + '" fill="none" stroke="var(--connector-color)" stroke-width="2.2"/>';
+            });
+            svg.innerHTML = paths;
+          }, 30);
+
+          container.querySelectorAll(".exp-recenter").forEach(function(btn) {
+            btn.addEventListener("click", function() {
+              rootSelect.value = btn.getAttribute("data-pid");
+              renderExplorer();
+            });
+          });
+        }
+
+        rootSelect.addEventListener("change", renderExplorer);
+        modeSelect.addEventListener("change", renderExplorer);
+        depthSelect.addEventListener("change", renderExplorer);
+
+        document.querySelectorAll("[data-preset]").forEach(function(btn) {
+          btn.addEventListener("click", function() {
+            rootSelect.value = btn.getAttribute("data-preset");
+            modeSelect.value = btn.getAttribute("data-mode");
+            renderExplorer();
+          });
+        });
+
+        renderExplorer();
+      });
+    })();
+    </script>
+    
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div>
+        <strong>The Muir Family Tree &amp; Genealogy Archive</strong>
+        <p>Originally researched by Richard Francis Muir (1930–2019) and created by Francis Muir (2000–2001). Modernized with complete Access database &amp; GEDCOM exports.</p>
+      </div>
+      <div class="footer-links">
+        <a href="../index.html">Home</a>
+        <a href="../tree/explorer.html">Interactive Tree</a>
+        <a href="../misc/map.html">Map</a>
+        <a href="../people/index.html">Direct Ancestors</a>
+        <a href="../people/indexall.html">All People</a>
+        <a href="../exports/index.html">Downloads &amp; GEDCOM</a>
+        <a href="../misc/history.html">Site History</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../assets/tree-data.js"></script>
+  <script src="../assets/app.js"></script>
+</body>
+</html>
