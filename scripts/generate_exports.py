@@ -648,6 +648,8 @@ def generate_all_exports(ds=None):
                 ged_lines.append(f"2 DATE {d_date}")
             if d_plac:
                 ged_lines.append(f"2 PLAC {d_plac}")
+        elif p["death"].strip() in ("????", "?"):
+            ged_lines.append("1 DEAT Y")
 
         if p["profession"]:
             ged_lines.append(f"1 OCCU {p['profession'][:240]}")

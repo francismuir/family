@@ -24,7 +24,7 @@
       <Surname>AGUILA</Surname>
       <GivenNames>Raphael del</GivenNames>
       <FullName>Raphael del AGUILA</FullName>
-      <LifeDates>19??-????</LifeDates>
+      <LifeDates>19??-</LifeDates>
       <Birth>19??</Birth>
       <PrimaryTreePage>tree/00000090.html</PrimaryTreePage>
       <ProfilePage>people/P1002.html</ProfilePage>
@@ -37,6 +37,8 @@
       <GivenNames>Capt. John</GivenNames>
       <FullName>Capt. John ANDERSON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000011.html</PrimaryTreePage>
       <ProfilePage>people/P1003.html</ProfilePage>
       <Parents>
@@ -51,7 +53,7 @@
       <Surname>ANDERSON</Surname>
       <GivenNames>Catherine Ogden</GivenNames>
       <FullName>Catherine Ogden ANDERSON</FullName>
-      <LifeDates>1802-1863 Jan 25th</LifeDates>
+      <LifeDates>1802-1863</LifeDates>
       <Birth>1802</Birth>
       <Death>1863 Jan 25th, Ootacamund</Death>
       <Marriage>1825 Dec 15th</Marriage>
@@ -82,6 +84,8 @@
       <GivenNames>Col. Clinton</GivenNames>
       <FullName>Col. Clinton ANDERSON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000011.html</PrimaryTreePage>
       <ProfilePage>people/P1004.html</ProfilePage>
       <Parents>
@@ -101,6 +105,7 @@
       <FullName>Elizabeth ANDERSON</FullName>
       <LifeDates>1799-????</LifeDates>
       <Birth>1799</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000435.html</PrimaryTreePage>
       <ProfilePage>people/P1005.html</ProfilePage>
       <Parents>
@@ -116,6 +121,8 @@
       <GivenNames>Gen. H</GivenNames>
       <FullName>Gen. H ANDERSON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000011.html</PrimaryTreePage>
       <ProfilePage>people/P1006.html</ProfilePage>
       <Spouses>
@@ -132,6 +139,7 @@
       <FullName>James ANDERSON</FullName>
       <LifeDates>1796-????</LifeDates>
       <Birth>1796</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000435.html</PrimaryTreePage>
       <ProfilePage>people/P1007.html</ProfilePage>
       <Parents>
@@ -144,6 +152,7 @@
       <GivenNames>John McKeil</GivenNames>
       <FullName>John McKeil ANDERSON</FullName>
       <LifeDates>????-1804</LifeDates>
+      <Birth>????</Birth>
       <Death>1804</Death>
       <Profession>Indian Army ?</Profession>
       <PrimaryTreePage>tree/00000435.html</PrimaryTreePage>
@@ -167,6 +176,7 @@
       <FullName>John McNeil ANDERSON</FullName>
       <LifeDates>1791-????</LifeDates>
       <Birth>1791</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000435.html</PrimaryTreePage>
       <ProfilePage>people/P1008.html</ProfilePage>
       <Parents>
@@ -180,6 +190,7 @@
       <FullName>Margaret Douglas ANDERSON</FullName>
       <LifeDates>1803-????</LifeDates>
       <Birth>1803</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000435.html</PrimaryTreePage>
       <ProfilePage>people/P1009.html</ProfilePage>
       <Parents>
@@ -195,6 +206,8 @@
       <GivenNames>Mary</GivenNames>
       <FullName>Mary ANDERSON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1010.html</ProfilePage>
       <Spouses>
@@ -207,6 +220,7 @@
       <FullName>Mary Anne ANDERSON</FullName>
       <LifeDates>1789-????</LifeDates>
       <Birth>1789</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000435.html</PrimaryTreePage>
       <ProfilePage>people/P1011.html</ProfilePage>
       <Parents>
@@ -223,6 +237,7 @@
       <FullName>Philip Cortlandt ANDERSON</FullName>
       <LifeDates>1793-????</LifeDates>
       <Birth>1793</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000435.html</PrimaryTreePage>
       <ProfilePage>people/P1012.html</ProfilePage>
       <Parents>
@@ -238,6 +253,8 @@
       <GivenNames>Adelaide</GivenNames>
       <FullName>Adelaide ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1013.html</ProfilePage>
       <Parents>
@@ -253,6 +270,8 @@
       <GivenNames>Anne</GivenNames>
       <FullName>Anne ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1014.html</ProfilePage>
       <Parents>
@@ -282,6 +301,8 @@
       <GivenNames>Anthony Richard</GivenNames>
       <FullName>Anthony Richard ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1016.html</ProfilePage>
       <Parents>
@@ -294,6 +315,8 @@
       <GivenNames>Beatrice</GivenNames>
       <FullName>Beatrice ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000041.html</PrimaryTreePage>
       <ProfilePage>people/P1017.html</ProfilePage>
       <Parents>
@@ -312,6 +335,8 @@
       <GivenNames>Carolina</GivenNames>
       <FullName>Carolina ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000011.html</PrimaryTreePage>
       <ProfilePage>people/P1018.html</ProfilePage>
       <Parents>
@@ -330,6 +355,8 @@
       <GivenNames>Catherina</GivenNames>
       <FullName>Catherina ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000362.html</PrimaryTreePage>
       <ProfilePage>people/P1019.html</ProfilePage>
       <Parents>
@@ -367,6 +394,7 @@
       <FullName>Cecilia ANGELO</FullName>
       <LifeDates>1791-????</LifeDates>
       <Birth>1791</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1021.html</ProfilePage>
       <Parents>
@@ -382,6 +410,8 @@
       <GivenNames>Col. Cecil Cortlandt</GivenNames>
       <FullName>Col. Cecil Cortlandt ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000041.html</PrimaryTreePage>
       <ProfilePage>people/P1022.html</ProfilePage>
       <Parents>
@@ -394,6 +424,8 @@
       <GivenNames>Elliot</GivenNames>
       <FullName>Elliot ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1023.html</ProfilePage>
       <Parents>
@@ -411,7 +443,7 @@
       <Surname>ANGELO</Surname>
       <GivenNames>Frederick Cortlandt</GivenNames>
       <FullName>Frederick Cortlandt ANGELO</FullName>
-      <LifeDates>1826 Oct 6th-1857 Jun 27th</LifeDates>
+      <LifeDates>1826-1857</LifeDates>
       <Birth>1826 Oct 6th, Kurnaul India</Birth>
       <Death>1857 Jun 27th, in the massacre at Cawnpore.</Death>
       <Marriage>1850 Oct 31st, Benares India</Marriage>
@@ -436,7 +468,7 @@
       <Surname>ANGELO</Surname>
       <GivenNames>Frederick John Joseph</GivenNames>
       <FullName>Frederick John Joseph ANGELO</FullName>
-      <LifeDates>1800 Jan 26th-1869 Jan 22nd</LifeDates>
+      <LifeDates>1800-1869</LifeDates>
       <Birth>1800 Jan 26th, London</Birth>
       <Death>1869 Jan 22nd, Ootacamund</Death>
       <Marriage>1825 Dec 15th</Marriage>
@@ -468,6 +500,8 @@
       <GivenNames>Georgina</GivenNames>
       <FullName>Georgina ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1024.html</ProfilePage>
       <Parents>
@@ -479,7 +513,7 @@
       <Surname>ANGELO</Surname>
       <GivenNames>Helena Adelaide Cortlandt</GivenNames>
       <FullName>Helena Adelaide Cortlandt ANGELO</FullName>
-      <LifeDates>1853 Jun 22nd-1911</LifeDates>
+      <LifeDates>1853-1911</LifeDates>
       <Birth>1853 Jun 22nd, Etawah India</Birth>
       <Death>1911, Shottermill</Death>
       <Marriage>1870 Dec 12th, Mynpoorie India</Marriage>
@@ -503,6 +537,8 @@
       <GivenNames>Irma</GivenNames>
       <FullName>Irma ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000374.html</PrimaryTreePage>
       <ProfilePage>people/P1025.html</ProfilePage>
       <Parents>
@@ -553,6 +589,8 @@
       <GivenNames>Lillian</GivenNames>
       <FullName>Lillian ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000041.html</PrimaryTreePage>
       <ProfilePage>people/P1028.html</ProfilePage>
       <Parents>
@@ -572,6 +610,8 @@
       <GivenNames>Louisa</GivenNames>
       <FullName>Louisa ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000126.html</PrimaryTreePage>
       <ProfilePage>people/P1029.html</ProfilePage>
       <Parents>
@@ -594,6 +634,7 @@
       <FullName>Louisa ANGELO</FullName>
       <LifeDates>1789-????</LifeDates>
       <Birth>1789</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1030.html</ProfilePage>
       <Parents>
@@ -609,6 +650,8 @@
       <GivenNames>Mabel</GivenNames>
       <FullName>Mabel ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000041.html</PrimaryTreePage>
       <ProfilePage>people/P1031.html</ProfilePage>
       <Parents>
@@ -628,6 +671,8 @@
       <GivenNames>Maj. Gen. Pakenham</GivenNames>
       <FullName>Maj. Gen. Pakenham ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000041.html</PrimaryTreePage>
       <ProfilePage>people/P1032.html</ProfilePage>
       <Parents>
@@ -646,6 +691,8 @@
       <GivenNames>Major John</GivenNames>
       <FullName>Major John ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000041.html</PrimaryTreePage>
       <ProfilePage>people/P1033.html</ProfilePage>
       <Parents>
@@ -668,6 +715,8 @@
       <GivenNames>Maria</GivenNames>
       <FullName>Maria ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1034.html</ProfilePage>
       <Parents>
@@ -680,6 +729,8 @@
       <GivenNames>Martin Kenneth</GivenNames>
       <FullName>Martin Kenneth ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1035.html</ProfilePage>
       <Parents>
@@ -695,6 +746,8 @@
       <GivenNames>Mary</GivenNames>
       <FullName>Mary ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000311.html</PrimaryTreePage>
       <ProfilePage>people/P1036.html</ProfilePage>
       <Parents>
@@ -715,6 +768,8 @@
       <GivenNames>Matilda</GivenNames>
       <FullName>Matilda ANGELO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1037.html</ProfilePage>
       <Parents>
@@ -745,6 +800,7 @@
       <FullName>Rosalinda ANGELO</FullName>
       <LifeDates>1791-????</LifeDates>
       <Birth>1791</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1039.html</ProfilePage>
       <Parents>
@@ -759,7 +815,7 @@
       <Surname>ANGELO</Surname>
       <GivenNames>Warren Hastings</GivenNames>
       <FullName>Warren Hastings ANGELO</FullName>
-      <LifeDates>1797?-1832</LifeDates>
+      <LifeDates>1797-1832</LifeDates>
       <Birth>1797?</Birth>
       <Death>1832</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
@@ -792,6 +848,8 @@
       <GivenNames>John ?</GivenNames>
       <FullName>John ? ANGELO MALEVOLTI TREMAMANDO</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Notes>of Edinburgh ?</Notes>
       <ProfilePage>people/00000049.html</ProfilePage>
       <Parents>
@@ -807,6 +865,7 @@
       <GivenNames>Giacomo</GivenNames>
       <FullName>Giacomo ANGELO TREMAMANDO</FullName>
       <LifeDates>????-of Livorno</LifeDates>
+      <Birth>????</Birth>
       <Death>of Livorno</Death>
       <Marriage>1713 Dec 3rd</Marriage>
       <Notes>of Livorno</Notes>
@@ -824,6 +883,7 @@
       <GivenNames>Marion</GivenNames>
       <FullName>Marion ARCHE</FullName>
       <LifeDates>????-1611</LifeDates>
+      <Birth>????</Birth>
       <Death>1611</Death>
       <PrimaryTreePage>tree/00000262.html</PrimaryTreePage>
       <ProfilePage>people/00000051.html</ProfilePage>
@@ -853,6 +913,8 @@
       <GivenNames>Charles</GivenNames>
       <FullName>Charles AULD</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1042.html</ProfilePage>
       <Spouses>
@@ -864,6 +926,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John AYTON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000381.html</PrimaryTreePage>
       <ProfilePage>people/P1043.html</ProfilePage>
       <Spouses>
@@ -874,7 +938,7 @@
       <Surname>BAILEY</Surname>
       <GivenNames>Fergus Andrew Whitburn</GivenNames>
       <FullName>Fergus Andrew Whitburn BAILEY</FullName>
-      <LifeDates>1993-????</LifeDates>
+      <LifeDates>1993-</LifeDates>
       <Birth>1993</Birth>
       <PrimaryTreePage>tree/00000113.html</PrimaryTreePage>
       <ProfilePage>people/P1044.html</ProfilePage>
@@ -887,7 +951,7 @@
       <Surname>BAILEY</Surname>
       <GivenNames>Gemma Catherine Jane</GivenNames>
       <FullName>Gemma Catherine Jane BAILEY</FullName>
-      <LifeDates>1997-????</LifeDates>
+      <LifeDates>1997-</LifeDates>
       <Birth>1997</Birth>
       <PrimaryTreePage>tree/00000113.html</PrimaryTreePage>
       <ProfilePage>people/P1045.html</ProfilePage>
@@ -901,6 +965,8 @@
       <GivenNames>Mai Le</GivenNames>
       <FullName>Mai Le BAILEY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000311.html</PrimaryTreePage>
       <ProfilePage>people/P1046.html</ProfilePage>
       <Spouses>
@@ -915,7 +981,7 @@
       <Surname>BAILEY</Surname>
       <GivenNames>Matthew Philip Whitburn</GivenNames>
       <FullName>Matthew Philip Whitburn BAILEY</FullName>
-      <LifeDates>1961-????</LifeDates>
+      <LifeDates>1961-</LifeDates>
       <Birth>1961</Birth>
       <PrimaryTreePage>tree/00000113.html</PrimaryTreePage>
       <ProfilePage>people/P1047.html</ProfilePage>
@@ -932,7 +998,7 @@
       <Surname>BAILEY</Surname>
       <GivenNames>Robert Douglas Whitburn</GivenNames>
       <FullName>Robert Douglas Whitburn BAILEY</FullName>
-      <LifeDates>1995-????</LifeDates>
+      <LifeDates>1995-</LifeDates>
       <Birth>1995</Birth>
       <PrimaryTreePage>tree/00000113.html</PrimaryTreePage>
       <ProfilePage>people/P1048.html</ProfilePage>
@@ -945,7 +1011,8 @@
       <Surname>BAIRD</Surname>
       <GivenNames>Heather</GivenNames>
       <FullName>Heather BAIRD</FullName>
-      <LifeDates>????-????</LifeDates>
+      <LifeDates>????-</LifeDates>
+      <Birth>????</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1049.html</ProfilePage>
     </Person>
@@ -953,7 +1020,7 @@
       <Surname>BAKER</Surname>
       <GivenNames>Jane</GivenNames>
       <FullName>Jane BAKER</FullName>
-      <LifeDates>19??-????</LifeDates>
+      <LifeDates>19??-</LifeDates>
       <Birth>19??</Birth>
       <PrimaryTreePage>tree/00000090.html</PrimaryTreePage>
       <ProfilePage>people/P1050.html</ProfilePage>
@@ -966,6 +1033,8 @@
       <GivenNames></GivenNames>
       <FullName>BALL</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000118.html</PrimaryTreePage>
       <ProfilePage>people/P1051.html</ProfilePage>
       <Spouses>
@@ -977,6 +1046,8 @@
       <GivenNames>William</GivenNames>
       <FullName>William BALL</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000122.html</PrimaryTreePage>
       <ProfilePage>people/P1052.html</ProfilePage>
       <Spouses>
@@ -989,6 +1060,7 @@
       <FullName>Peter BARKER</FullName>
       <LifeDates>1933-????</LifeDates>
       <Birth>1933</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000229.html</PrimaryTreePage>
       <ProfilePage>people/P1053.html</ProfilePage>
       <Spouses>
@@ -1000,6 +1072,8 @@
       <GivenNames>Col Samuel</GivenNames>
       <FullName>Col Samuel BAYARD</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1054.html</ProfilePage>
       <Spouses>
@@ -1011,6 +1085,8 @@
       <GivenNames>Frederick S</GivenNames>
       <FullName>Frederick S BEAUMONT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <ProfilePage>people/P1055.html</ProfilePage>
       <Spouses>
         <Spouse ref="P1156">Clara Louisa HALL</Spouse>
@@ -1021,6 +1097,8 @@
       <GivenNames>Col Henry</GivenNames>
       <FullName>Col Henry BEEKMAN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1056.html</ProfilePage>
       <Spouses>
@@ -1032,7 +1110,7 @@
       <Surname>BENNET</Surname>
       <GivenNames>Pamela</GivenNames>
       <FullName>Pamela BENNET</FullName>
-      <LifeDates>1943-????</LifeDates>
+      <LifeDates>1943-</LifeDates>
       <Birth>1943</Birth>
       <PrimaryTreePage>tree/00000229.html</PrimaryTreePage>
       <ProfilePage>people/P1057.html</ProfilePage>
@@ -1046,6 +1124,7 @@
       <FullName>James Parkin BENNING</FullName>
       <LifeDates>1787-????</LifeDates>
       <Birth>1787</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000532.html</PrimaryTreePage>
       <ProfilePage>people/P1058.html</ProfilePage>
       <Spouses>
@@ -1080,6 +1159,8 @@
       <GivenNames>Hannah</GivenNames>
       <FullName>Hannah BENSON (?)</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000532.html</PrimaryTreePage>
       <ProfilePage>people/P1059.html</ProfilePage>
       <Spouses>
@@ -1120,6 +1201,8 @@
       <GivenNames>Amy</GivenNames>
       <FullName>Amy BLYTH</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000041.html</PrimaryTreePage>
       <ProfilePage>people/P1060.html</ProfilePage>
       <Spouses>
@@ -1138,6 +1221,8 @@
       <GivenNames>Lord</GivenNames>
       <FullName>Lord BOYD</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000385.html</PrimaryTreePage>
       <ProfilePage>people/P1061.html</ProfilePage>
       <Spouses>
@@ -1170,6 +1255,8 @@
       <GivenNames>Jessie</GivenNames>
       <FullName>Jessie BROWN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1063.html</ProfilePage>
       <Spouses>
@@ -1180,7 +1267,7 @@
       <Surname>BROWN</Surname>
       <GivenNames>Judith Marion</GivenNames>
       <FullName>Judith Marion BROWN</FullName>
-      <LifeDates>1954-????</LifeDates>
+      <LifeDates>1954-</LifeDates>
       <Birth>1954</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1064.html</ProfilePage>
@@ -1190,6 +1277,8 @@
       <GivenNames></GivenNames>
       <FullName>BROWNING</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000262.html</PrimaryTreePage>
       <ProfilePage>people/P1065.html</ProfilePage>
       <Spouses>
@@ -1200,7 +1289,7 @@
       <Surname>BROWNLIE</Surname>
       <GivenNames>David</GivenNames>
       <FullName>David BROWNLIE</FullName>
-      <LifeDates>19??-????</LifeDates>
+      <LifeDates>19??-</LifeDates>
       <Birth>19??</Birth>
       <PrimaryTreePage>tree/00000073.html</PrimaryTreePage>
       <ProfilePage>people/P1066.html</ProfilePage>
@@ -1216,7 +1305,7 @@
       <Surname>BROWNLIE</Surname>
       <GivenNames>Glen</GivenNames>
       <FullName>Glen BROWNLIE</FullName>
-      <LifeDates>1972-????</LifeDates>
+      <LifeDates>1972-</LifeDates>
       <Birth>1972</Birth>
       <PrimaryTreePage>tree/00000073.html</PrimaryTreePage>
       <ProfilePage>people/P1067.html</ProfilePage>
@@ -1229,7 +1318,7 @@
       <Surname>BROWNLIE</Surname>
       <GivenNames>Martin</GivenNames>
       <FullName>Martin BROWNLIE</FullName>
-      <LifeDates>1969-????</LifeDates>
+      <LifeDates>1969-</LifeDates>
       <Birth>1969</Birth>
       <PrimaryTreePage>tree/00000073.html</PrimaryTreePage>
       <ProfilePage>people/P1068.html</ProfilePage>
@@ -1243,6 +1332,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John BURKE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1069.html</ProfilePage>
       <Spouses>
@@ -1254,6 +1345,8 @@
       <GivenNames>Captain Sir Edward</GivenNames>
       <FullName>Captain Sir Edward BUTLER RN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1070.html</ProfilePage>
       <Spouses>
@@ -1265,6 +1358,8 @@
       <GivenNames>Surgeon Major</GivenNames>
       <FullName>Surgeon Major CATELL</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1071.html</ProfilePage>
       <Spouses>
@@ -1275,7 +1370,7 @@
       <Surname>CESSFORD</Surname>
       <GivenNames>Gillian Elizabeth</GivenNames>
       <FullName>Gillian Elizabeth CESSFORD</FullName>
-      <LifeDates>1957-????</LifeDates>
+      <LifeDates>1957-</LifeDates>
       <Birth>1957</Birth>
       <PrimaryTreePage>tree/00000113.html</PrimaryTreePage>
       <ProfilePage>people/P1072.html</ProfilePage>
@@ -1292,6 +1387,8 @@
       <GivenNames>Daughter of Capt. Chester RN</GivenNames>
       <FullName>Daughter of Capt. Chester RN CHESTER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <ProfilePage>people/P1558.html</ProfilePage>
       <Spouses>
         <Spouse ref="00000644">Dominico ANGELO MALEVOLTI</Spouse>
@@ -1301,7 +1398,8 @@
       <Surname>CHESTER</Surname>
       <GivenNames>Paul</GivenNames>
       <FullName>Paul CHESTER</FullName>
-      <LifeDates>????-????</LifeDates>
+      <LifeDates>????-</LifeDates>
+      <Birth>????</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1073.html</ProfilePage>
     </Person>
@@ -1310,6 +1408,8 @@
       <GivenNames>Janet</GivenNames>
       <FullName>Janet CHRISTIE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/P1074.html</ProfilePage>
       <Spouses>
@@ -1334,6 +1434,8 @@
       <GivenNames>Thomas</GivenNames>
       <FullName>Thomas CODNER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000504.html</PrimaryTreePage>
       <ProfilePage>people/P1076.html</ProfilePage>
       <Spouses>
@@ -1345,6 +1447,8 @@
       <GivenNames>Charles</GivenNames>
       <FullName>Charles COOPER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000083.html</PrimaryTreePage>
       <ProfilePage>people/P1077.html</ProfilePage>
       <Spouses>
@@ -1360,6 +1464,8 @@
       <GivenNames>Joan</GivenNames>
       <FullName>Joan COOPER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000083.html</PrimaryTreePage>
       <ProfilePage>people/P1078.html</ProfilePage>
       <Parents>
@@ -1372,6 +1478,8 @@
       <GivenNames>Nancy</GivenNames>
       <FullName>Nancy COOPER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000083.html</PrimaryTreePage>
       <ProfilePage>people/P1079.html</ProfilePage>
       <Parents>
@@ -1397,6 +1505,8 @@
       <GivenNames>Andrew</GivenNames>
       <FullName>Andrew COUPER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000380.html</PrimaryTreePage>
       <ProfilePage>people/P1081.html</ProfilePage>
       <Spouses>
@@ -1408,6 +1518,8 @@
       <GivenNames></GivenNames>
       <FullName>COUTTS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/P1082.html</ProfilePage>
       <Spouses>
@@ -1419,6 +1531,8 @@
       <GivenNames></GivenNames>
       <FullName>COYSH</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000122.html</PrimaryTreePage>
       <ProfilePage>people/P1083.html</ProfilePage>
       <Spouses>
@@ -1429,7 +1543,7 @@
       <Surname>CREAGH-OSBORNE</Surname>
       <GivenNames>Clare</GivenNames>
       <FullName>Clare CREAGH-OSBORNE</FullName>
-      <LifeDates>1955-????</LifeDates>
+      <LifeDates>1955-</LifeDates>
       <Birth>1955</Birth>
       <PrimaryTreePage>tree/00000090.html</PrimaryTreePage>
       <ProfilePage>people/P1084.html</ProfilePage>
@@ -1442,7 +1556,7 @@
       <Surname>CREAGH-OSBORNE</Surname>
       <GivenNames>Fiona</GivenNames>
       <FullName>Fiona CREAGH-OSBORNE</FullName>
-      <LifeDates>1957-????</LifeDates>
+      <LifeDates>1957-</LifeDates>
       <Birth>1957</Birth>
       <PrimaryTreePage>tree/00000090.html</PrimaryTreePage>
       <ProfilePage>people/P1085.html</ProfilePage>
@@ -1458,7 +1572,7 @@
       <Surname>CREAGH-OSBORNE</Surname>
       <GivenNames>Roger</GivenNames>
       <FullName>Roger CREAGH-OSBORNE</FullName>
-      <LifeDates>1957-????</LifeDates>
+      <LifeDates>1957-</LifeDates>
       <Birth>1957</Birth>
       <PrimaryTreePage>tree/00000090.html</PrimaryTreePage>
       <ProfilePage>people/P1086.html</ProfilePage>
@@ -1493,6 +1607,8 @@
       <GivenNames>Sir William (?)</GivenNames>
       <FullName>Sir William (?) CRICHTON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000385.html</PrimaryTreePage>
       <ProfilePage>people/P1088.html</ProfilePage>
       <Spouses>
@@ -1504,6 +1620,8 @@
       <GivenNames>Agnes</GivenNames>
       <FullName>Agnes CROCKET</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/00000091.html</ProfilePage>
       <Spouses>
@@ -1520,6 +1638,7 @@
       <GivenNames>Richard</GivenNames>
       <FullName>Richard CULLING</FullName>
       <LifeDates>????-1640</LifeDates>
+      <Birth>????</Birth>
       <Death>1640</Death>
       <PrimaryTreePage>tree/00000511.html</PrimaryTreePage>
       <ProfilePage>people/P1089.html</ProfilePage>
@@ -1551,7 +1670,7 @@
       <Surname>CURIE</Surname>
       <GivenNames>Annette Una</GivenNames>
       <FullName>Annette Una CURIE</FullName>
-      <LifeDates>1954-????</LifeDates>
+      <LifeDates>1954-</LifeDates>
       <Birth>1954</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1090.html</ProfilePage>
@@ -1561,6 +1680,8 @@
       <GivenNames>Ada</GivenNames>
       <FullName>Ada CURTIS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000126.html</PrimaryTreePage>
       <ProfilePage>people/P1091.html</ProfilePage>
       <Parents>
@@ -1573,6 +1694,8 @@
       <GivenNames>F</GivenNames>
       <FullName>F CURTIS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000126.html</PrimaryTreePage>
       <ProfilePage>people/P1092.html</ProfilePage>
       <Spouses>
@@ -1586,7 +1709,7 @@
       <Surname>CUTLER</Surname>
       <GivenNames>Genevieve</GivenNames>
       <FullName>Genevieve CUTLER</FullName>
-      <LifeDates>1977-????</LifeDates>
+      <LifeDates>1977-</LifeDates>
       <Birth>1977</Birth>
       <PrimaryTreePage>tree/00000099.html</PrimaryTreePage>
       <ProfilePage>people/P1093.html</ProfilePage>
@@ -1599,7 +1722,7 @@
       <Surname>CUTLER</Surname>
       <GivenNames>Kirsten</GivenNames>
       <FullName>Kirsten CUTLER</FullName>
-      <LifeDates>1978-????</LifeDates>
+      <LifeDates>1978-</LifeDates>
       <Birth>1978</Birth>
       <PrimaryTreePage>tree/00000099.html</PrimaryTreePage>
       <ProfilePage>people/P1094.html</ProfilePage>
@@ -1612,7 +1735,7 @@
       <Surname>CUTLER RAF</Surname>
       <GivenNames>David</GivenNames>
       <FullName>David CUTLER RAF</FullName>
-      <LifeDates>19??-????</LifeDates>
+      <LifeDates>19??-</LifeDates>
       <Birth>19??</Birth>
       <PrimaryTreePage>tree/00000099.html</PrimaryTreePage>
       <ProfilePage>people/P1095.html</ProfilePage>
@@ -1629,6 +1752,7 @@
       <GivenNames>Jean</GivenNames>
       <FullName>Jean DAVIDSON</FullName>
       <LifeDates>????-1783</LifeDates>
+      <Birth>????</Birth>
       <Death>1783</Death>
       <PrimaryTreePage>tree/00000386.html</PrimaryTreePage>
       <ProfilePage>people/00000100.html</ProfilePage>
@@ -1643,7 +1767,7 @@
       <Surname>DAVIES</Surname>
       <GivenNames>Clare</GivenNames>
       <FullName>Clare DAVIES</FullName>
-      <LifeDates>1964-????</LifeDates>
+      <LifeDates>1964-</LifeDates>
       <Birth>1964</Birth>
       <PrimaryTreePage>tree/00000113.html</PrimaryTreePage>
       <ProfilePage>people/P1096.html</ProfilePage>
@@ -1656,6 +1780,8 @@
       <GivenNames>Stephane</GivenNames>
       <FullName>Stephane DE LANCY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1097.html</ProfilePage>
       <Spouses>
@@ -1667,6 +1793,8 @@
       <GivenNames>Catherine</GivenNames>
       <FullName>Catherine DEPEYSTER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/00000103.html</ProfilePage>
       <Spouses>
@@ -1686,6 +1814,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John DEWELL</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000448.html</PrimaryTreePage>
       <ProfilePage>people/P1098.html</ProfilePage>
       <Spouses>
@@ -1696,7 +1826,7 @@
       <Surname>DIXON</Surname>
       <GivenNames>Glennys Robyn</GivenNames>
       <FullName>Glennys Robyn DIXON</FullName>
-      <LifeDates>1949-????</LifeDates>
+      <LifeDates>1949-</LifeDates>
       <Birth>1949</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1099.html</ProfilePage>
@@ -1705,7 +1835,7 @@
       <Surname>DREW</Surname>
       <GivenNames>Davide</GivenNames>
       <FullName>Davide DREW</FullName>
-      <LifeDates>1938-????</LifeDates>
+      <LifeDates>1938-</LifeDates>
       <Birth>1938</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1100.html</ProfilePage>
@@ -1715,6 +1845,8 @@
       <GivenNames>David, Lord</GivenNames>
       <FullName>David, Lord DRUMMOND</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000381.html</PrimaryTreePage>
       <ProfilePage>people/P1101.html</ProfilePage>
       <Spouses>
@@ -1725,7 +1857,7 @@
       <Surname>DUFFIELD</Surname>
       <GivenNames>Adrian Richard</GivenNames>
       <FullName>Adrian Richard DUFFIELD</FullName>
-      <LifeDates>1960-????</LifeDates>
+      <LifeDates>1960-</LifeDates>
       <Birth>1960</Birth>
       <PrimaryTreePage>tree/00000113.html</PrimaryTreePage>
       <ProfilePage>people/P1102.html</ProfilePage>
@@ -1745,7 +1877,7 @@
       <Surname>DUFFIELD</Surname>
       <GivenNames>Alastair James</GivenNames>
       <FullName>Alastair James DUFFIELD</FullName>
-      <LifeDates>1995-????</LifeDates>
+      <LifeDates>1995-</LifeDates>
       <Birth>1995</Birth>
       <PrimaryTreePage>tree/00000113.html</PrimaryTreePage>
       <ProfilePage>people/P1103.html</ProfilePage>
@@ -1758,7 +1890,7 @@
       <Surname>DUFFIELD</Surname>
       <GivenNames>Alison Jane</GivenNames>
       <FullName>Alison Jane DUFFIELD</FullName>
-      <LifeDates>1961-????</LifeDates>
+      <LifeDates>1961-</LifeDates>
       <Birth>1961</Birth>
       <PrimaryTreePage>tree/00000113.html</PrimaryTreePage>
       <ProfilePage>people/P1104.html</ProfilePage>
@@ -1779,7 +1911,7 @@
       <Surname>DUFFIELD</Surname>
       <GivenNames>Frederick George</GivenNames>
       <FullName>Frederick George DUFFIELD</FullName>
-      <LifeDates>1991-????</LifeDates>
+      <LifeDates>1991-</LifeDates>
       <Birth>1991</Birth>
       <PrimaryTreePage>tree/00000113.html</PrimaryTreePage>
       <ProfilePage>people/P1105.html</ProfilePage>
@@ -1792,7 +1924,7 @@
       <Surname>DUFFIELD</Surname>
       <GivenNames>Jocelyn Alice</GivenNames>
       <FullName>Jocelyn Alice DUFFIELD</FullName>
-      <LifeDates>1970-????</LifeDates>
+      <LifeDates>1970-</LifeDates>
       <Birth>1970</Birth>
       <PrimaryTreePage>tree/00000113.html</PrimaryTreePage>
       <ProfilePage>people/P1106.html</ProfilePage>
@@ -1805,7 +1937,7 @@
       <Surname>DUFFIELD</Surname>
       <GivenNames>Nicholas Thomas</GivenNames>
       <FullName>Nicholas Thomas DUFFIELD</FullName>
-      <LifeDates>1962-????</LifeDates>
+      <LifeDates>1962-</LifeDates>
       <Birth>1962</Birth>
       <PrimaryTreePage>tree/00000113.html</PrimaryTreePage>
       <ProfilePage>people/P1107.html</ProfilePage>
@@ -1823,6 +1955,7 @@
       <FullName>Richard Measham DUFFIELD</FullName>
       <LifeDates>1936-????</LifeDates>
       <Birth>1936</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000113.html</PrimaryTreePage>
       <ProfilePage>people/P1108.html</ProfilePage>
       <Spouses>
@@ -1840,6 +1973,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John EALES</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000504.html</PrimaryTreePage>
       <ProfilePage>people/P1109.html</ProfilePage>
       <Spouses>
@@ -1851,6 +1986,8 @@
       <GivenNames>Thomas</GivenNames>
       <FullName>Thomas EDWARDS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000504.html</PrimaryTreePage>
       <ProfilePage>people/P1110.html</ProfilePage>
       <Spouses>
@@ -1862,6 +1999,8 @@
       <GivenNames>Captain Onesiphrus</GivenNames>
       <FullName>Captain Onesiphrus ELLIOT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1111.html</ProfilePage>
       <Spouses>
@@ -1873,6 +2012,8 @@
       <GivenNames>Ebott</GivenNames>
       <FullName>Ebott ENDACOTT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000122.html</PrimaryTreePage>
       <ProfilePage>people/P1112.html</ProfilePage>
       <Parents>
@@ -1905,6 +2046,8 @@
       <GivenNames>Harriett</GivenNames>
       <FullName>Harriett ENDACOTT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000120.html</PrimaryTreePage>
       <ProfilePage>people/P1113.html</ProfilePage>
       <Parents>
@@ -1919,6 +2062,8 @@
       <GivenNames>Joan</GivenNames>
       <FullName>Joan ENDACOTT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000122.html</PrimaryTreePage>
       <ProfilePage>people/P1114.html</ProfilePage>
       <Parents>
@@ -1933,6 +2078,8 @@
       <GivenNames>Joan</GivenNames>
       <FullName>Joan ENDACOTT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000122.html</PrimaryTreePage>
       <ProfilePage>people/P1115.html</ProfilePage>
       <Parents>
@@ -1945,6 +2092,8 @@
       <GivenNames>Joan</GivenNames>
       <FullName>Joan ENDACOTT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000118.html</PrimaryTreePage>
       <ProfilePage>people/P1116.html</ProfilePage>
       <Parents>
@@ -1960,6 +2109,8 @@
       <GivenNames>Joanna</GivenNames>
       <FullName>Joanna ENDACOTT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000120.html</PrimaryTreePage>
       <ProfilePage>people/P1117.html</ProfilePage>
       <Parents>
@@ -1972,6 +2123,7 @@
       <GivenNames>John</GivenNames>
       <FullName>John ENDACOTT</FullName>
       <LifeDates>????-1691</LifeDates>
+      <Birth>????</Birth>
       <Death>1691</Death>
       <Notes>of Ideford, Devon</Notes>
       <PrimaryTreePage>tree/00000118.html</PrimaryTreePage>
@@ -1991,6 +2143,7 @@
       <GivenNames>John</GivenNames>
       <FullName>John ENDACOTT</FullName>
       <LifeDates>????-1754</LifeDates>
+      <Birth>????</Birth>
       <Death>1754</Death>
       <PrimaryTreePage>tree/00000122.html</PrimaryTreePage>
       <ProfilePage>people/P1118.html</ProfilePage>
@@ -2006,6 +2159,7 @@
       <GivenNames>John</GivenNames>
       <FullName>John ENDACOTT</FullName>
       <LifeDates>????-1696</LifeDates>
+      <Birth>????</Birth>
       <Death>1696</Death>
       <PrimaryTreePage>tree/00000118.html</PrimaryTreePage>
       <ProfilePage>people/P1119.html</ProfilePage>
@@ -2022,6 +2176,8 @@
       <GivenNames>Margaret</GivenNames>
       <FullName>Margaret ENDACOTT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000118.html</PrimaryTreePage>
       <ProfilePage>people/P1120.html</ProfilePage>
       <Parents>
@@ -2038,6 +2194,8 @@
       <GivenNames>Mary</GivenNames>
       <FullName>Mary ENDACOTT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000120.html</PrimaryTreePage>
       <ProfilePage>people/P1121.html</ProfilePage>
       <Parents>
@@ -2049,6 +2207,8 @@
       <GivenNames>Mary</GivenNames>
       <FullName>Mary ENDACOTT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000120.html</PrimaryTreePage>
       <ProfilePage>people/P1122.html</ProfilePage>
       <Parents>
@@ -2061,6 +2221,8 @@
       <GivenNames>Mary</GivenNames>
       <FullName>Mary ENDACOTT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000122.html</PrimaryTreePage>
       <ProfilePage>people/P1123.html</ProfilePage>
       <Parents>
@@ -2074,7 +2236,8 @@
       <Surname>ENDACOTT</Surname>
       <GivenNames>Stephen</GivenNames>
       <FullName>Stephen ENDACOTT</FullName>
-      <LifeDates>????-1835 (8)</LifeDates>
+      <LifeDates>????-1835</LifeDates>
+      <Birth>????</Birth>
       <Death>1835 (8)</Death>
       <PrimaryTreePage>tree/00000120.html</PrimaryTreePage>
       <ProfilePage>people/00000119.html</ProfilePage>
@@ -2094,6 +2257,7 @@
       <GivenNames>Stephen</GivenNames>
       <FullName>Stephen ENDACOTT</FullName>
       <LifeDates>????-1777</LifeDates>
+      <Birth>????</Birth>
       <Death>1777</Death>
       <PrimaryTreePage>tree/00000120.html</PrimaryTreePage>
       <ProfilePage>people/00000120.html</ProfilePage>
@@ -2113,7 +2277,8 @@
       <Surname>ENDACOTT</Surname>
       <GivenNames>Stephen</GivenNames>
       <FullName>Stephen ENDACOTT</FullName>
-      <LifeDates>????-1746(?)</LifeDates>
+      <LifeDates>????-1746</LifeDates>
+      <Birth>????</Birth>
       <Death>1746(?)</Death>
       <PrimaryTreePage>tree/00000122.html</PrimaryTreePage>
       <ProfilePage>people/00000121.html</ProfilePage>
@@ -2133,6 +2298,7 @@
       <GivenNames>Stephen</GivenNames>
       <FullName>Stephen ENDACOTT</FullName>
       <LifeDates>????-1894</LifeDates>
+      <Birth>????</Birth>
       <Death>1894</Death>
       <PrimaryTreePage>tree/00000603.html</PrimaryTreePage>
       <ProfilePage>people/P1124.html</ProfilePage>
@@ -2145,6 +2311,7 @@
       <GivenNames>Stephen</GivenNames>
       <FullName>Stephen ENDACOTT</FullName>
       <LifeDates>????-1876</LifeDates>
+      <Birth>????</Birth>
       <Death>1876</Death>
       <PrimaryTreePage>tree/00000603.html</PrimaryTreePage>
       <ProfilePage>people/P1125.html</ProfilePage>
@@ -2160,6 +2327,7 @@
       <GivenNames>Thomas</GivenNames>
       <FullName>Thomas ENDACOTT</FullName>
       <LifeDates>????-1719</LifeDates>
+      <Birth>????</Birth>
       <Death>1719</Death>
       <PrimaryTreePage>tree/00000122.html</PrimaryTreePage>
       <ProfilePage>people/00000122.html</ProfilePage>
@@ -2182,6 +2350,7 @@
       <GivenNames>Thomas</GivenNames>
       <FullName>Thomas ENDACOTT</FullName>
       <LifeDates>????-1707</LifeDates>
+      <Birth>????</Birth>
       <Death>1707</Death>
       <PrimaryTreePage>tree/00000122.html</PrimaryTreePage>
       <ProfilePage>people/P1126.html</ProfilePage>
@@ -2195,6 +2364,8 @@
       <GivenNames>E</GivenNames>
       <FullName>E ENGLISH</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000126.html</PrimaryTreePage>
       <ProfilePage>people/P1127.html</ProfilePage>
       <Spouses>
@@ -2209,6 +2380,8 @@
       <GivenNames>Gwendolen</GivenNames>
       <FullName>Gwendolen ENGLISH</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000126.html</PrimaryTreePage>
       <ProfilePage>people/P1128.html</ProfilePage>
       <Parents>
@@ -2227,6 +2400,8 @@
       <GivenNames>Capt.</GivenNames>
       <FullName>Capt. ESDALE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000311.html</PrimaryTreePage>
       <ProfilePage>people/P1129.html</ProfilePage>
       <Spouses>
@@ -2241,6 +2416,8 @@
       <GivenNames>Col. Richard</GivenNames>
       <FullName>Col. Richard EVANS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000126.html</PrimaryTreePage>
       <ProfilePage>people/P1130.html</ProfilePage>
       <Spouses>
@@ -2259,6 +2436,8 @@
       <GivenNames>Edith</GivenNames>
       <FullName>Edith EVANS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000126.html</PrimaryTreePage>
       <ProfilePage>people/P1131.html</ProfilePage>
       <Parents>
@@ -2271,6 +2450,8 @@
       <GivenNames>Florence</GivenNames>
       <FullName>Florence EVANS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000126.html</PrimaryTreePage>
       <ProfilePage>people/P1132.html</ProfilePage>
       <Parents>
@@ -2283,6 +2464,8 @@
       <GivenNames>Frederick</GivenNames>
       <FullName>Frederick EVANS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000126.html</PrimaryTreePage>
       <ProfilePage>people/P1133.html</ProfilePage>
       <Parents>
@@ -2295,6 +2478,8 @@
       <GivenNames>Harriet</GivenNames>
       <FullName>Harriet EVANS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000126.html</PrimaryTreePage>
       <ProfilePage>people/P1134.html</ProfilePage>
       <Parents>
@@ -2313,6 +2498,8 @@
       <GivenNames>Mary Phillipa</GivenNames>
       <FullName>Mary Phillipa FARRELL</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1135.html</ProfilePage>
       <Spouses>
@@ -2340,6 +2527,8 @@
       <GivenNames>Alexander</GivenNames>
       <FullName>Alexander FFERGUSON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/P1137.html</ProfilePage>
       <Spouses>
@@ -2351,6 +2540,8 @@
       <GivenNames>William</GivenNames>
       <FullName>William FFERGUSON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/P1138.html</ProfilePage>
       <Spouses>
@@ -2362,6 +2553,8 @@
       <GivenNames>Catherine</GivenNames>
       <FullName>Catherine FITZMAURICE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000170.html</PrimaryTreePage>
       <ProfilePage>people/P1139.html</ProfilePage>
       <Parents>
@@ -2377,6 +2570,8 @@
       <GivenNames>Elizabeth</GivenNames>
       <FullName>Elizabeth FITZMAURICE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000170.html</PrimaryTreePage>
       <ProfilePage>people/P1140.html</ProfilePage>
       <Parents>
@@ -2389,6 +2584,8 @@
       <GivenNames>Maj. Sir Desmond</GivenNames>
       <FullName>Maj. Sir Desmond FITZMAURICE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000170.html</PrimaryTreePage>
       <ProfilePage>people/P1141.html</ProfilePage>
       <Spouses>
@@ -2406,6 +2603,8 @@
       <GivenNames>Maurice</GivenNames>
       <FullName>Maurice FITZMAURICE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000170.html</PrimaryTreePage>
       <ProfilePage>people/P1142.html</ProfilePage>
       <Parents>
@@ -2421,6 +2620,8 @@
       <GivenNames>Noreen</GivenNames>
       <FullName>Noreen FITZMAURICE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000170.html</PrimaryTreePage>
       <ProfilePage>people/P1143.html</ProfilePage>
       <Parents>
@@ -2453,6 +2654,8 @@
       <GivenNames>Sir John</GivenNames>
       <FullName>Sir John FRASER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1145.html</ProfilePage>
       <Spouses>
@@ -2464,6 +2667,8 @@
       <GivenNames>Capt. Noah</GivenNames>
       <FullName>Capt. Noah FREER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000435.html</PrimaryTreePage>
       <ProfilePage>people/P1557.html</ProfilePage>
       <Spouses>
@@ -2475,6 +2680,8 @@
       <GivenNames></GivenNames>
       <FullName>GAROL</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000506.html</PrimaryTreePage>
       <ProfilePage>people/P1146.html</ProfilePage>
       <Spouses>
@@ -2485,7 +2692,8 @@
       <Surname>GORE</Surname>
       <GivenNames>Samantha</GivenNames>
       <FullName>Samantha GORE</FullName>
-      <LifeDates>????-????</LifeDates>
+      <LifeDates>????-</LifeDates>
+      <Birth>????</Birth>
       <PrimaryTreePage>tree/00000317.html</PrimaryTreePage>
       <ProfilePage>people/P1147.html</ProfilePage>
       <Spouses>
@@ -2514,6 +2722,8 @@
       <GivenNames></GivenNames>
       <FullName>GOULD</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000506.html</PrimaryTreePage>
       <ProfilePage>people/P1148.html</ProfilePage>
       <Spouses>
@@ -2525,6 +2735,7 @@
       <GivenNames>Thomasine</GivenNames>
       <FullName>Thomasine GOULD</FullName>
       <LifeDates>????-1613</LifeDates>
+      <Birth>????</Birth>
       <Death>1613</Death>
       <PrimaryTreePage>tree/00000511.html</PrimaryTreePage>
       <ProfilePage>people/00000141.html</ProfilePage>
@@ -2544,6 +2755,8 @@
       <GivenNames>Dr</GivenNames>
       <FullName>Dr GOURLAY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1149.html</ProfilePage>
       <Spouses>
@@ -2555,6 +2768,8 @@
       <GivenNames>Agnes S</GivenNames>
       <FullName>Agnes S GREIG</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1150.html</ProfilePage>
       <Spouses>
@@ -2567,6 +2782,8 @@
       <GivenNames>Mary</GivenNames>
       <FullName>Mary GUELDRES</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Marriage>1449 July 3rd</Marriage>
       <Notes>d. of Arnold Duke of Gueldres</Notes>
       <PrimaryTreePage>tree/00000385.html</PrimaryTreePage>
@@ -2588,6 +2805,8 @@
       <GivenNames>Dorothy</GivenNames>
       <FullName>Dorothy GWYNNE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000011.html</PrimaryTreePage>
       <ProfilePage>people/P1151.html</ProfilePage>
       <Spouses>
@@ -2645,6 +2864,7 @@
       <FullName>Alp Arslan HALL</FullName>
       <LifeDates>1857-????</LifeDates>
       <Birth>1857</Birth>
+      <Death>????</Death>
       <ProfilePage>people/P1155.html</ProfilePage>
       <Parents>
         <Parent ref="00000148">William Henry HALL</Parent>
@@ -2660,6 +2880,7 @@
       <FullName>Clara Louisa HALL</FullName>
       <LifeDates>1861-????</LifeDates>
       <Birth>1861</Birth>
+      <Death>????</Death>
       <ProfilePage>people/P1156.html</ProfilePage>
       <Parents>
         <Parent ref="00000148">William Henry HALL</Parent>
@@ -2699,7 +2920,7 @@
       <Surname>HALL</Surname>
       <GivenNames>Ellen Margaret</GivenNames>
       <FullName>Ellen Margaret HALL</FullName>
-      <LifeDates>1848 Aug 15th-1944</LifeDates>
+      <LifeDates>1848-1944</LifeDates>
       <Birth>1848 Aug 15th, Nassau, Bahamas</Birth>
       <Death>1944, USA</Death>
       <PrimaryTreePage>tree/00000280.html</PrimaryTreePage>
@@ -2721,6 +2942,7 @@
       <GivenNames>Grace Margaret</GivenNames>
       <FullName>Grace Margaret HALL</FullName>
       <LifeDates>????-1991</LifeDates>
+      <Birth>????</Birth>
       <Death>1991</Death>
       <PrimaryTreePage>tree/00000525.html</PrimaryTreePage>
       <ProfilePage>people/P1159.html</ProfilePage>
@@ -2747,6 +2969,7 @@
       <FullName>Letitia Anne HALL</FullName>
       <LifeDates>1839-????</LifeDates>
       <Birth>1839</Birth>
+      <Death>????</Death>
       <ProfilePage>people/P1161.html</ProfilePage>
       <Parents>
         <Parent ref="00000148">William Henry HALL</Parent>
@@ -2802,6 +3025,7 @@
       <FullName>Aimee Charlotte Muir HAMILTON</FullName>
       <LifeDates>1918-????</LifeDates>
       <Birth>1918</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000701.html</PrimaryTreePage>
       <ProfilePage>people/P1163.html</ProfilePage>
       <Parents>
@@ -2820,7 +3044,7 @@
       <Surname>HAMILTON</Surname>
       <GivenNames>Alison</GivenNames>
       <FullName>Alison HAMILTON</FullName>
-      <LifeDates>1947-????</LifeDates>
+      <LifeDates>1947-</LifeDates>
       <Birth>1947</Birth>
       <PrimaryTreePage>tree/00000317.html</PrimaryTreePage>
       <ProfilePage>people/P1164.html</ProfilePage>
@@ -2837,6 +3061,7 @@
       <GivenNames>Janet</GivenNames>
       <FullName>Janet HAMILTON</FullName>
       <LifeDates>????-1621</LifeDates>
+      <Birth>????</Birth>
       <Death>1621</Death>
       <PrimaryTreePage>tree/00000261.html</PrimaryTreePage>
       <ProfilePage>people/00000150.html</ProfilePage>
@@ -2876,6 +3101,8 @@
       <GivenNames>Lord</GivenNames>
       <FullName>Lord HAMILTON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000385.html</PrimaryTreePage>
       <ProfilePage>people/P1166.html</ProfilePage>
     </Person>
@@ -2884,6 +3111,8 @@
       <GivenNames>Sir Patrick</GivenNames>
       <FullName>Sir Patrick HAMILTON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000385.html</PrimaryTreePage>
       <ProfilePage>people/P1167.html</ProfilePage>
       <Spouses>
@@ -2911,6 +3140,8 @@
       <GivenNames>Alexander</GivenNames>
       <FullName>Alexander HARDEN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000154.html</PrimaryTreePage>
       <ProfilePage>people/P1169.html</ProfilePage>
       <Parents>
@@ -2923,6 +3154,8 @@
       <GivenNames>Anne</GivenNames>
       <FullName>Anne HARDEN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000155.html</PrimaryTreePage>
       <ProfilePage>people/P1170.html</ProfilePage>
       <Parents>
@@ -2935,6 +3168,8 @@
       <GivenNames>Col. G</GivenNames>
       <FullName>Col. G HARDEN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000041.html</PrimaryTreePage>
       <ProfilePage>people/P1171.html</ProfilePage>
       <Spouses>
@@ -2950,6 +3185,8 @@
       <GivenNames>Frederick</GivenNames>
       <FullName>Frederick HARDEN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000154.html</PrimaryTreePage>
       <ProfilePage>people/P1172.html</ProfilePage>
       <Parents>
@@ -2969,6 +3206,8 @@
       <GivenNames>George</GivenNames>
       <FullName>George HARDEN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000155.html</PrimaryTreePage>
       <ProfilePage>people/P1173.html</ProfilePage>
       <Parents>
@@ -2988,6 +3227,8 @@
       <GivenNames>Robert</GivenNames>
       <FullName>Robert HARDEN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000154.html</PrimaryTreePage>
       <ProfilePage>people/P1174.html</ProfilePage>
       <Parents>
@@ -3000,6 +3241,8 @@
       <GivenNames>Sheila</GivenNames>
       <FullName>Sheila HARDEN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000155.html</PrimaryTreePage>
       <ProfilePage>people/P1175.html</ProfilePage>
       <Parents>
@@ -3011,7 +3254,7 @@
       <Surname>HAWKE</Surname>
       <GivenNames>Linda Gaye</GivenNames>
       <FullName>Linda Gaye HAWKE</FullName>
-      <LifeDates>1951-????</LifeDates>
+      <LifeDates>1951-</LifeDates>
       <Birth>1951</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1176.html</ProfilePage>
@@ -3021,6 +3264,8 @@
       <GivenNames>Isobell</GivenNames>
       <FullName>Isobell HENDRY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/P1177.html</ProfilePage>
       <Spouses>
@@ -3050,6 +3295,7 @@
       <FullName>Beryl HOLLOWAY</FullName>
       <LifeDates>1925-????</LifeDates>
       <Birth>1925</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1178.html</ProfilePage>
       <Spouses>
@@ -3061,6 +3307,8 @@
       <GivenNames>Jean</GivenNames>
       <FullName>Jean HOSAY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000177.html</PrimaryTreePage>
       <ProfilePage>people/00000161.html</ProfilePage>
       <Spouses>
@@ -3075,6 +3323,8 @@
       <GivenNames>Gen. D</GivenNames>
       <FullName>Gen. D JEFFREYS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000311.html</PrimaryTreePage>
       <ProfilePage>people/P1179.html</ProfilePage>
       <Spouses>
@@ -3086,6 +3336,8 @@
       <GivenNames>Andrew</GivenNames>
       <FullName>Andrew JOHNSON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1180.html</ProfilePage>
       <Spouses>
@@ -3097,6 +3349,8 @@
       <GivenNames>Jean</GivenNames>
       <FullName>Jean JOHNSTON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000179.html</PrimaryTreePage>
       <ProfilePage>people/00000164.html</ProfilePage>
       <Spouses>
@@ -3111,6 +3365,8 @@
       <GivenNames>Elizabeth</GivenNames>
       <FullName>Elizabeth K ??</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1181.html</ProfilePage>
       <Spouses>
@@ -3122,6 +3378,8 @@
       <GivenNames>Col. Vernon</GivenNames>
       <FullName>Col. Vernon KEIGHLEY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000165.html</PrimaryTreePage>
       <ProfilePage>people/P1182.html</ProfilePage>
       <Spouses>
@@ -3137,6 +3395,8 @@
       <GivenNames>Dereck</GivenNames>
       <FullName>Dereck KEIGHLEY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000165.html</PrimaryTreePage>
       <ProfilePage>people/P1183.html</ProfilePage>
       <Parents>
@@ -3149,6 +3409,8 @@
       <GivenNames>Lt. Geoffrey</GivenNames>
       <FullName>Lt. Geoffrey KEIGHLEY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000165.html</PrimaryTreePage>
       <ProfilePage>people/P1184.html</ProfilePage>
       <Parents>
@@ -3161,6 +3423,8 @@
       <GivenNames>Peter</GivenNames>
       <FullName>Peter KEMBLE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1185.html</ProfilePage>
       <Spouses>
@@ -3172,6 +3436,8 @@
       <GivenNames>Nancy</GivenNames>
       <FullName>Nancy LEAKE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000170.html</PrimaryTreePage>
       <ProfilePage>people/P1186.html</ProfilePage>
       <Parents>
@@ -3193,6 +3459,8 @@
       <GivenNames>Rev. John Sherlock</GivenNames>
       <FullName>Rev. John Sherlock LEAKE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Notes>First Rector of Grayswood</Notes>
       <PrimaryTreePage>tree/00000170.html</PrimaryTreePage>
       <ProfilePage>people/00000170.html</ProfilePage>
@@ -3208,6 +3476,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John LESLIE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Notes>of Wards</Notes>
       <PrimaryTreePage>tree/00000381.html</PrimaryTreePage>
       <ProfilePage>people/00000683.html</ProfilePage>
@@ -3251,6 +3521,8 @@
       <GivenNames>David</GivenNames>
       <FullName>David LITTLE RN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000502.html</PrimaryTreePage>
       <ProfilePage>people/P1189.html</ProfilePage>
       <Spouses>
@@ -3266,6 +3538,8 @@
       <GivenNames>Joanna</GivenNames>
       <FullName>Joanna LIVINGSTONE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1190.html</ProfilePage>
       <Spouses>
@@ -3277,6 +3551,8 @@
       <GivenNames>Annetje</GivenNames>
       <FullName>Annetje LOCKERMAN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Marriage>1642, New Amsterdam</Marriage>
       <PrimaryTreePage>tree/00000448.html</PrimaryTreePage>
       <ProfilePage>people/00000175.html</ProfilePage>
@@ -3299,6 +3575,7 @@
       <FullName>Alexander LOGAN</FullName>
       <LifeDates>1737-????</LifeDates>
       <Birth>1737</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/00000176.html</ProfilePage>
       <Parents>
@@ -3323,6 +3600,8 @@
       <GivenNames>Alexander</GivenNames>
       <FullName>Alexander LOGAN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000177.html</PrimaryTreePage>
       <ProfilePage>people/00000177.html</ProfilePage>
       <Parents>
@@ -3338,6 +3617,8 @@
       <GivenNames>Alexander</GivenNames>
       <FullName>Alexander LOGAN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1191.html</ProfilePage>
       <Parents>
@@ -3367,6 +3648,8 @@
       <GivenNames>Archibald</GivenNames>
       <FullName>Archibald LOGAN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1193.html</ProfilePage>
       <Parents>
@@ -3380,6 +3663,7 @@
       <FullName>Isabella LOGAN</FullName>
       <LifeDates>1818-????</LifeDates>
       <Birth>1818</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1194.html</ProfilePage>
       <Parents>
@@ -3425,6 +3709,8 @@
       <GivenNames>James</GivenNames>
       <FullName>James LOGAN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Profession>Merchant of Glasgow c. 1691</Profession>
       <PrimaryTreePage>tree/00000179.html</PrimaryTreePage>
       <ProfilePage>people/00000179.html</ProfilePage>
@@ -3441,6 +3727,7 @@
       <FullName>Janet LOGAN</FullName>
       <LifeDates>1815-????</LifeDates>
       <Birth>1815</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1195.html</ProfilePage>
       <Parents>
@@ -3456,6 +3743,8 @@
       <GivenNames>Janet</GivenNames>
       <FullName>Janet LOGAN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1196.html</ProfilePage>
       <Parents>
@@ -3500,6 +3789,7 @@
       <FullName>Jean LOGAN</FullName>
       <LifeDates>1762-????</LifeDates>
       <Birth>1762</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1197.html</ProfilePage>
       <Parents>
@@ -3512,6 +3802,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John LOGAN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000177.html</PrimaryTreePage>
       <ProfilePage>people/00000181.html</ProfilePage>
       <Parents>
@@ -3530,6 +3822,7 @@
       <FullName>John LOGAN</FullName>
       <LifeDates>1820-????</LifeDates>
       <Birth>1820</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1198.html</ProfilePage>
       <Parents>
@@ -3547,6 +3840,7 @@
       <FullName>John LOGAN</FullName>
       <LifeDates>1760-????</LifeDates>
       <Birth>1760</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1199.html</ProfilePage>
       <Parents>
@@ -3605,6 +3899,7 @@
       <FullName>Margaret LOGAN</FullName>
       <LifeDates>1764-????</LifeDates>
       <Birth>1764</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1203.html</ProfilePage>
       <Parents>
@@ -3618,6 +3913,7 @@
       <FullName>Marion Steuart LOGAN</FullName>
       <LifeDates>1822-????</LifeDates>
       <Birth>1822</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1204.html</ProfilePage>
       <Parents>
@@ -3647,6 +3943,8 @@
       <GivenNames>Philip</GivenNames>
       <FullName>Philip LUSCOMBE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000504.html</PrimaryTreePage>
       <ProfilePage>people/P1206.html</ProfilePage>
       <Spouses>
@@ -3658,6 +3956,8 @@
       <GivenNames>Ann</GivenNames>
       <FullName>Ann MACKEY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <ProfilePage>people/00000183.html</ProfilePage>
       <Spouses>
         <Spouse ref="00000196">Richard Alexander Slocombe MICHELL</Spouse>
@@ -3693,6 +3993,7 @@
       <FullName>Dr. Ian Calman Muir MACLENNAN</FullName>
       <LifeDates>1939-????</LifeDates>
       <Birth>1939</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000229.html</PrimaryTreePage>
       <ProfilePage>people/P1208.html</ProfilePage>
       <Parents>
@@ -3709,6 +4010,7 @@
       <FullName>Eileen Vartan MACLENNAN</FullName>
       <LifeDates>1939-????</LifeDates>
       <Birth>1939</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000229.html</PrimaryTreePage>
       <ProfilePage>people/P1209.html</ProfilePage>
       <Parents>
@@ -3724,6 +4026,8 @@
       <GivenNames>Catterina</GivenNames>
       <FullName>Catterina MALEVOLTI</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Marriage>1713 Dec 3rd</Marriage>
       <Notes>of Siena</Notes>
       <ProfilePage>people/00000187.html</ProfilePage>
@@ -3740,6 +4044,8 @@
       <GivenNames>Elizabeth</GivenNames>
       <FullName>Elizabeth MANSELL</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1210.html</ProfilePage>
       <Spouses>
@@ -3764,6 +4070,8 @@
       <GivenNames>William</GivenNames>
       <FullName>William MATHEWS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000504.html</PrimaryTreePage>
       <ProfilePage>people/P1212.html</ProfilePage>
       <Spouses>
@@ -3814,6 +4122,8 @@
       <GivenNames>William</GivenNames>
       <FullName>William MCCLURE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1214.html</ProfilePage>
       <Spouses>
@@ -3825,6 +4135,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John MCGIBBON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/P1215.html</ProfilePage>
       <Spouses>
@@ -3836,6 +4148,8 @@
       <GivenNames>Janet</GivenNames>
       <FullName>Janet MCILWHAM</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/00000193.html</ProfilePage>
       <Spouses>
@@ -3856,6 +4170,8 @@
       <GivenNames>Janet</GivenNames>
       <FullName>Janet MCILWHAM</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <ProfilePage>people/P1216.html</ProfilePage>
     </Person>
     <Person id="P1217" directAncestor="false" ahnentafel="" generation="4" gender="M">
@@ -3863,6 +4179,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John MCROBIE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1217.html</ProfilePage>
       <Spouses>
@@ -3958,6 +4276,8 @@
       <GivenNames>Richard</GivenNames>
       <FullName>Richard MICHELL</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Notes>of Langport, Somerset</Notes>
       <ProfilePage>people/00000195.html</ProfilePage>
       <Spouses>
@@ -3997,6 +4317,7 @@
       <FullName>Gwendolyn MIDDLETON</FullName>
       <LifeDates>1916-????</LifeDates>
       <Birth>1916</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1222.html</ProfilePage>
       <Parents>
@@ -4009,6 +4330,8 @@
       <GivenNames>Margaret</GivenNames>
       <FullName>Margaret MILL</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/P1223.html</ProfilePage>
       <Spouses>
@@ -4020,6 +4343,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John MILN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1224.html</ProfilePage>
       <Spouses>
@@ -4031,6 +4356,8 @@
       <GivenNames>Admiral Sir Godfrey</GivenNames>
       <FullName>Admiral Sir Godfrey MILTON-THOMAS RN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000170.html</PrimaryTreePage>
       <ProfilePage>people/P1225.html</ProfilePage>
       <Spouses>
@@ -4042,6 +4369,8 @@
       <GivenNames></GivenNames>
       <FullName>MONDER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000506.html</PrimaryTreePage>
       <ProfilePage>people/P1226.html</ProfilePage>
       <Spouses>
@@ -4053,6 +4382,8 @@
       <GivenNames>James</GivenNames>
       <FullName>James MORIES</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000380.html</PrimaryTreePage>
       <ProfilePage>people/P1227.html</ProfilePage>
       <Spouses>
@@ -4063,7 +4394,8 @@
       <Surname>MORRIS</Surname>
       <GivenNames>Dwight</GivenNames>
       <FullName>Dwight MORRIS</FullName>
-      <LifeDates>????-????</LifeDates>
+      <LifeDates>????-</LifeDates>
+      <Birth>????</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1228.html</ProfilePage>
     </Person>
@@ -4085,6 +4417,8 @@
       <GivenNames></GivenNames>
       <FullName>MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <ProfilePage>people/00000293.html</ProfilePage>
       <Children>
         <Child ref="P1267">Henry (?) MUIR</Child>
@@ -4146,8 +4480,9 @@
       <Surname>MUIR</Surname>
       <GivenNames>Alexander</GivenNames>
       <FullName>Alexander MUIR</FullName>
-      <LifeDates>1699-????</LifeDates>
+      <LifeDates>1689-????</LifeDates>
       <Birth>1689 or more probably 1699</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000219.html</PrimaryTreePage>
       <ProfilePage>people/00000205.html</ProfilePage>
       <Parents>
@@ -4168,6 +4503,8 @@
       <GivenNames>Alexander</GivenNames>
       <FullName>Alexander MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Profession>Farmer ?</Profession>
       <Notes>At "Plewlands in 1670. Covenanter, imprisoned by Claverhouse.</Notes>
       <PrimaryTreePage>tree/00000220.html</PrimaryTreePage>
@@ -4217,6 +4554,7 @@
       <FullName>Alexander MUIR</FullName>
       <LifeDates>1736-????</LifeDates>
       <Birth>1736</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000219.html</PrimaryTreePage>
       <ProfilePage>people/P1233.html</ProfilePage>
       <Parents>
@@ -4241,7 +4579,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>Allan Denis</GivenNames>
       <FullName>Allan Denis MUIR</FullName>
-      <LifeDates>1951-????</LifeDates>
+      <LifeDates>1951-</LifeDates>
       <Birth>1951</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1235.html</ProfilePage>
@@ -4268,6 +4606,8 @@
       <GivenNames>Andrew</GivenNames>
       <FullName>Andrew MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000261.html</PrimaryTreePage>
       <ProfilePage>people/P1237.html</ProfilePage>
       <Parents>
@@ -4304,7 +4644,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>Andrew Alexander</GivenNames>
       <FullName>Andrew Alexander MUIR</FullName>
-      <LifeDates>1961-????</LifeDates>
+      <LifeDates>1961-</LifeDates>
       <Birth>1961</Birth>
       <PrimaryTreePage>tree/00000282.html</PrimaryTreePage>
       <ProfilePage>people/P1239.html</ProfilePage>
@@ -4319,6 +4659,7 @@
       <FullName>Ann MUIR</FullName>
       <LifeDates>1779-????</LifeDates>
       <Birth>1779</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000239.html</PrimaryTreePage>
       <ProfilePage>people/P1240.html</ProfilePage>
       <Parents>
@@ -4332,6 +4673,7 @@
       <FullName>Anna MUIR</FullName>
       <LifeDates>1934-????</LifeDates>
       <Birth>1934</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1241.html</ProfilePage>
     </Person>
@@ -4368,6 +4710,7 @@
       <GivenNames>Archibald</GivenNames>
       <FullName>Archibald MUIR</FullName>
       <LifeDates>????-"in Plewland"</LifeDates>
+      <Birth>????</Birth>
       <Death>"in Plewland"</Death>
       <Profession>Farmer ?</Profession>
       <Notes>"in Plewland"</Notes>
@@ -4389,6 +4732,7 @@
       <GivenNames>Archibald</GivenNames>
       <FullName>Archibald MUIR</FullName>
       <LifeDates>????-1662</LifeDates>
+      <Birth>????</Birth>
       <Death>Living in 1662</Death>
       <Notes>Living in 1662</Notes>
       <PrimaryTreePage>tree/00000220.html</PrimaryTreePage>
@@ -4440,6 +4784,7 @@
       <FullName>Archibald MUIR</FullName>
       <LifeDates>1734-????</LifeDates>
       <Birth>1734</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000219.html</PrimaryTreePage>
       <ProfilePage>people/P1245.html</ProfilePage>
       <Parents>
@@ -4451,6 +4796,8 @@
       <GivenNames>Archibald</GivenNames>
       <FullName>Archibald MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000219.html</PrimaryTreePage>
       <ProfilePage>people/P1246.html</ProfilePage>
       <Parents>
@@ -4476,6 +4823,8 @@
       <GivenNames>Bessie</GivenNames>
       <FullName>Bessie MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000262.html</PrimaryTreePage>
       <ProfilePage>people/P1248.html</ProfilePage>
     </Person>
@@ -4485,6 +4834,7 @@
       <FullName>Christian MUIR</FullName>
       <LifeDates>1743-????</LifeDates>
       <Birth>1743</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000219.html</PrimaryTreePage>
       <ProfilePage>people/P1249.html</ProfilePage>
       <Parents>
@@ -4495,7 +4845,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>Christopher Francis</GivenNames>
       <FullName>Christopher Francis MUIR</FullName>
-      <LifeDates>1997 Feb 19-????</LifeDates>
+      <LifeDates>1997-</LifeDates>
       <Birth>1997 Feb 19, Newcastle-upon-Tyne</Birth>
       <PrimaryTreePage>tree/00000282.html</PrimaryTreePage>
       <ProfilePage>people/00000568.html</ProfilePage>
@@ -4508,7 +4858,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>David Gavin</GivenNames>
       <FullName>David Gavin MUIR</FullName>
-      <LifeDates>1950-????</LifeDates>
+      <LifeDates>1950-</LifeDates>
       <Birth>1950</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1250.html</ProfilePage>
@@ -4604,6 +4954,7 @@
       <FullName>Elizabeth (Betty) Helen MUIR</FullName>
       <LifeDates>1907-????</LifeDates>
       <Birth>1907</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000292.html</PrimaryTreePage>
       <ProfilePage>people/P1256.html</ProfilePage>
       <Parents>
@@ -4654,7 +5005,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>Frances</GivenNames>
       <FullName>Frances MUIR</FullName>
-      <LifeDates>1941-????</LifeDates>
+      <LifeDates>1941-</LifeDates>
       <Birth>1941</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1259.html</ProfilePage>
@@ -4729,6 +5080,8 @@
       <GivenNames>Francis</GivenNames>
       <FullName>Francis MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000220.html</PrimaryTreePage>
       <ProfilePage>people/P1261.html</ProfilePage>
       <Parents>
@@ -4739,7 +5092,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>Francis William Stuart</GivenNames>
       <FullName>Francis William Stuart MUIR</FullName>
-      <LifeDates>1960-????</LifeDates>
+      <LifeDates>1960-</LifeDates>
       <Birth>1960, Beiruth, Lebanon</Birth>
       <PrimaryTreePage>tree/00000282.html</PrimaryTreePage>
       <ProfilePage>people/00000242.html</ProfilePage>
@@ -4776,7 +5129,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>Geoffrey Maurice</GivenNames>
       <FullName>Geoffrey Maurice MUIR</FullName>
-      <LifeDates>1948-????</LifeDates>
+      <LifeDates>1948-</LifeDates>
       <Birth>1948</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1263.html</ProfilePage>
@@ -4786,6 +5139,8 @@
       <GivenNames>Helen</GivenNames>
       <FullName>Helen MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000261.html</PrimaryTreePage>
       <ProfilePage>people/P1264.html</ProfilePage>
       <Parents>
@@ -4797,7 +5152,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>Helen Jane</GivenNames>
       <FullName>Helen Jane MUIR</FullName>
-      <LifeDates>1995 May 23-????</LifeDates>
+      <LifeDates>1995-</LifeDates>
       <Birth>1995 May 23, Newcastle upon Tyne</Birth>
       <PrimaryTreePage>tree/00000282.html</PrimaryTreePage>
       <ProfilePage>people/00000567.html</ProfilePage>
@@ -4811,6 +5166,8 @@
       <GivenNames>Henry</GivenNames>
       <FullName>Henry MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000261.html</PrimaryTreePage>
       <ProfilePage>people/P1265.html</ProfilePage>
       <Parents>
@@ -4823,6 +5180,8 @@
       <GivenNames>Henry (?)</GivenNames>
       <FullName>Henry (?) MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000262.html</PrimaryTreePage>
       <ProfilePage>people/P1266.html</ProfilePage>
     </Person>
@@ -4831,6 +5190,8 @@
       <GivenNames>Henry (?)</GivenNames>
       <FullName>Henry (?) MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <ProfilePage>people/P1267.html</ProfilePage>
       <Parents>
         <Parent ref="00000293">MUIR</Parent>
@@ -4841,6 +5202,7 @@
       <GivenNames>Isabel</GivenNames>
       <FullName>Isabel MUIR</FullName>
       <LifeDates>????-1620</LifeDates>
+      <Birth>????</Birth>
       <Death>1620</Death>
       <PrimaryTreePage>tree/00000262.html</PrimaryTreePage>
       <ProfilePage>people/P1268.html</ProfilePage>
@@ -4858,6 +5220,7 @@
       <FullName>Isobel MUIR</FullName>
       <LifeDates>1777-????</LifeDates>
       <Birth>1777</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000239.html</PrimaryTreePage>
       <ProfilePage>people/P1269.html</ProfilePage>
       <Parents>
@@ -4871,6 +5234,7 @@
       <FullName>Isobel MUIR</FullName>
       <LifeDates>1731-????</LifeDates>
       <Birth>1731</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000219.html</PrimaryTreePage>
       <ProfilePage>people/P1270.html</ProfilePage>
       <Parents>
@@ -4882,6 +5246,8 @@
       <GivenNames>Isobell</GivenNames>
       <FullName>Isobell MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000261.html</PrimaryTreePage>
       <ProfilePage>people/P1271.html</ProfilePage>
       <Parents>
@@ -4909,6 +5275,7 @@
       <FullName>James MUIR</FullName>
       <LifeDates>1784-????</LifeDates>
       <Birth>1784</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000239.html</PrimaryTreePage>
       <ProfilePage>people/P1273.html</ProfilePage>
       <Parents>
@@ -4922,6 +5289,7 @@
       <FullName>James MUIR</FullName>
       <LifeDates>1739-????</LifeDates>
       <Birth>1739</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000219.html</PrimaryTreePage>
       <ProfilePage>people/P1274.html</ProfilePage>
       <Parents>
@@ -4933,6 +5301,8 @@
       <GivenNames>James</GivenNames>
       <FullName>James MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000220.html</PrimaryTreePage>
       <ProfilePage>people/P1275.html</ProfilePage>
       <Parents>
@@ -4944,6 +5314,8 @@
       <GivenNames>James</GivenNames>
       <FullName>James MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000261.html</PrimaryTreePage>
       <ProfilePage>people/P1276.html</ProfilePage>
       <Parents>
@@ -4973,6 +5345,7 @@
       <GivenNames>Janet</GivenNames>
       <FullName>Janet MUIR</FullName>
       <LifeDates>????-1605</LifeDates>
+      <Birth>????</Birth>
       <Death>1605</Death>
       <PrimaryTreePage>tree/00000262.html</PrimaryTreePage>
       <ProfilePage>people/P1278.html</ProfilePage>
@@ -5003,6 +5376,7 @@
       <FullName>Jean MUIR</FullName>
       <LifeDates>1740-????</LifeDates>
       <Birth>1740</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000219.html</PrimaryTreePage>
       <ProfilePage>people/P1280.html</ProfilePage>
       <Parents>
@@ -5028,6 +5402,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Profession>Farmer ?</Profession>
       <PrimaryTreePage>tree/00000261.html</PrimaryTreePage>
       <ProfilePage>people/00000260.html</ProfilePage>
@@ -5051,6 +5427,7 @@
       <GivenNames>John</GivenNames>
       <FullName>John MUIR</FullName>
       <LifeDates>????-1616</LifeDates>
+      <Birth>????</Birth>
       <Death>1616</Death>
       <Profession>Farmer ?</Profession>
       <PrimaryTreePage>tree/00000261.html</PrimaryTreePage>
@@ -5075,6 +5452,7 @@
       <GivenNames>John</GivenNames>
       <FullName>John MUIR</FullName>
       <LifeDates>????-1596</LifeDates>
+      <Birth>????</Birth>
       <Death>1596</Death>
       <Notes>"in Plewlands"</Notes>
       <PrimaryTreePage>tree/00000262.html</PrimaryTreePage>
@@ -5116,6 +5494,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000219.html</PrimaryTreePage>
       <ProfilePage>people/P1283.html</ProfilePage>
       <Parents>
@@ -5126,7 +5506,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>John Hamilton</GivenNames>
       <FullName>John Hamilton MUIR</FullName>
-      <LifeDates>1957-????</LifeDates>
+      <LifeDates>1957-</LifeDates>
       <Birth>1957</Birth>
       <PrimaryTreePage>tree/00000701.html</PrimaryTreePage>
       <ProfilePage>people/P1284.html</ProfilePage>
@@ -5156,7 +5536,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>Leslie Marianne</GivenNames>
       <FullName>Leslie Marianne MUIR</FullName>
-      <LifeDates>1947-????</LifeDates>
+      <LifeDates>1947-</LifeDates>
       <Birth>1947</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1286.html</ProfilePage>
@@ -5179,7 +5559,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>Margaret</GivenNames>
       <FullName>Margaret MUIR</FullName>
-      <LifeDates>1939-????</LifeDates>
+      <LifeDates>1939-</LifeDates>
       <Birth>1939</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1288.html</ProfilePage>
@@ -5190,6 +5570,7 @@
       <FullName>Margaret MUIR</FullName>
       <LifeDates>1702-????</LifeDates>
       <Birth>1702</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000219.html</PrimaryTreePage>
       <ProfilePage>people/P1289.html</ProfilePage>
       <Parents>
@@ -5201,6 +5582,8 @@
       <GivenNames>Margaret</GivenNames>
       <FullName>Margaret MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000261.html</PrimaryTreePage>
       <ProfilePage>people/P1290.html</ProfilePage>
       <Parents>
@@ -5213,6 +5596,8 @@
       <GivenNames>Marion</GivenNames>
       <FullName>Marion MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000262.html</PrimaryTreePage>
       <ProfilePage>people/P1291.html</ProfilePage>
     </Person>
@@ -5262,6 +5647,7 @@
       <FullName>Mathew MUIR</FullName>
       <LifeDates>1699-????</LifeDates>
       <Birth>1699</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000219.html</PrimaryTreePage>
       <ProfilePage>people/P1294.html</ProfilePage>
       <Parents>
@@ -5273,6 +5659,7 @@
       <GivenNames>Mathew</GivenNames>
       <FullName>Mathew MUIR</FullName>
       <LifeDates>????-1652</LifeDates>
+      <Birth>????</Birth>
       <Death>1652</Death>
       <PrimaryTreePage>tree/00000261.html</PrimaryTreePage>
       <ProfilePage>people/P1295.html</ProfilePage>
@@ -5290,6 +5677,7 @@
       <FullName>Maurice MUIR</FullName>
       <LifeDates>1911-????</LifeDates>
       <Birth>1911</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1296.html</ProfilePage>
       <Parents>
@@ -5306,6 +5694,7 @@
       <FullName>Merlin MUIR</FullName>
       <LifeDates>1916-????</LifeDates>
       <Birth>1916</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1297.html</ProfilePage>
       <Parents>
@@ -5339,6 +5728,7 @@
       <FullName>Reo MUIR</FullName>
       <LifeDates>1918-????</LifeDates>
       <Birth>1918</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1299.html</ProfilePage>
       <Parents>
@@ -5429,7 +5819,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>Rodger Stewart</GivenNames>
       <FullName>Rodger Stewart MUIR</FullName>
-      <LifeDates>1955-????</LifeDates>
+      <LifeDates>1955-</LifeDates>
       <Birth>1955</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1301.html</ProfilePage>
@@ -5438,7 +5828,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>Shiela</GivenNames>
       <FullName>Shiela MUIR</FullName>
-      <LifeDates>1940-????</LifeDates>
+      <LifeDates>1940-</LifeDates>
       <Birth>1940</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1302.html</ProfilePage>
@@ -5447,7 +5837,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>Sir Edward Francis</GivenNames>
       <FullName>Sir Edward Francis MUIR</FullName>
-      <LifeDates>1905 June 29th-1979</LifeDates>
+      <LifeDates>1905-1979</LifeDates>
       <Birth>1905 June 29th, Shottemill</Birth>
       <Death>1979, Midhurst</Death>
       <Marriage>1928 July 7th 1928</Marriage>
@@ -5500,6 +5890,7 @@
       <FullName>Thomas MUIR</FullName>
       <LifeDates>1789-????</LifeDates>
       <Birth>1789</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000239.html</PrimaryTreePage>
       <ProfilePage>people/P1305.html</ProfilePage>
       <Parents>
@@ -5512,6 +5903,8 @@
       <GivenNames>Thomas</GivenNames>
       <FullName>Thomas MUIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000261.html</PrimaryTreePage>
       <ProfilePage>people/P1306.html</ProfilePage>
       <Parents>
@@ -5523,7 +5916,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>William</GivenNames>
       <FullName>William MUIR</FullName>
-      <LifeDates>1917-1993?</LifeDates>
+      <LifeDates>1917-1993</LifeDates>
       <Birth>1917</Birth>
       <Death>1993?</Death>
       <PrimaryTreePage>tree/00000701.html</PrimaryTreePage>
@@ -5559,6 +5952,7 @@
       <FullName>William MUIR</FullName>
       <LifeDates>1774-????</LifeDates>
       <Birth>1774</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000239.html</PrimaryTreePage>
       <ProfilePage>people/P1309.html</ProfilePage>
       <Parents>
@@ -5570,7 +5964,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>William Edward</GivenNames>
       <FullName>William Edward MUIR</FullName>
-      <LifeDates>1872 Jan 21st-1948 Jun 23rd</LifeDates>
+      <LifeDates>1872-1948</LifeDates>
       <Birth>1872 Jan 21st, Savannah, Ga, USA</Birth>
       <Death>1948 Jun 23rd, Haslemere</Death>
       <Marriage>1902 Mar 5th, Shottermill</Marriage>
@@ -5593,7 +5987,7 @@
       <Surname>MUIR</Surname>
       <GivenNames>William Letham</GivenNames>
       <FullName>William Letham MUIR</FullName>
-      <LifeDates>1958-????</LifeDates>
+      <LifeDates>1958-</LifeDates>
       <Birth>1958</Birth>
       <PrimaryTreePage>tree/00000701.html</PrimaryTreePage>
       <ProfilePage>people/P1310.html</ProfilePage>
@@ -5607,6 +6001,8 @@
       <GivenNames>Sir W H</GivenNames>
       <FullName>Sir W H MULCASTER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1311.html</ProfilePage>
       <Spouses>
@@ -5617,7 +6013,7 @@
       <Surname>MURPHY RN</Surname>
       <GivenNames>John Edward</GivenNames>
       <FullName>John Edward MURPHY RN</FullName>
-      <LifeDates>19??-????</LifeDates>
+      <LifeDates>19??-</LifeDates>
       <Birth>19??</Birth>
       <PrimaryTreePage>tree/00000331.html</PrimaryTreePage>
       <ProfilePage>people/P1312.html</ProfilePage>
@@ -5645,7 +6041,7 @@
       <Surname>NEALL</Surname>
       <GivenNames>Richard</GivenNames>
       <FullName>Richard NEALL</FullName>
-      <LifeDates>1964-????</LifeDates>
+      <LifeDates>1964-</LifeDates>
       <Birth>1964</Birth>
       <PrimaryTreePage>tree/00000296.html</PrimaryTreePage>
       <ProfilePage>people/P1314.html</ProfilePage>
@@ -5659,6 +6055,8 @@
       <GivenNames>Eleanor</GivenNames>
       <FullName>Eleanor NEATE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1315.html</ProfilePage>
       <Spouses>
@@ -5670,6 +6068,8 @@
       <GivenNames>Isobell</GivenNames>
       <FullName>Isobell NESBIT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/00000299.html</ProfilePage>
       <Spouses>
@@ -5702,6 +6102,8 @@
       <GivenNames>David</GivenNames>
       <FullName>David O'BRIEN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000374.html</PrimaryTreePage>
       <ProfilePage>people/P1317.html</ProfilePage>
       <Spouses>
@@ -5713,6 +6115,8 @@
       <GivenNames>Catherine</GivenNames>
       <FullName>Catherine OGDEN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/00000302.html</ProfilePage>
       <Spouses>
@@ -5740,6 +6144,8 @@
       <GivenNames>Katherine</GivenNames>
       <FullName>Katherine OGILVIE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Notes>Gt.G d of 1st Earl of Airlie</Notes>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/00000303.html</ProfilePage>
@@ -5759,6 +6165,8 @@
       <GivenNames>Margaret</GivenNames>
       <FullName>Margaret OGILVIE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Notes>gd.d of !st Earl of Airie</Notes>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/00000660.html</ProfilePage>
@@ -5771,6 +6179,8 @@
       <GivenNames>Col. Christopher</GivenNames>
       <FullName>Col. Christopher OLDFIELD</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000311.html</PrimaryTreePage>
       <ProfilePage>people/P1318.html</ProfilePage>
       <Parents>
@@ -5790,6 +6200,8 @@
       <GivenNames>Dorothy</GivenNames>
       <FullName>Dorothy OLDFIELD</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000311.html</PrimaryTreePage>
       <ProfilePage>people/P1319.html</ProfilePage>
       <Parents>
@@ -5808,6 +6220,8 @@
       <GivenNames>Elizabeth</GivenNames>
       <FullName>Elizabeth OLDFIELD</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000311.html</PrimaryTreePage>
       <ProfilePage>people/P1320.html</ProfilePage>
       <Parents>
@@ -5820,6 +6234,8 @@
       <GivenNames>Guy</GivenNames>
       <FullName>Guy OLDFIELD</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000311.html</PrimaryTreePage>
       <ProfilePage>people/P1321.html</ProfilePage>
       <Parents>
@@ -5832,6 +6248,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John OLDFIELD</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000311.html</PrimaryTreePage>
       <ProfilePage>people/P1322.html</ProfilePage>
       <Parents>
@@ -5844,6 +6262,8 @@
       <GivenNames>Maj. H</GivenNames>
       <FullName>Maj. H OLDFIELD</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000311.html</PrimaryTreePage>
       <ProfilePage>people/P1323.html</ProfilePage>
       <Parents>
@@ -5862,6 +6282,8 @@
       <GivenNames>Maud</GivenNames>
       <FullName>Maud OLDFIELD</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000311.html</PrimaryTreePage>
       <ProfilePage>people/P1324.html</ProfilePage>
       <Parents>
@@ -5877,6 +6299,8 @@
       <GivenNames>Sir Richard</GivenNames>
       <FullName>Sir Richard OLDFIELD</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000311.html</PrimaryTreePage>
       <ProfilePage>people/P1325.html</ProfilePage>
       <Spouses>
@@ -5919,7 +6343,7 @@
       <Surname>PARSONS</Surname>
       <GivenNames>Alexander</GivenNames>
       <FullName>Alexander PARSONS</FullName>
-      <LifeDates>1973-????</LifeDates>
+      <LifeDates>1973-</LifeDates>
       <Birth>1973</Birth>
       <PrimaryTreePage>tree/00000317.html</PrimaryTreePage>
       <ProfilePage>people/P1328.html</ProfilePage>
@@ -5935,7 +6359,7 @@
       <Surname>PARSONS</Surname>
       <GivenNames>Claudia</GivenNames>
       <FullName>Claudia PARSONS</FullName>
-      <LifeDates>1974-????</LifeDates>
+      <LifeDates>1974-</LifeDates>
       <Birth>1974</Birth>
       <PrimaryTreePage>tree/00000317.html</PrimaryTreePage>
       <ProfilePage>people/P1329.html</ProfilePage>
@@ -5948,7 +6372,7 @@
       <Surname>PARSONS</Surname>
       <GivenNames>Diana</GivenNames>
       <FullName>Diana PARSONS</FullName>
-      <LifeDates>1944-????</LifeDates>
+      <LifeDates>1944-</LifeDates>
       <Birth>1944</Birth>
       <PrimaryTreePage>tree/00000073.html</PrimaryTreePage>
       <ProfilePage>people/P1330.html</ProfilePage>
@@ -5968,7 +6392,7 @@
       <Surname>PARSONS</Surname>
       <GivenNames>Nicholas</GivenNames>
       <FullName>Nicholas PARSONS</FullName>
-      <LifeDates>1947-????</LifeDates>
+      <LifeDates>1947-</LifeDates>
       <Birth>1947</Birth>
       <PrimaryTreePage>tree/00000317.html</PrimaryTreePage>
       <ProfilePage>people/P1331.html</ProfilePage>
@@ -5988,7 +6412,7 @@
       <Surname>PARSONS</Surname>
       <GivenNames>Philippa</GivenNames>
       <FullName>Philippa PARSONS</FullName>
-      <LifeDates>1944-????</LifeDates>
+      <LifeDates>1944-</LifeDates>
       <Birth>1944</Birth>
       <PrimaryTreePage>tree/00000099.html</PrimaryTreePage>
       <ProfilePage>people/P1332.html</ProfilePage>
@@ -6009,6 +6433,8 @@
       <GivenNames>Rowlett Haliburton (Bill)</GivenNames>
       <FullName>Rowlett Haliburton (Bill) PARSONS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000292.html</PrimaryTreePage>
       <ProfilePage>people/P1333.html</ProfilePage>
       <Spouses>
@@ -6026,6 +6452,7 @@
       <FullName>Sheridan PATTERSON</FullName>
       <LifeDates>19??-????</LifeDates>
       <Birth>19??</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000292.html</PrimaryTreePage>
       <ProfilePage>people/P1334.html</ProfilePage>
       <Spouses>
@@ -6037,6 +6464,8 @@
       <GivenNames>General</GivenNames>
       <FullName>General PEMBERTON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1335.html</ProfilePage>
       <Spouses>
@@ -6048,6 +6477,8 @@
       <GivenNames></GivenNames>
       <FullName>PESCARA ??</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <ProfilePage>people/P1336.html</ProfilePage>
       <Spouses>
         <Spouse ref="00000049">John ? ANGELO MALEVOLTI TREMAMANDO</Spouse>
@@ -6058,6 +6489,8 @@
       <GivenNames>Eva (de Vries)</GivenNames>
       <FullName>Eva (de Vries) PHILIPSE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000448.html</PrimaryTreePage>
       <ProfilePage>people/P1337.html</ProfilePage>
       <Spouses>
@@ -6069,6 +6502,8 @@
       <GivenNames>F</GivenNames>
       <FullName>F PHILLIPSE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000448.html</PrimaryTreePage>
       <ProfilePage>people/P1338.html</ProfilePage>
       <Spouses>
@@ -6079,7 +6514,8 @@
       <Surname>PICTON</Surname>
       <GivenNames>John</GivenNames>
       <FullName>John PICTON</FullName>
-      <LifeDates>????-????</LifeDates>
+      <LifeDates>????-</LifeDates>
+      <Birth>????</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1339.html</ProfilePage>
     </Person>
@@ -6112,6 +6548,8 @@
       <GivenNames>Beatrice</GivenNames>
       <FullName>Beatrice POLDEN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000399.html</PrimaryTreePage>
       <ProfilePage>people/P1340.html</ProfilePage>
       <Parents>
@@ -6131,6 +6569,8 @@
       <GivenNames>Dorothy</GivenNames>
       <FullName>Dorothy POLDEN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000083.html</PrimaryTreePage>
       <ProfilePage>people/P1341.html</ProfilePage>
       <Parents>
@@ -6150,6 +6590,8 @@
       <GivenNames>Sn. Maj. R</GivenNames>
       <FullName>Sn. Maj. R POLDEN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000041.html</PrimaryTreePage>
       <ProfilePage>people/P1342.html</ProfilePage>
       <Spouses>
@@ -6164,7 +6606,7 @@
       <Surname>PRETTY</Surname>
       <GivenNames>John</GivenNames>
       <FullName>John PRETTY</FullName>
-      <LifeDates>1963-????</LifeDates>
+      <LifeDates>1963-</LifeDates>
       <Birth>1963</Birth>
       <PrimaryTreePage>tree/00000331.html</PrimaryTreePage>
       <ProfilePage>people/P1343.html</ProfilePage>
@@ -6177,7 +6619,7 @@
       <Surname>PRETTY</Surname>
       <GivenNames>Penelope Elizabeth</GivenNames>
       <FullName>Penelope Elizabeth PRETTY</FullName>
-      <LifeDates>1959-????</LifeDates>
+      <LifeDates>1959-</LifeDates>
       <Birth>1959</Birth>
       <PrimaryTreePage>tree/00000331.html</PrimaryTreePage>
       <ProfilePage>people/P1344.html</ProfilePage>
@@ -6211,7 +6653,7 @@
       <Surname>PRETTY RN</Surname>
       <GivenNames>David</GivenNames>
       <FullName>David PRETTY RN</FullName>
-      <LifeDates>1956-????</LifeDates>
+      <LifeDates>1956-</LifeDates>
       <Birth>1956</Birth>
       <PrimaryTreePage>tree/00000331.html</PrimaryTreePage>
       <ProfilePage>people/P1346.html</ProfilePage>
@@ -6224,7 +6666,7 @@
       <Surname>PRICE</Surname>
       <GivenNames>Lindsey Helen</GivenNames>
       <FullName>Lindsey Helen PRICE</FullName>
-      <LifeDates>1964-????</LifeDates>
+      <LifeDates>1964-</LifeDates>
       <Birth>1964</Birth>
       <PrimaryTreePage>tree/00000282.html</PrimaryTreePage>
       <ProfilePage>people/00000333.html</ProfilePage>
@@ -6241,6 +6683,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John PROWSE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000511.html</PrimaryTreePage>
       <ProfilePage>people/P1347.html</ProfilePage>
       <Spouses>
@@ -6252,6 +6696,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John PUGSLEY RN</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000502.html</PrimaryTreePage>
       <ProfilePage>people/P1348.html</ProfilePage>
       <Spouses>
@@ -6276,6 +6722,8 @@
       <GivenNames>Peggy</GivenNames>
       <FullName>Peggy REID</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000239.html</PrimaryTreePage>
       <ProfilePage>people/P1350.html</ProfilePage>
       <Spouses>
@@ -6287,6 +6735,8 @@
       <GivenNames>Rev. James</GivenNames>
       <FullName>Rev. James RENNIE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000280.html</PrimaryTreePage>
       <ProfilePage>people/P1351.html</ProfilePage>
       <Spouses>
@@ -6298,6 +6748,8 @@
       <GivenNames>Eanswythe Wood</GivenNames>
       <FullName>Eanswythe Wood RENTON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000155.html</PrimaryTreePage>
       <ProfilePage>people/P1352.html</ProfilePage>
       <Spouses>
@@ -6313,6 +6765,8 @@
       <GivenNames>Robin</GivenNames>
       <FullName>Robin RICHMOND</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000502.html</PrimaryTreePage>
       <ProfilePage>people/P1353.html</ProfilePage>
       <Spouses>
@@ -6324,6 +6778,8 @@
       <GivenNames>Mary Walton</GivenNames>
       <FullName>Mary Walton RICKETTS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Marriage>1738 May 6th</Marriage>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/00000342.html</ProfilePage>
@@ -6340,6 +6796,8 @@
       <GivenNames>Catherine</GivenNames>
       <FullName>Catherine RIDDELL</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000261.html</PrimaryTreePage>
       <ProfilePage>people/P1354.html</ProfilePage>
       <Spouses>
@@ -6352,6 +6810,7 @@
       <FullName>Elizabeth Jane Ann ROBERTS</FullName>
       <LifeDates>1930-????</LifeDates>
       <Birth>1930</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000292.html</PrimaryTreePage>
       <ProfilePage>people/P1355.html</ProfilePage>
       <Parents>
@@ -6376,6 +6835,7 @@
       <FullName>Jennifer Joan ROBERTS</FullName>
       <LifeDates>1930-????</LifeDates>
       <Birth>1930</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000331.html</PrimaryTreePage>
       <ProfilePage>people/P1356.html</ProfilePage>
       <Parents>
@@ -6396,6 +6856,8 @@
       <GivenNames>John (Jock)</GivenNames>
       <FullName>John (Jock) ROBERTS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000292.html</PrimaryTreePage>
       <ProfilePage>people/P1357.html</ProfilePage>
       <Spouses>
@@ -6411,6 +6873,8 @@
       <GivenNames>Aimee</GivenNames>
       <FullName>Aimee ROBERTSON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000165.html</PrimaryTreePage>
       <ProfilePage>people/P1358.html</ProfilePage>
       <Parents>
@@ -6430,6 +6894,8 @@
       <GivenNames>Sir Frederick</GivenNames>
       <FullName>Sir Frederick ROBERTSON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000041.html</PrimaryTreePage>
       <ProfilePage>people/P1359.html</ProfilePage>
       <Spouses>
@@ -6444,6 +6910,8 @@
       <GivenNames>Marjorie</GivenNames>
       <FullName>Marjorie RODDY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000154.html</PrimaryTreePage>
       <ProfilePage>people/P1360.html</ProfilePage>
       <Spouses>
@@ -6459,6 +6927,8 @@
       <GivenNames>Andrina B H</GivenNames>
       <FullName>Andrina B H ROGER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000280.html</PrimaryTreePage>
       <ProfilePage>people/P1361.html</ProfilePage>
       <Spouses>
@@ -6470,6 +6940,8 @@
       <GivenNames>Marion</GivenNames>
       <FullName>Marion RONALD</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Marriage>1697 July 12th</Marriage>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/00000351.html</ProfilePage>
@@ -6494,6 +6966,8 @@
       <GivenNames>Victor Alexander</GivenNames>
       <FullName>Victor Alexander ROXBURGH</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000229.html</PrimaryTreePage>
       <ProfilePage>people/P1362.html</ProfilePage>
       <Parents>
@@ -6510,6 +6984,7 @@
       <FullName>William Alexander ROXBURGH</FullName>
       <LifeDates>1908-????</LifeDates>
       <Birth>1908</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000229.html</PrimaryTreePage>
       <ProfilePage>people/P1363.html</ProfilePage>
       <Spouses>
@@ -6524,6 +6999,8 @@
       <GivenNames>Jane</GivenNames>
       <FullName>Jane SCARLETT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000545.html</PrimaryTreePage>
       <ProfilePage>people/P1364.html</ProfilePage>
       <Spouses>
@@ -6535,6 +7012,8 @@
       <GivenNames>Brandt</GivenNames>
       <FullName>Brandt SCHUYLER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000448.html</PrimaryTreePage>
       <ProfilePage>people/P1365.html</ProfilePage>
       <Spouses>
@@ -6546,6 +7025,8 @@
       <GivenNames>Col John</GivenNames>
       <FullName>Col John SCHUYLER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1366.html</ProfilePage>
       <Spouses>
@@ -6557,6 +7038,7 @@
       <GivenNames>Gertrude</GivenNames>
       <FullName>Gertrude SCHUYLER</FullName>
       <LifeDates>????-1723</LifeDates>
+      <Birth>????</Birth>
       <Death>1723</Death>
       <Marriage>1671 Sep 10th</Marriage>
       <Notes>of Albany</Notes>
@@ -6587,6 +7069,8 @@
       <GivenNames>A</GivenNames>
       <FullName>A SCOBELL</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000504.html</PrimaryTreePage>
       <ProfilePage>people/00000358.html</ProfilePage>
       <Spouses>
@@ -6601,6 +7085,8 @@
       <GivenNames>Katthy</GivenNames>
       <FullName>Katthy SHAMLOCK</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000229.html</PrimaryTreePage>
       <ProfilePage>people/P1367.html</ProfilePage>
       <Spouses>
@@ -6611,7 +7097,7 @@
       <Surname>SHAW</Surname>
       <GivenNames>Alan Thomas</GivenNames>
       <FullName>Alan Thomas SHAW</FullName>
-      <LifeDates>1947-????</LifeDates>
+      <LifeDates>1947-</LifeDates>
       <Birth>1947</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1368.html</ProfilePage>
@@ -6621,6 +7107,8 @@
       <GivenNames>Capt. Edwin</GivenNames>
       <FullName>Capt. Edwin SHORT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000362.html</PrimaryTreePage>
       <ProfilePage>people/P1369.html</ProfilePage>
       <Parents>
@@ -6633,6 +7121,8 @@
       <GivenNames>Col.</GivenNames>
       <FullName>Col. SHORT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000362.html</PrimaryTreePage>
       <ProfilePage>people/P1370.html</ProfilePage>
       <Spouses>
@@ -6652,6 +7142,8 @@
       <GivenNames>Emily</GivenNames>
       <FullName>Emily SHORT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000362.html</PrimaryTreePage>
       <ProfilePage>people/P1371.html</ProfilePage>
       <Parents>
@@ -6664,6 +7156,8 @@
       <GivenNames>Ernest</GivenNames>
       <FullName>Ernest SHORT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000362.html</PrimaryTreePage>
       <ProfilePage>people/P1372.html</ProfilePage>
       <Parents>
@@ -6676,6 +7170,8 @@
       <GivenNames>Maud</GivenNames>
       <FullName>Maud SHORT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000362.html</PrimaryTreePage>
       <ProfilePage>people/P1373.html</ProfilePage>
       <Parents>
@@ -6688,6 +7184,8 @@
       <GivenNames>William</GivenNames>
       <FullName>William SHORT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000362.html</PrimaryTreePage>
       <ProfilePage>people/P1374.html</ProfilePage>
       <Parents>
@@ -6700,6 +7198,8 @@
       <GivenNames>Col W</GivenNames>
       <FullName>Col W SIMONDS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1375.html</ProfilePage>
       <Spouses>
@@ -6711,6 +7211,7 @@
       <GivenNames>Katherine</GivenNames>
       <FullName>Katherine SINCLAIR</FullName>
       <LifeDates>????-d. of the Earl of Caithness</LifeDates>
+      <Birth>????</Birth>
       <Death>d. of the Earl of Caithness</Death>
       <Notes>d. of the Earl of Caithness</Notes>
       <PrimaryTreePage>tree/00000385.html</PrimaryTreePage>
@@ -6728,6 +7229,8 @@
       <GivenNames>Rev William</GivenNames>
       <FullName>Rev William SKINNER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1376.html</ProfilePage>
       <Spouses>
@@ -6740,6 +7243,8 @@
       <GivenNames>Catherine</GivenNames>
       <FullName>Catherine SLOCOMBE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <ProfilePage>people/00000370.html</ProfilePage>
       <Spouses>
         <Spouse ref="00000195">Richard MICHELL</Spouse>
@@ -6753,6 +7258,8 @@
       <GivenNames>Joseph Elias</GivenNames>
       <FullName>Joseph Elias SOLOMON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <ProfilePage>people/P1377.html</ProfilePage>
       <Spouses>
         <Spouse ref="P1219">Ann Catherine MICHELL</Spouse>
@@ -6763,6 +7270,8 @@
       <GivenNames>Anthony</GivenNames>
       <FullName>Anthony SPARLING</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000374.html</PrimaryTreePage>
       <ProfilePage>people/P1378.html</ProfilePage>
       <Parents>
@@ -6775,6 +7284,8 @@
       <GivenNames>Penelope Ann</GivenNames>
       <FullName>Penelope Ann SPARLING</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000374.html</PrimaryTreePage>
       <ProfilePage>people/P1379.html</ProfilePage>
       <Parents>
@@ -6790,6 +7301,8 @@
       <GivenNames>Wing Com. E</GivenNames>
       <FullName>Wing Com. E SPARLING</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000374.html</PrimaryTreePage>
       <ProfilePage>people/P1380.html</ProfilePage>
       <Spouses>
@@ -6804,7 +7317,8 @@
       <Surname>SPENCER</Surname>
       <GivenNames>Richard Hugh Houghton</GivenNames>
       <FullName>Richard Hugh Houghton SPENCER</FullName>
-      <LifeDates>????-????</LifeDates>
+      <LifeDates>????-</LifeDates>
+      <Birth>????</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1381.html</ProfilePage>
     </Person>
@@ -6813,6 +7327,8 @@
       <GivenNames>Maud</GivenNames>
       <FullName>Maud SPRAGUE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000041.html</PrimaryTreePage>
       <ProfilePage>people/P1382.html</ProfilePage>
       <Spouses>
@@ -6827,6 +7343,8 @@
       <GivenNames>Catalina</GivenNames>
       <FullName>Catalina STAATS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1383.html</ProfilePage>
       <Spouses>
@@ -6837,7 +7355,7 @@
       <Surname>STANCOMBE</Surname>
       <GivenNames>David</GivenNames>
       <FullName>David STANCOMBE</FullName>
-      <LifeDates>1938-????</LifeDates>
+      <LifeDates>1938-</LifeDates>
       <Birth>1938</Birth>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1384.html</ProfilePage>
@@ -6847,6 +7365,8 @@
       <GivenNames>Colonel J</GivenNames>
       <FullName>Colonel J STEEL</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000403.html</PrimaryTreePage>
       <ProfilePage>people/P1385.html</ProfilePage>
       <Spouses>
@@ -6859,6 +7379,7 @@
       <FullName>Agnes STEUART</FullName>
       <LifeDates>1703-????</LifeDates>
       <Birth>1703</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/P1386.html</ProfilePage>
       <Parents>
@@ -6872,6 +7393,7 @@
       <FullName>Alexander STEUART</FullName>
       <LifeDates>1545-????</LifeDates>
       <Birth>1545</Birth>
+      <Death>????</Death>
       <Profession>Portioner of Scone</Profession>
       <PrimaryTreePage>tree/00000380.html</PrimaryTreePage>
       <ProfilePage>people/00000380.html</ProfilePage>
@@ -6911,6 +7433,7 @@
       <GivenNames>Alexander</GivenNames>
       <FullName>Alexander STEUART</FullName>
       <LifeDates>????-1485</LifeDates>
+      <Birth>????</Birth>
       <Death>1485</Death>
       <Profession>Duke of Albany</Profession>
       <PrimaryTreePage>tree/00000385.html</PrimaryTreePage>
@@ -6932,6 +7455,8 @@
       <GivenNames>Alexander</GivenNames>
       <FullName>Alexander STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Profession>Portioner of Scone</Profession>
       <PrimaryTreePage>tree/00000380.html</PrimaryTreePage>
       <ProfilePage>people/00000665.html</ProfilePage>
@@ -6945,6 +7470,7 @@
       <FullName>Alexander STEUART</FullName>
       <LifeDates>1509-????</LifeDates>
       <Birth>1509</Birth>
+      <Death>????</Death>
       <Profession>Archdeacon of Lothian</Profession>
       <PrimaryTreePage>tree/00000381.html</PrimaryTreePage>
       <ProfilePage>people/00000676.html</ProfilePage>
@@ -6958,6 +7484,7 @@
       <FullName>Alexander STEUART</FullName>
       <LifeDates>1511-????</LifeDates>
       <Birth>1511</Birth>
+      <Death>????</Death>
       <Notes>of Pitcairn</Notes>
       <PrimaryTreePage>tree/00000381.html</PrimaryTreePage>
       <ProfilePage>people/00000677.html</ProfilePage>
@@ -6970,6 +7497,8 @@
       <GivenNames>Alexander</GivenNames>
       <FullName>Alexander STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/P1387.html</ProfilePage>
       <Parents>
@@ -6986,6 +7515,7 @@
       <FullName>Beatrix STEUART</FullName>
       <LifeDates>1706-????</LifeDates>
       <Birth>1706</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/P1388.html</ProfilePage>
       <Parents>
@@ -6999,6 +7529,7 @@
       <FullName>Christian STEUART</FullName>
       <LifeDates>1702-????</LifeDates>
       <Birth>1702</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/P1389.html</ProfilePage>
       <Parents>
@@ -7011,6 +7542,8 @@
       <GivenNames>Christine</GivenNames>
       <FullName>Christine STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000380.html</PrimaryTreePage>
       <ProfilePage>people/P1390.html</ProfilePage>
       <Parents>
@@ -7025,6 +7558,7 @@
       <GivenNames>David</GivenNames>
       <FullName>David STEUART</FullName>
       <LifeDates>????-ob.inf.</LifeDates>
+      <Birth>????</Birth>
       <Death>ob.inf.</Death>
       <PrimaryTreePage>tree/00000385.html</PrimaryTreePage>
       <ProfilePage>people/P1391.html</ProfilePage>
@@ -7039,6 +7573,7 @@
       <FullName>Hannah STEUART</FullName>
       <LifeDates>1705-????</LifeDates>
       <Birth>1705</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/P1392.html</ProfilePage>
       <Parents>
@@ -7051,6 +7586,8 @@
       <GivenNames>Hannah</GivenNames>
       <FullName>Hannah STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/P1393.html</ProfilePage>
       <Parents>
@@ -7064,6 +7601,7 @@
       <FullName>Helen STEUART</FullName>
       <LifeDates>1705-????</LifeDates>
       <Birth>1705</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/P1394.html</ProfilePage>
       <Parents>
@@ -7076,6 +7614,8 @@
       <GivenNames>Isobell</GivenNames>
       <FullName>Isobell STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/P1395.html</ProfilePage>
       <Parents>
@@ -7091,6 +7631,8 @@
       <GivenNames>Isobell</GivenNames>
       <FullName>Isobell STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000380.html</PrimaryTreePage>
       <ProfilePage>people/P1396.html</ProfilePage>
       <Parents>
@@ -7154,7 +7696,7 @@
       <Surname>STEUART</Surname>
       <GivenNames>James</GivenNames>
       <FullName>James STEUART</FullName>
-      <LifeDates>1430 Oct 16th-1460 Aug 3rd</LifeDates>
+      <LifeDates>1430-1460</LifeDates>
       <Birth>1430 Oct 16th</Birth>
       <Death>1460 Aug 3rd. Killed by a burst- ing cannon at Roxburgh Castle.</Death>
       <Marriage>1449 July 3rd</Marriage>
@@ -7197,6 +7739,8 @@
       <GivenNames>James</GivenNames>
       <FullName>James STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/P1397.html</ProfilePage>
       <Parents>
@@ -7212,6 +7756,8 @@
       <GivenNames>Jean</GivenNames>
       <FullName>Jean STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/P1398.html</ProfilePage>
       <Parents>
@@ -7248,6 +7794,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Marriage>1697 July 12th</Marriage>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/00000387.html</ProfilePage>
@@ -7277,6 +7825,7 @@
       <FullName>John STEUART</FullName>
       <LifeDates>1576-????</LifeDates>
       <Birth>1576</Birth>
+      <Death>????</Death>
       <Profession>Portioner of Scone</Profession>
       <PrimaryTreePage>tree/00000380.html</PrimaryTreePage>
       <ProfilePage>people/00000388.html</ProfilePage>
@@ -7297,6 +7846,7 @@
       <FullName>John STEUART</FullName>
       <LifeDates>1515-????</LifeDates>
       <Birth>1515</Birth>
+      <Death>????</Death>
       <Profession>Portioner of Scone</Profession>
       <PrimaryTreePage>tree/00000381.html</PrimaryTreePage>
       <ProfilePage>people/00000389.html</ProfilePage>
@@ -7328,6 +7878,7 @@
       <FullName>John STEUART</FullName>
       <LifeDates>1708-????</LifeDates>
       <Birth>1708</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/P1399.html</ProfilePage>
       <Parents>
@@ -7340,6 +7891,8 @@
       <GivenNames>Jonat</GivenNames>
       <FullName>Jonat STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000380.html</PrimaryTreePage>
       <ProfilePage>people/P1400.html</ProfilePage>
       <Parents>
@@ -7353,7 +7906,7 @@
       <Surname>STEUART</Surname>
       <GivenNames>Katherine</GivenNames>
       <FullName>Katherine STEUART</FullName>
-      <LifeDates>1780 Nov 23rd-1847</LifeDates>
+      <LifeDates>1780-1847</LifeDates>
       <Birth>1780 Nov 23rd</Birth>
       <Death>1847</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
@@ -7384,6 +7937,7 @@
       <FullName>Katherine STEUART</FullName>
       <LifeDates>1745-????</LifeDates>
       <Birth>1745</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/P1401.html</ProfilePage>
       <Parents>
@@ -7399,6 +7953,8 @@
       <GivenNames>Katherine</GivenNames>
       <FullName>Katherine STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000381.html</PrimaryTreePage>
       <ProfilePage>people/P1402.html</ProfilePage>
       <Parents>
@@ -7413,6 +7969,8 @@
       <GivenNames>Katherine</GivenNames>
       <FullName>Katherine STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000385.html</PrimaryTreePage>
       <ProfilePage>people/P1403.html</ProfilePage>
       <Parents>
@@ -7428,6 +7986,8 @@
       <GivenNames>Margaret</GivenNames>
       <FullName>Margaret STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/P1404.html</ProfilePage>
       <Parents>
@@ -7440,6 +8000,8 @@
       <GivenNames>Margaret</GivenNames>
       <FullName>Margaret STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000381.html</PrimaryTreePage>
       <ProfilePage>people/P1405.html</ProfilePage>
       <Parents>
@@ -7454,6 +8016,8 @@
       <GivenNames>Margaret</GivenNames>
       <FullName>Margaret STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000385.html</PrimaryTreePage>
       <ProfilePage>people/P1406.html</ProfilePage>
       <Parents>
@@ -7470,6 +8034,7 @@
       <FullName>Marion STEUART</FullName>
       <LifeDates>1704-????</LifeDates>
       <Birth>1704</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/P1407.html</ProfilePage>
       <Parents>
@@ -7482,6 +8047,8 @@
       <GivenNames>Marjory</GivenNames>
       <FullName>Marjory STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000381.html</PrimaryTreePage>
       <ProfilePage>people/P1408.html</ProfilePage>
       <Parents>
@@ -7513,6 +8080,7 @@
       <GivenNames>Mary</GivenNames>
       <FullName>Mary STEUART</FullName>
       <LifeDates>????-1488</LifeDates>
+      <Birth>????</Birth>
       <Death>1488</Death>
       <PrimaryTreePage>tree/00000385.html</PrimaryTreePage>
       <ProfilePage>people/P1410.html</ProfilePage>
@@ -7544,6 +8112,7 @@
       <FullName>Patrick STEUART</FullName>
       <LifeDates>1513-????</LifeDates>
       <Birth>1513</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000381.html</PrimaryTreePage>
       <ProfilePage>people/P1412.html</ProfilePage>
       <Parents>
@@ -7556,6 +8125,7 @@
       <FullName>Robert STEUART</FullName>
       <LifeDates>1755-????</LifeDates>
       <Birth>1755</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/P1413.html</ProfilePage>
       <Parents>
@@ -7571,6 +8141,8 @@
       <GivenNames>Walter</GivenNames>
       <FullName>Walter STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Notes>of Tulliallan</Notes>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/00000391.html</ProfilePage>
@@ -7593,6 +8165,7 @@
       <FullName>Walter STEUART</FullName>
       <LifeDates>1699-????</LifeDates>
       <Birth>1699</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000387.html</PrimaryTreePage>
       <ProfilePage>people/P1414.html</ProfilePage>
       <Parents>
@@ -7605,6 +8178,8 @@
       <GivenNames>Walter</GivenNames>
       <FullName>Walter STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/P1415.html</ProfilePage>
       <Parents>
@@ -7620,6 +8195,8 @@
       <GivenNames>William</GivenNames>
       <FullName>William STEUART</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/P1416.html</ProfilePage>
       <Parents>
@@ -7635,6 +8212,8 @@
       <GivenNames>Gavin</GivenNames>
       <FullName>Gavin STEVINSONE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Notes>Drumelogie</Notes>
       <PrimaryTreePage>tree/00000262.html</PrimaryTreePage>
       <ProfilePage>people/00000392.html</ProfilePage>
@@ -7647,6 +8226,8 @@
       <GivenNames>Capt.</GivenNames>
       <FullName>Capt. SWEETING RN SP</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000120.html</PrimaryTreePage>
       <ProfilePage>people/P1417.html</ProfilePage>
       <Spouses>
@@ -7658,6 +8239,8 @@
       <GivenNames>Rebecca</GivenNames>
       <FullName>Rebecca TAYLOR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000239.html</PrimaryTreePage>
       <ProfilePage>people/P1418.html</ProfilePage>
       <Spouses>
@@ -7669,6 +8252,8 @@
       <GivenNames>William</GivenNames>
       <FullName>William TAYLOR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1419.html</ProfilePage>
       <Spouses>
@@ -7697,6 +8282,8 @@
       <GivenNames>Janet</GivenNames>
       <FullName>Janet THOMSON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000384.html</PrimaryTreePage>
       <ProfilePage>people/P1421.html</ProfilePage>
       <Spouses>
@@ -7708,6 +8295,8 @@
       <GivenNames>Jessie Geddes</GivenNames>
       <FullName>Jessie Geddes THOMSON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000280.html</PrimaryTreePage>
       <ProfilePage>people/P1422.html</ProfilePage>
       <Spouses>
@@ -7719,6 +8308,8 @@
       <GivenNames>Andrew</GivenNames>
       <FullName>Andrew TILLIER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000448.html</PrimaryTreePage>
       <ProfilePage>people/P1423.html</ProfilePage>
       <Spouses>
@@ -7730,6 +8321,8 @@
       <GivenNames>Col. R</GivenNames>
       <FullName>Col. R TILLY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000399.html</PrimaryTreePage>
       <ProfilePage>people/P1424.html</ProfilePage>
       <Spouses>
@@ -7745,6 +8338,8 @@
       <GivenNames>Gwendolen</GivenNames>
       <FullName>Gwendolen TILLY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000399.html</PrimaryTreePage>
       <ProfilePage>people/P1425.html</ProfilePage>
       <Parents>
@@ -7757,6 +8352,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John TILLY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000399.html</PrimaryTreePage>
       <ProfilePage>people/P1426.html</ProfilePage>
       <Parents>
@@ -7791,6 +8388,8 @@
       <GivenNames></GivenNames>
       <FullName>TOTHILL</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000118.html</PrimaryTreePage>
       <ProfilePage>people/P1427.html</ProfilePage>
       <Spouses>
@@ -7832,6 +8431,8 @@
       <GivenNames>Captain Alex</GivenNames>
       <FullName>Captain Alex TROTTER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000435.html</PrimaryTreePage>
       <ProfilePage>people/P1428.html</ProfilePage>
       <Spouses>
@@ -7843,6 +8444,8 @@
       <GivenNames>Margaret</GivenNames>
       <FullName>Margaret TUTTLE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000545.html</PrimaryTreePage>
       <ProfilePage>people/P1429.html</ProfilePage>
       <Spouses>
@@ -7854,6 +8457,8 @@
       <GivenNames>Elizabeth</GivenNames>
       <FullName>Elizabeth VALLANCE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000504.html</PrimaryTreePage>
       <ProfilePage>people/P1430.html</ProfilePage>
       <Spouses>
@@ -7865,6 +8470,7 @@
       <GivenNames>10 others ob. infancy</GivenNames>
       <FullName>10 others ob. infancy VAN CORTLANDT</FullName>
       <LifeDates>????-ob. infancy</LifeDates>
+      <Birth>????</Birth>
       <Death>ob. infancy</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1554.html</ProfilePage>
@@ -7893,6 +8499,7 @@
       <FullName>Ann VAN CORTLANDT</FullName>
       <LifeDates>1676-????</LifeDates>
       <Birth>1676</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1432.html</ProfilePage>
       <Parents>
@@ -7910,6 +8517,7 @@
       <FullName>Arthur Auchmutty VAN CORTLANDT</FullName>
       <LifeDates>1787-????</LifeDates>
       <Birth>1787</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1433.html</ProfilePage>
       <Parents>
@@ -7925,6 +8533,8 @@
       <GivenNames>Catherine</GivenNames>
       <FullName>Catherine VAN CORTLANDT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1434.html</ProfilePage>
       <Parents>
@@ -7955,6 +8565,7 @@
       <FullName>Catherine VAN CORTLANDT</FullName>
       <LifeDates>1696-????</LifeDates>
       <Birth>1696</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1436.html</ProfilePage>
       <Parents>
@@ -8024,7 +8635,7 @@
       <Surname>VAN CORTLANDT</Surname>
       <GivenNames>Cornelia</GivenNames>
       <FullName>Cornelia VAN CORTLANDT</FullName>
-      <LifeDates>1698-c.1777</LifeDates>
+      <LifeDates>1698-c1777</LifeDates>
       <Birth>1698</Birth>
       <Death>c.1777</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
@@ -8060,6 +8671,7 @@
       <FullName>Elizabeth VAN CORTLANDT</FullName>
       <LifeDates>1764-????</LifeDates>
       <Birth>1764</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1442.html</ProfilePage>
       <Parents>
@@ -8093,6 +8705,7 @@
       <FullName>Elizabeth VAN CORTLANDT</FullName>
       <LifeDates>1694-????</LifeDates>
       <Birth>1694</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1444.html</ProfilePage>
       <Parents>
@@ -8109,6 +8722,7 @@
       <FullName>Gertrude VAN CORTLANDT</FullName>
       <LifeDates>1772-????</LifeDates>
       <Birth>1772</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1445.html</ProfilePage>
       <Parents>
@@ -8223,6 +8837,7 @@
       <FullName>Johannes VAN CORTLANDT</FullName>
       <LifeDates>1672-????</LifeDates>
       <Birth>1672</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1450.html</ProfilePage>
       <Parents>
@@ -8267,6 +8882,7 @@
       <FullName>Margaret VAN CORTLANDT</FullName>
       <LifeDates>1674-????</LifeDates>
       <Birth>1674</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1453.html</ProfilePage>
       <Parents>
@@ -8283,6 +8899,8 @@
       <GivenNames>Margaret Hughes</GivenNames>
       <FullName>Margaret Hughes VAN CORTLANDT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1454.html</ProfilePage>
       <Parents>
@@ -8316,6 +8934,7 @@
       <FullName>Mary VAN CORTLANDT</FullName>
       <LifeDates>1680-????</LifeDates>
       <Birth>1680</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1456.html</ProfilePage>
       <Parents>
@@ -8331,7 +8950,7 @@
       <Surname>VAN CORTLANDT</Surname>
       <GivenNames>Mary Ricketts</GivenNames>
       <FullName>Mary Ricketts VAN CORTLANDT</FullName>
-      <LifeDates>1763-1807or8</LifeDates>
+      <LifeDates>1763-1807</LifeDates>
       <Birth>1763</Birth>
       <Death>1807 or 8</Death>
       <PrimaryTreePage>tree/00000435.html</PrimaryTreePage>
@@ -8371,7 +8990,7 @@
       <Surname>VAN CORTLANDT</Surname>
       <GivenNames>Oloff Stevense</GivenNames>
       <FullName>Oloff Stevense VAN CORTLANDT</FullName>
-      <LifeDates>c. 1600/1610-1684</LifeDates>
+      <LifeDates>c1600-1684</LifeDates>
       <Birth>c. 1600/1610 in Netherlands</Birth>
       <Death>1684</Death>
       <Marriage>1642 in New Amsterdam</Marriage>
@@ -8431,7 +9050,7 @@
       <Surname>VAN CORTLANDT</Surname>
       <GivenNames>Philip</GivenNames>
       <FullName>Philip VAN CORTLANDT</FullName>
-      <LifeDates>1683 Aug 8th-1748 Sept 2nd</LifeDates>
+      <LifeDates>1683-1748</LifeDates>
       <Birth>1683 Aug 8th</Birth>
       <Death>1748 Sept 2nd</Death>
       <Profession>Alderman &amp; member of Governors Council, active merchant,  aquired additional city property including a coffee house &amp; a tavern,The Fighting Cocks.</Profession>
@@ -8459,6 +9078,7 @@
       <FullName>Philip VAN CORTLANDT</FullName>
       <LifeDates>1766-????</LifeDates>
       <Birth>1766</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1458.html</ProfilePage>
       <Parents>
@@ -8521,7 +9141,7 @@
       <Surname>VAN CORTLANDT</Surname>
       <GivenNames>Sophia</GivenNames>
       <FullName>Sophia VAN CORTLANDT</FullName>
-      <LifeDates>1651-1729?</LifeDates>
+      <LifeDates>1651-1729</LifeDates>
       <Birth>1651</Birth>
       <Death>1729?</Death>
       <PrimaryTreePage>tree/00000448.html</PrimaryTreePage>
@@ -8556,7 +9176,7 @@
       <Surname>VAN CORTLANDT</Surname>
       <GivenNames>Stephanus</GivenNames>
       <FullName>Stephanus VAN CORTLANDT</FullName>
-      <LifeDates>1643 Nov 7th-1700 Nov25th</LifeDates>
+      <LifeDates>1643-1700</LifeDates>
       <Birth>1643 Nov 7th</Birth>
       <Death>1700 Nov25th</Death>
       <Marriage>1671 Sep 10th</Marriage>
@@ -8592,7 +9212,7 @@
       <Surname>VAN CORTLANDT</Surname>
       <GivenNames>Stephen</GivenNames>
       <FullName>Stephen VAN CORTLANDT</FullName>
-      <LifeDates>1711 Oct 26th-1756 Oct 17th</LifeDates>
+      <LifeDates>1711-1756</LifeDates>
       <Birth>1711 Oct 26th</Birth>
       <Death>1756 Oct 17th</Death>
       <Marriage>1738 May 6th</Marriage>
@@ -8616,6 +9236,7 @@
       <FullName>Stephen VAN CORTLANDT</FullName>
       <LifeDates>1776-????</LifeDates>
       <Birth>1776</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1464.html</ProfilePage>
       <Parents>
@@ -8645,6 +9266,8 @@
       <GivenNames>William Rickets</GivenNames>
       <FullName>William Rickets VAN CORTLANDT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1466.html</ProfilePage>
       <Parents>
@@ -8660,6 +9283,8 @@
       <GivenNames>Kiliaen</GivenNames>
       <FullName>Kiliaen VAN RENSSELAER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1467.html</ProfilePage>
       <Spouses>
@@ -8671,6 +9296,8 @@
       <GivenNames>Anna Sophia</GivenNames>
       <FullName>Anna Sophia VAN SCHAICK</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000447.html</PrimaryTreePage>
       <ProfilePage>people/P1468.html</ProfilePage>
     </Person>
@@ -8698,6 +9325,8 @@
       <GivenNames>Col Jermiah</GivenNames>
       <FullName>Col Jermiah VON RANSAELER</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Profession>4th Patroon of Rensselaerswyck</Profession>
       <PrimaryTreePage>tree/00000448.html</PrimaryTreePage>
       <ProfilePage>people/00000453.html</ProfilePage>
@@ -8710,6 +9339,8 @@
       <GivenNames>James</GivenNames>
       <FullName>James WALDIE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000280.html</PrimaryTreePage>
       <ProfilePage>people/P1470.html</ProfilePage>
       <Spouses>
@@ -8739,6 +9370,7 @@
       <FullName>Hester WALKER</FullName>
       <LifeDates>1830-????</LifeDates>
       <Birth>1830</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000545.html</PrimaryTreePage>
       <ProfilePage>people/00000456.html</ProfilePage>
       <Spouses>
@@ -8759,6 +9391,8 @@
       <GivenNames>James</GivenNames>
       <FullName>James WALLACE</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000280.html</PrimaryTreePage>
       <ProfilePage>people/P1472.html</ProfilePage>
       <Spouses>
@@ -8770,6 +9404,8 @@
       <GivenNames>Anne</GivenNames>
       <FullName>Anne WARRINGTON</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000446.html</PrimaryTreePage>
       <ProfilePage>people/P1473.html</ProfilePage>
       <Spouses>
@@ -8782,6 +9418,8 @@
       <GivenNames>Helen M</GivenNames>
       <FullName>Helen M WEIR</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000176.html</PrimaryTreePage>
       <ProfilePage>people/P1474.html</ProfilePage>
       <Spouses>
@@ -8794,6 +9432,7 @@
       <FullName>Bettina May WEST</FullName>
       <LifeDates>1921-????</LifeDates>
       <Birth>1921</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000214.html</PrimaryTreePage>
       <ProfilePage>people/P1475.html</ProfilePage>
       <Spouses>
@@ -8824,6 +9463,8 @@
       <GivenNames>Capt. W H</GivenNames>
       <FullName>Capt. W H WHATLEY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <ProfilePage>people/P1476.html</ProfilePage>
       <Spouses>
         <Spouse ref="P1152">Agnes Mary HALL</Spouse>
@@ -8835,6 +9476,7 @@
       <FullName>Agnes WHITEWAY</FullName>
       <LifeDates>1683-????</LifeDates>
       <Birth>1683</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000506.html</PrimaryTreePage>
       <ProfilePage>people/P1477.html</ProfilePage>
       <Parents>
@@ -8849,6 +9491,8 @@
       <GivenNames>Agnes</GivenNames>
       <FullName>Agnes WHITEWAY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000468.html</PrimaryTreePage>
       <ProfilePage>people/P1478.html</ProfilePage>
       <Parents>
@@ -8862,6 +9506,7 @@
       <FullName>Agnes WHITEWAY</FullName>
       <LifeDates>1578-????</LifeDates>
       <Birth>1578</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000511.html</PrimaryTreePage>
       <ProfilePage>people/P1479.html</ProfilePage>
       <Parents>
@@ -8894,6 +9539,8 @@
       <GivenNames>Alice</GivenNames>
       <FullName>Alice WHITEWAY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000511.html</PrimaryTreePage>
       <ProfilePage>people/P1481.html</ProfilePage>
       <Parents>
@@ -8924,6 +9571,7 @@
       <FullName>Charlotte WHITEWAY</FullName>
       <LifeDates>1793-????</LifeDates>
       <Birth>1793</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000504.html</PrimaryTreePage>
       <ProfilePage>people/P1483.html</ProfilePage>
       <Parents>
@@ -8939,6 +9587,7 @@
       <GivenNames>Edmond</GivenNames>
       <FullName>Edmond WHITEWAY</FullName>
       <LifeDates>????-1666</LifeDates>
+      <Birth>????</Birth>
       <Death>1666</Death>
       <PrimaryTreePage>tree/00000468.html</PrimaryTreePage>
       <ProfilePage>people/00000468.html</ProfilePage>
@@ -8960,6 +9609,7 @@
       <FullName>Edmund WHITEWAY</FullName>
       <LifeDates>1695-????</LifeDates>
       <Birth>1695</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000506.html</PrimaryTreePage>
       <ProfilePage>people/P1484.html</ProfilePage>
       <Parents>
@@ -8972,6 +9622,7 @@
       <FullName>Edward WHITEWAY</FullName>
       <LifeDates>1576-????</LifeDates>
       <Birth>1576</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000511.html</PrimaryTreePage>
       <ProfilePage>people/00000470.html</ProfilePage>
       <Parents>
@@ -8994,6 +9645,8 @@
       <GivenNames>Edward</GivenNames>
       <FullName>Edward WHITEWAY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000506.html</PrimaryTreePage>
       <ProfilePage>people/P1485.html</ProfilePage>
       <Parents>
@@ -9040,6 +9693,7 @@
       <FullName>George WHITEWAY</FullName>
       <LifeDates>1693-????</LifeDates>
       <Birth>1693</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000506.html</PrimaryTreePage>
       <ProfilePage>people/P1488.html</ProfilePage>
       <Parents>
@@ -9100,6 +9754,7 @@
       <FullName>Hugh WHITEWAY</FullName>
       <LifeDates>1699-????</LifeDates>
       <Birth>1699</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000506.html</PrimaryTreePage>
       <ProfilePage>people/P1492.html</ProfilePage>
       <Parents>
@@ -9111,6 +9766,8 @@
       <GivenNames>James</GivenNames>
       <FullName>James WHITEWAY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000495.html</PrimaryTreePage>
       <ProfilePage>people/P1493.html</ProfilePage>
       <Parents>
@@ -9122,6 +9779,8 @@
       <GivenNames>James</GivenNames>
       <FullName>James WHITEWAY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <ProfilePage>people/P1494.html</ProfilePage>
     </Person>
     <Person id="P1495" directAncestor="false" ahnentafel="" generation="7" gender="F">
@@ -9130,6 +9789,7 @@
       <FullName>Joan WHITEWAY</FullName>
       <LifeDates>1687-????</LifeDates>
       <Birth>1687</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000506.html</PrimaryTreePage>
       <ProfilePage>people/P1495.html</ProfilePage>
       <Parents>
@@ -9175,6 +9835,7 @@
       <GivenNames>John</GivenNames>
       <FullName>John WHITEWAY</FullName>
       <LifeDates>????-1792</LifeDates>
+      <Birth>????</Birth>
       <Death>1792</Death>
       <PrimaryTreePage>tree/00000506.html</PrimaryTreePage>
       <ProfilePage>people/P1498.html</ProfilePage>
@@ -9187,6 +9848,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John WHITEWAY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000511.html</PrimaryTreePage>
       <ProfilePage>people/P1499.html</ProfilePage>
       <Parents>
@@ -9199,6 +9862,8 @@
       <GivenNames>Kathleen</GivenNames>
       <FullName>Kathleen WHITEWAY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000502.html</PrimaryTreePage>
       <ProfilePage>people/P1500.html</ProfilePage>
       <Parents>
@@ -9217,7 +9882,7 @@
       <Surname>WHITEWAY</Surname>
       <GivenNames>Logie Elizabeth</GivenNames>
       <FullName>Logie Elizabeth WHITEWAY</FullName>
-      <LifeDates>1877 Mar 23rd-1956</LifeDates>
+      <LifeDates>1877-1956</LifeDates>
       <Birth>1877 Mar 23rd</Birth>
       <Death>1956, Lymington</Death>
       <Marriage>1902 Mar 5th, Shottermill</Marriage>
@@ -9242,6 +9907,7 @@
       <FullName>Margaret WHITEWAY</FullName>
       <LifeDates>1697-????</LifeDates>
       <Birth>1697</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000506.html</PrimaryTreePage>
       <ProfilePage>people/P1501.html</ProfilePage>
       <Parents>
@@ -9267,6 +9933,8 @@
       <GivenNames>Margaret</GivenNames>
       <FullName>Margaret WHITEWAY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000511.html</PrimaryTreePage>
       <ProfilePage>people/P1503.html</ProfilePage>
       <Parents>
@@ -9283,6 +9951,7 @@
       <FullName>Mary WHITEWAY</FullName>
       <LifeDates>1783-????</LifeDates>
       <Birth>1783</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000504.html</PrimaryTreePage>
       <ProfilePage>people/P1504.html</ProfilePage>
       <Parents>
@@ -9298,6 +9967,7 @@
       <GivenNames>Mary</GivenNames>
       <FullName>Mary WHITEWAY</FullName>
       <LifeDates>????-1650</LifeDates>
+      <Birth>????</Birth>
       <Death>1650</Death>
       <PrimaryTreePage>tree/00000511.html</PrimaryTreePage>
       <ProfilePage>people/P1505.html</ProfilePage>
@@ -9312,6 +9982,7 @@
       <FullName>Philip WHITEWAY</FullName>
       <LifeDates>1799-????</LifeDates>
       <Birth>1799</Birth>
+      <Death>????</Death>
       <Notes>drowned at sea</Notes>
       <PrimaryTreePage>tree/00000504.html</PrimaryTreePage>
       <ProfilePage>people/00000492.html</ProfilePage>
@@ -9325,6 +9996,7 @@
       <GivenNames>Richard</GivenNames>
       <FullName>Richard WHITEWAY</FullName>
       <LifeDates>????-1582</LifeDates>
+      <Birth>????</Birth>
       <Death>1582</Death>
       <PrimaryTreePage>tree/00000495.html</PrimaryTreePage>
       <ProfilePage>people/00000494.html</ProfilePage>
@@ -9340,6 +10012,7 @@
       <GivenNames>Richard</GivenNames>
       <FullName>Richard WHITEWAY</FullName>
       <LifeDates>????-1565</LifeDates>
+      <Birth>????</Birth>
       <Death>1565</Death>
       <PrimaryTreePage>tree/00000495.html</PrimaryTreePage>
       <ProfilePage>people/00000495.html</ProfilePage>
@@ -9374,6 +10047,7 @@
       <GivenNames>Richard</GivenNames>
       <FullName>Richard WHITEWAY</FullName>
       <LifeDates>????-1659</LifeDates>
+      <Birth>????</Birth>
       <Death>1659</Death>
       <PrimaryTreePage>tree/00000511.html</PrimaryTreePage>
       <ProfilePage>people/P1506.html</ProfilePage>
@@ -9435,6 +10109,8 @@
       <GivenNames>Richwarda (Peggy)</GivenNames>
       <FullName>Richwarda (Peggy) WHITEWAY</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000502.html</PrimaryTreePage>
       <ProfilePage>people/P1509.html</ProfilePage>
       <Parents>
@@ -9451,6 +10127,7 @@
       <FullName>Richwarde WHITEWAY</FullName>
       <LifeDates>1691-????</LifeDates>
       <Birth>1691</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000506.html</PrimaryTreePage>
       <ProfilePage>people/P1510.html</ProfilePage>
       <Parents>
@@ -9674,6 +10351,7 @@
       <FullName>William WHITEWAY</FullName>
       <LifeDates>1685-????</LifeDates>
       <Birth>1685</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000506.html</PrimaryTreePage>
       <ProfilePage>people/P1514.html</ProfilePage>
       <Parents>
@@ -9734,6 +10412,7 @@
       <FullName>Alice WHITFIELD</FullName>
       <LifeDates>1795-????</LifeDates>
       <Birth>1795</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000532.html</PrimaryTreePage>
       <ProfilePage>people/P1518.html</ProfilePage>
       <Parents>
@@ -9750,6 +10429,7 @@
       <FullName>Ann WHITFIELD</FullName>
       <LifeDates>1789-????</LifeDates>
       <Birth>1789</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000532.html</PrimaryTreePage>
       <ProfilePage>people/P1519.html</ProfilePage>
       <Parents>
@@ -9808,6 +10488,7 @@
       <FullName>Ernest Albert WHITFIELD</FullName>
       <LifeDates>1864-????</LifeDates>
       <Birth>1864</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000545.html</PrimaryTreePage>
       <ProfilePage>people/P1523.html</ProfilePage>
       <Spouses>
@@ -9818,7 +10499,7 @@
       <Surname>WHITFIELD</Surname>
       <GivenNames>Evelyn Mary</GivenNames>
       <FullName>Evelyn Mary WHITFIELD</FullName>
-      <LifeDates>1907 Dec 8th-1964</LifeDates>
+      <LifeDates>1907-1964</LifeDates>
       <Birth>1907 Dec 8th, Claygate</Birth>
       <Death>1964, London</Death>
       <Marriage>1928 July 7th 1928</Marriage>
@@ -9997,6 +10678,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John WHITFIELD</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000532.html</PrimaryTreePage>
       <ProfilePage>people/00000533.html</ProfilePage>
       <Parents>
@@ -10040,6 +10723,7 @@
       <GivenNames>John</GivenNames>
       <FullName>John WHITFIELD</FullName>
       <LifeDates>????-1843</LifeDates>
+      <Birth>????</Birth>
       <Death>1843</Death>
       <PrimaryTreePage>tree/00000532.html</PrimaryTreePage>
       <ProfilePage>people/P1531.html</ProfilePage>
@@ -10107,6 +10791,7 @@
       <FullName>Mary WHITFIELD</FullName>
       <LifeDates>1787-????</LifeDates>
       <Birth>1787</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000532.html</PrimaryTreePage>
       <ProfilePage>people/P1535.html</ProfilePage>
       <Parents>
@@ -10134,6 +10819,7 @@
       <FullName>Patricia Jane WHITFIELD</FullName>
       <LifeDates>1936-????</LifeDates>
       <Birth>1936</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000113.html</PrimaryTreePage>
       <ProfilePage>people/P1537.html</ProfilePage>
       <Parents>
@@ -10273,6 +10959,8 @@
       <GivenNames>Euphemia</GivenNames>
       <FullName>Euphemia WIGHT</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000280.html</PrimaryTreePage>
       <ProfilePage>people/P1544.html</ProfilePage>
       <Spouses>
@@ -10284,6 +10972,8 @@
       <GivenNames>Grace</GivenNames>
       <FullName>Grace WILLIS</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000311.html</PrimaryTreePage>
       <ProfilePage>people/P1545.html</ProfilePage>
       <Spouses>
@@ -10342,6 +11032,8 @@
       <GivenNames>John</GivenNames>
       <FullName>John WINRAME</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000381.html</PrimaryTreePage>
       <ProfilePage>people/P1547.html</ProfilePage>
     </Person>
@@ -10351,6 +11043,7 @@
       <FullName>Jean WOODS</FullName>
       <LifeDates>1916-????</LifeDates>
       <Birth>1916</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000229.html</PrimaryTreePage>
       <ProfilePage>people/P1548.html</ProfilePage>
       <Spouses>
@@ -10362,6 +11055,8 @@
       <GivenNames>H</GivenNames>
       <FullName>H YOUNG</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000435.html</PrimaryTreePage>
       <ProfilePage>people/P1549.html</ProfilePage>
       <Spouses>
@@ -10374,6 +11069,8 @@
       <GivenNames>Helen</GivenNames>
       <FullName>Helen YOUNG</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000261.html</PrimaryTreePage>
       <ProfilePage>people/00000555.html</ProfilePage>
       <Spouses>
@@ -10392,6 +11089,7 @@
       <GivenNames>Agnes</GivenNames>
       <FullName>Agnes (??)</FullName>
       <LifeDates>????-1653</LifeDates>
+      <Birth>????</Birth>
       <Death>1653</Death>
       <PrimaryTreePage>tree/00000468.html</PrimaryTreePage>
       <ProfilePage>people/00000004.html</ProfilePage>
@@ -10408,6 +11106,8 @@
       <GivenNames>An Indian Woman</GivenNames>
       <FullName>An Indian Woman (??)</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000415.html</PrimaryTreePage>
       <ProfilePage>people/P1553.html</ProfilePage>
       <Spouses>
@@ -10422,6 +11122,8 @@
       <GivenNames>Brenda</GivenNames>
       <FullName>Brenda (??)</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000011.html</PrimaryTreePage>
       <ProfilePage>people/P1550.html</ProfilePage>
       <Spouses>
@@ -10433,6 +11135,7 @@
       <GivenNames>Elinor</GivenNames>
       <FullName>Elinor (??)</FullName>
       <LifeDates>????-1696</LifeDates>
+      <Birth>????</Birth>
       <Death>1696</Death>
       <PrimaryTreePage>tree/00000118.html</PrimaryTreePage>
       <ProfilePage>people/00000001.html</ProfilePage>
@@ -10451,6 +11154,8 @@
       <GivenNames>Elizabeth</GivenNames>
       <FullName>Elizabeth (??)</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000468.html</PrimaryTreePage>
       <ProfilePage>people/P1555.html</ProfilePage>
       <Spouses>
@@ -10462,6 +11167,7 @@
       <GivenNames>Grace</GivenNames>
       <FullName>Grace (??)</FullName>
       <LifeDates>????-1633</LifeDates>
+      <Birth>????</Birth>
       <Death>1633</Death>
       <PrimaryTreePage>tree/00000511.html</PrimaryTreePage>
       <ProfilePage>people/00000002.html</ProfilePage>
@@ -10481,6 +11187,7 @@
       <GivenNames>Joan</GivenNames>
       <FullName>Joan (??)</FullName>
       <LifeDates>????-1663</LifeDates>
+      <Birth>????</Birth>
       <Death>1663</Death>
       <PrimaryTreePage>tree/00000468.html</PrimaryTreePage>
       <ProfilePage>people/00000003.html</ProfilePage>
@@ -10501,6 +11208,8 @@
       <GivenNames>Joan</GivenNames>
       <FullName>Joan (??)</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000120.html</PrimaryTreePage>
       <ProfilePage>people/00000614.html</ProfilePage>
       <Spouses>
@@ -10517,6 +11226,8 @@
       <GivenNames>Johanna</GivenNames>
       <FullName>Johanna (??)</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000122.html</PrimaryTreePage>
       <ProfilePage>people/P1551.html</ProfilePage>
       <Spouses>
@@ -10528,6 +11239,8 @@
       <GivenNames>Margaret</GivenNames>
       <FullName>Margaret (??)</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <Notes>d. of Christian 1 of Denmark</Notes>
       <ProfilePage>people/00000694.html</ProfilePage>
       <Spouses>
@@ -10539,6 +11252,8 @@
       <GivenNames>Mary</GivenNames>
       <FullName>Mary (??)</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000118.html</PrimaryTreePage>
       <ProfilePage>people/00000005.html</ProfilePage>
       <Spouses>
@@ -10556,6 +11271,8 @@
       <GivenNames>Rannald</GivenNames>
       <FullName>Rannald (??)</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <PrimaryTreePage>tree/00000380.html</PrimaryTreePage>
       <ProfilePage>people/P1552.html</ProfilePage>
       <Spouses>
@@ -10567,6 +11284,8 @@
       <GivenNames>Sarah</GivenNames>
       <FullName>Sarah (??)</FullName>
       <LifeDates>????-????</LifeDates>
+      <Birth>????</Birth>
+      <Death>????</Death>
       <ProfilePage>people/P1556.html</ProfilePage>
       <Spouses>
         <Spouse ref="P1155">Alp Arslan HALL</Spouse>

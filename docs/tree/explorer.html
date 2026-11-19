@@ -105,7 +105,8 @@
 
         rootSelect.innerHTML = allList.map(function(p) {
           const star = p.da ? "★ " : "";
-          return '<option value="' + p.id + '">' + star + p.sn + ', ' + p.cn + ' (' + p.dates + ') [Gen ' + p.gen + ']</option>';
+          const dt = p.dates ? " (" + p.dates + ")" : "";
+          return '<option value="' + p.id + '">' + star + p.sn + ', ' + p.cn + dt + ' [Gen ' + p.gen + ']</option>';
         }).join("");
 
         const params = new URLSearchParams(window.location.search);

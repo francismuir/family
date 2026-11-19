@@ -1442,7 +1442,8 @@ def generate_interactive_explorer(ds):
 
         rootSelect.innerHTML = allList.map(function(p) {
           const star = p.da ? "★ " : "";
-          return '<option value="' + p.id + '">' + star + p.sn + ', ' + p.cn + ' (' + p.dates + ') [Gen ' + p.gen + ']</option>';
+          const dt = p.dates ? " (" + p.dates + ")" : "";
+          return '<option value="' + p.id + '">' + star + p.sn + ', ' + p.cn + dt + ' [Gen ' + p.gen + ']</option>';
         }).join("");
 
         const params = new URLSearchParams(window.location.search);
@@ -1647,13 +1648,19 @@ def generate_person_pages(ds):
             for k, v in fields
         )
 
+        dates_span = (
+            f' <span style="font-weight:400;color:var(--text-muted);font-size:1.35rem;">({esc(p["dates"])})</span>'
+            if p["dates"]
+            else ""
+        )
+
         body = f"""
         <div class="page-header">
           <div>
             <div class="breadcrumbs">
               <a href="../index.html">Home</a> · <a href="indexall.html">All People</a> · {esc(disp_name)}
             </div>
-            <h1>{esc(disp_name)} <span style="font-weight:400;color:var(--text-muted);font-size:1.35rem;">({esc(p['dates'])})</span></h1>
+            <h1>{esc(disp_name)}{dates_span}</h1>
             <div style="display:flex;gap:0.45rem;flex-wrap:wrap;margin-top:0.4rem;">
               {"".join(badges)}
             </div>

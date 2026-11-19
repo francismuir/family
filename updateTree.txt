@@ -1,0 +1,132 @@
+===============================================================================
+HOW TO UPDATE THE MUIR FAMILY TREE WEBSITE & DATA EXPORTS
+===============================================================================
+
+Your Master Database is the Excel spreadsheet:
+    exports/muir_family_tree.xlsx
+
+Whenever you edit that Excel file and run "Update Website.command", it
+automatically updates:
+  - The entire website in docs/ (all 696+ person pages, 3-generation trees,
+    indexes, and the Interactive Tree Explorer)
+  - The Ancestry.co.uk GEDCOM file (exports/muir_family_tree.ged)
+  - All CSV, XML, and JSON exports in exports/ and docs/exports/
+
+
+-------------------------------------------------------------------------------
+STEP 1: OPEN THE MASTER EXCEL SPREADSHEET
+-------------------------------------------------------------------------------
+1. Open the folder:
+   Documents/Data/Projects/Family Tree/exports/
+2. Open "muir_family_tree.xlsx" in Microsoft Excel.
+3. Make sure you are on the first worksheet tab: "People".
+   (Note: There is also a "How to Edit" tab inside the spreadsheet for quick
+   reference.)
+
+
+-------------------------------------------------------------------------------
+STEP 2A: HOW TO EDIT AN EXISTING PERSON
+-------------------------------------------------------------------------------
+1. On the "People" tab, find the row for the person you want to update
+   (you can use Cmd + F in Excel to search by name or Person_ID).
+2. Edit any of the following columns directly:
+   - Surname          (e.g. MUIR)
+   - Given_Names      (e.g. Richard Francis)
+   - Birth            (e.g. 1930 July 25th)
+   - Death            - Enter a year/date if known (e.g. 2019) -> shows 1930-2019
+                      - Leave BLANK if the person is alive     -> shows 1961-
+                      - Enter ???? if deceased, year unknown   -> shows 1737-????
+   - Marriage         (e.g. 1958 June 14th)
+   - Profession       (e.g. Home Civil Service)
+   - Notes            (any biographical notes or details)
+
+   TIP ON DATES:
+   "Life_Dates" (and all tree boxes) are automatically generated from the
+   "Birth" and "Death" columns whenever you rebuild:
+     * Blank Death year  = assumed alive (e.g. 1961-)
+     * ???? in Death     = deceased, death year unknown (e.g. 1737-????)
+     * Year in Death     = deceased with known year (e.g. 1930-2019)
+
+
+-------------------------------------------------------------------------------
+STEP 2B: HOW TO ADD A NEW CHILD
+-------------------------------------------------------------------------------
+1. Scroll to the first blank row at the bottom of the "People" tab.
+2. Fill in these columns for the new child:
+   - Surname          (e.g. MUIR)
+   - Given_Names      (e.g. Thomas Edward)
+   - Direct_Ancestor  Enter "Yes" or "No" (usually "No" for new descendants)
+   - Gender           Enter "M" or "F"
+   - Birth            (e.g. 2024 May 12, London)
+   - Death            (leave blank if living)
+   - Profession       (optional)
+   - Notes            (optional)
+   - Parent_IDs       Enter the Person_ID(s) of the parent(s) from Column A,
+                      separated by a semicolon (;).
+                      Example:  00000242; 00000333
+                      (Tip: You can find the parents' Person_IDs by searching
+                      for the parents' rows on the "People" tab.)
+
+   WHAT YOU CAN LEAVE BLANK:
+   You can leave "Person_ID", "Full_Name", "Generation", "Life_Dates",
+   "Parent_Names", and the parents' "Child_IDs" blank.
+   When you run the update script, it will automatically:
+     - Assign a new unique Person_ID (e.g. P1501)
+     - Calculate their Generation number (one generation below their parents)
+     - Link them to both parents and all siblings
+     - Create their own profile page (docs/people/P1501.html)
+     - Add their box and connecting lines onto their parents' 3-generation
+       family tree chart.
+
+
+-------------------------------------------------------------------------------
+STEP 2C: HOW TO ADD A NEW SPOUSE OR PARTNER
+-------------------------------------------------------------------------------
+1. Scroll to the first blank row at the bottom of the "People" tab.
+2. Fill in these columns for the new spouse/partner:
+   - Surname          (their surname / maiden name)
+   - Given_Names      (their given names)
+   - Direct_Ancestor  "No" (or "Yes" if a direct ancestor)
+   - Gender           "M" or "F"
+   - Birth            (optional)
+   - Death            (optional)
+   - Marriage         (e.g. 2023 August 10th)
+   - Profession       (optional)
+   - Notes            (optional)
+   - Spouse_IDs       Enter their partner's Person_ID from Column A
+                      (for example: 00000567 or 00000568).
+
+   WHAT YOU CAN LEAVE BLANK:
+   Leave "Person_ID", "Generation", and "Life_Dates" blank — the script will
+   fill them in automatically and link both partners to each other.
+
+
+-------------------------------------------------------------------------------
+STEP 3: SAVE EXCEL & REBUILD THE WEBSITE
+-------------------------------------------------------------------------------
+1. Save your changes in Excel (Cmd + S).
+2. Open your main project folder in Finder:
+   Documents/Data/Projects/Family Tree/
+3. Double-click:
+   Update Website.command
+4. A Terminal window will open and rebuild all website pages and GEDCOM/data
+   exports in about 2 seconds.
+5. At the end, it will ask:
+   "Would you also like to commit and publish these updates to
+    https://francismuir.github.io/family/ now? (y/n)"
+   - Press "y" to automatically commit and push your updated website to GitHub
+     Pages (it goes live on https://francismuir.github.io/family/ in ~1 minute).
+   - Or press "n" if you only want to view the changes locally on your Mac first
+     (open docs/index.html in your browser to preview).
+
+
+-------------------------------------------------------------------------------
+ALTERNATIVE: ASK THE AI ASSISTANT TO DO IT FOR YOU
+-------------------------------------------------------------------------------
+If you prefer not to edit the spreadsheet yourself, or if you have already
+saved changes in Excel and want the assistant to check, rebuild, commit, and
+push everything to GitHub:
+1. Open this project in Antigravity.
+2. Tell the assistant in chat what you want updated (for example:
+   "Add a child named ... to ..." or "I updated the Excel file, please rebuild
+   and push to GitHub").

@@ -478,6 +478,7 @@ def build_dataset():
                     person["birth"] = b_part
                 if d_part and d_part != "????" and d_part != "?":
                     person["death"] = d_part
+        person["dates"] = compute_life_dates(person["birth"], person["death"])
 
     # 4. Parse misc/notes.html
     notes_map = {}
@@ -1161,6 +1162,8 @@ def extract_year_label(date_str):
     if not date_str:
         return ""
     s = date_str.strip()
+    if re.match(r"^\?+$", s):
+        return "????"
     m = re.search(r"\b(1[4-9]\d\d(?:/\d{1,2})?|20\d\d)\b", s)
     if m:
         prefix = "c" if re.match(r"^c\.?\s*\d", s, re.I) else ""
@@ -1174,10 +1177,10 @@ def compute_life_dates(birth_str, death_str):
     if b_yr and d_yr:
         return f"{b_yr}-{d_yr}"
     elif b_yr and not d_yr:
-        return f"{b_yr}-????"
+        return f"{b_yr}-"
     elif not b_yr and d_yr:
         return f"????-{d_yr}"
-    return "????-????"
+    return ""
 
 
 def apply_excel_overrides(ds, xlsx_path):
@@ -1246,13 +1249,8 @@ def apply_excel_overrides(ds, xlsx_path):
             old_b, old_d, old_dates = orig["birth"], orig["death"], orig["dates"]
             old_cn, old_sn = orig["cname"], orig["surname"]
 
-            # Automatically recompute Life_Dates if Birth or Death changed and Life_Dates wasn't manually changed
-            if (birth != old_b or death != old_d) and (life_dates == old_dates or not life_dates):
-                life_dates = compute_life_dates(birth, death)
-            elif death and life_dates.endswith("-????"):
-                life_dates = compute_life_dates(birth, death)
-            elif not life_dates:
-                life_dates = old_dates or compute_life_dates(birth, death)
+            # Compute Life_Dates strictly from Birth and Death (blank Death -> 'YYYY-', explicit '????' in Death -> 'YYYY-????')
+            life_dates = compute_life_dates(birth, death)
 
             if (
                 sn != old_sn
@@ -1285,8 +1283,7 @@ def apply_excel_overrides(ds, xlsx_path):
                 if tid not in orig["trees_appeared"]:
                     orig["trees_appeared"].append(tid)
         else:
-            if not life_dates or (death and life_dates.endswith("-????")):
-                life_dates = compute_life_dates(birth, death)
+            life_dates = compute_life_dates(birth, death)
             if sex not in ("M", "F"):
                 sex = infer_gender(cn, prof + " " + notes)
             people[pid] = {
@@ -1461,17 +1458,17 @@ def apply_excel_overrides(ds, xlsx_path):
                     )
     ds["families"] = new_families
 
-    # Update direct_index_order dates for updated direct ancestors
+    # Update direct_index_order dates for all direct ancestors
     ds["direct_index_order"] = [
         (
             ref_txt,
             pid,
-            people[pid]["dates"] if pid in updated_pids and pid in people else dates_txt,
+            people[pid]["dates"] if pid in people and people[pid]["dates"] else dates_txt,
         )
         for ref_txt, pid, dates_txt in direct_index_order
     ]
 
-    # Update 3-generation tree cards for edited people AND append any newly added spouses/children
+    # Update 3-generation tree cards for all people AND append any newly added spouses/children
     for tid, tdata in trees.items():
         existing_tree_pids = set()
         for grow in tdata["rows"]:
@@ -1480,15 +1477,19 @@ def apply_excel_overrides(ds, xlsx_path):
                     spid = seg.get("pid")
                     if spid:
                         existing_tree_pids.add(spid)
-                    if spid and spid in updated_pids and spid in people:
+                    if spid and spid in people:
                         up_p = people[spid]
                         disp_name = (
                             f"{up_p['cname']} {up_p['surname']}".strip()
                             if up_p["surname"] != "??"
                             else up_p["cname"]
                         )
-                        seg["lines"] = [disp_name, f"({up_p['dates']})"]
-                        seg["text"] = f"{disp_name} ({up_p['dates']})"
+                        if up_p["dates"]:
+                            seg["lines"] = [disp_name, f"({up_p['dates']})"]
+                            seg["text"] = f"{disp_name} ({up_p['dates']})"
+                        else:
+                            seg["lines"] = [disp_name]
+                            seg["text"] = disp_name
 
         # Check if any primary node on this tree has a newly added spouse or newly added child
         for r_idx, grow in enumerate(list(tdata["rows"])):
